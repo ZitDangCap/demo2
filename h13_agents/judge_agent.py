@@ -31,7 +31,7 @@ Bạn sẽ nhận:
 
 - Câu hỏi.
 - Danh sách Candidate Nodes.
-- Consensus Score của từng node.
+- Consensus Score của từng node. Hãy tham khảo điểm này để củng cố đánh giá của bạn.
 
 Nhiệm vụ:
 
@@ -45,10 +45,9 @@ KHÔNG trả lời câu hỏi.
 Output DUY NHẤT là JSON.
 
 [
-  {
+    {
     "node_id":"...",
-    "reason":"..."
-  }
+    }
 ]
 """
 

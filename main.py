@@ -12,6 +12,7 @@ from h11_graph_expansion import expand_subgraph_raw
 from h13_agents.literal_agent import LiteralAgent
 from h13_agents.semantic_agent import SemanticAgent
 from h13_agents.exception_agent import ExceptionAgent
+from h13_agents.judge_agent import judge
 
 from h14_consensus import consensus
 from h15_filter import filter_consensus
@@ -141,6 +142,11 @@ def run_pipeline(question: str):
 
     print(f"-> Giữ lại {len(filtered_nodes)} Candidate Nodes.")
 
+    print("\n Judge đang chọn Context...")
+
+    judge_result = judge.run(question)
+
+    print("-> Judge hoàn tất.")
     return {
         "literal": literal_result,
         "semantic": semantic_result,
