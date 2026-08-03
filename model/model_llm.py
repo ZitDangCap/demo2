@@ -12,7 +12,7 @@ class LLMModel:
 
     def __init__(
         self,
-        model_name: str = "qwen3:4b",
+        model_name: str = "Qwen/Qwen2.5-3B-Instruct",
         host: str = "http://localhost:11434"
     ):
         print(f"[LLM] Connecting to Ollama ({host})...")
