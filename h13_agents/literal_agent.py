@@ -85,12 +85,10 @@ Giữ nguyên chính xác node_id được cung cấp.
   {
     "node_id": "<node_id_1>",
     "score": 10,
-    "reason": "..."
   },
   {
     "node_id": "<node_id_2>",
     "score": 3,
-    "reason": "..."
   }
 ]
 
