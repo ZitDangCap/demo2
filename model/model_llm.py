@@ -33,7 +33,7 @@ class LLMModel:
         system_prompt: str,
         user_prompt: str,
         temperature: float = 0.2,
-        max_new_tokens: int = 256
+        max_new_tokens: int = 512
     ) -> str:
         """
         Sinh câu trả lời từ LLM.

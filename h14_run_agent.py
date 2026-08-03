@@ -44,7 +44,7 @@ def run_pipeline(question: str):
     graph_result = expand_subgraph_raw(
         G=graph.graph,
         seed_nodes=seed_nodes,
-        max_hops=2,
+        max_hops=1,
         max_neighbors=10,
         max_nodes=100
     )
