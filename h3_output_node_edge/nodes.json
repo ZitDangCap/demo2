@@ -1,0 +1,5541 @@
+[
+  {
+    "id": "section:chapter I",
+    "type": "section",
+    "title": "chapter I",
+    "path": [
+      "chapter I"
+    ]
+  },
+  {
+    "id": "section:chapter I|article 1",
+    "type": "section",
+    "title": "article 1",
+    "path": [
+      "chapter I",
+      "article 1"
+    ]
+  },
+  {
+    "id": "chunk:chapter I|article 1:1",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 1"
+    ],
+    "chunk_id": 1,
+    "text": "# **Điều 1. Phạm vi điều chỉnh** Luật này quy định về người nộp thuế, thu nhập chịu thuế, thu nhập được miễn thuế, giảm thuế và căn cứ tính",
+    "embedding_text": "[chapter I | article 1] # **Điều 1. Phạm vi điều chỉnh** Luật này quy định về người nộp thuế, thu nhập chịu thuế, thu nhập được miễn thuế, giảm thuế và căn cứ tính"
+  },
+  {
+    "id": "chunk:chapter I|article 1:2",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 1"
+    ],
+    "chunk_id": 2,
+    "text": "thuế và căn cứ tính thuế thu nhập cá nhân.",
+    "embedding_text": "[chapter I | article 1] thuế và căn cứ tính thuế thu nhập cá nhân."
+  },
+  {
+    "id": "section:chapter I|article 2",
+    "type": "section",
+    "title": "article 2",
+    "path": [
+      "chapter I",
+      "article 2"
+    ]
+  },
+  {
+    "id": "section:chapter I|article 2|clause 1",
+    "type": "section",
+    "title": "clause 1",
+    "path": [
+      "chapter I",
+      "article 2",
+      "clause 1"
+    ]
+  },
+  {
+    "id": "chunk:chapter I|article 2|clause 1:1",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 2",
+      "clause 1"
+    ],
+    "chunk_id": 1,
+    "text": "1. Người nộp thuế thu nhập cá nhân là cá nhân cư trú có thu nhập chịu thuế quy định tại Điều 3 của Luật này phát sinh trong và",
+    "embedding_text": "[chapter I | article 2 | clause 1] 1. Người nộp thuế thu nhập cá nhân là cá nhân cư trú có thu nhập chịu thuế quy định tại Điều 3 của Luật này phát sinh trong và"
+  },
+  {
+    "id": "chunk:chapter I|article 2|clause 1:2",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 2",
+      "clause 1"
+    ],
+    "chunk_id": 2,
+    "text": "này phát sinh trong và ngoài lãnh thổ Việt Nam và cá nhân không cư trú có thu nhập chịu thuế quy định tại Điều 3 của Luật này phát",
+    "embedding_text": "[chapter I | article 2 | clause 1] này phát sinh trong và ngoài lãnh thổ Việt Nam và cá nhân không cư trú có thu nhập chịu thuế quy định tại Điều 3 của Luật này phát"
+  },
+  {
+    "id": "chunk:chapter I|article 2|clause 1:3",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 2",
+      "clause 1"
+    ],
+    "chunk_id": 3,
+    "text": "3 của Luật này phát sinh trong lãnh thổ Việt Nam.",
+    "embedding_text": "[chapter I | article 2 | clause 1] 3 của Luật này phát sinh trong lãnh thổ Việt Nam."
+  },
+  {
+    "id": "section:chapter I|article 2|clause 2",
+    "type": "section",
+    "title": "clause 2",
+    "path": [
+      "chapter I",
+      "article 2",
+      "clause 2"
+    ]
+  },
+  {
+    "id": "section:chapter I|article 2|clause 2|point a",
+    "type": "section",
+    "title": "point a",
+    "path": [
+      "chapter I",
+      "article 2",
+      "clause 2",
+      "point a"
+    ]
+  },
+  {
+    "id": "chunk:chapter I|article 2|clause 2|point a:1",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 2",
+      "clause 2",
+      "point a"
+    ],
+    "chunk_id": 1,
+    "text": "a) Có mặt tại Việt Nam từ 183 ngày trở lên tính trong 01 năm dương lịch hoặc tính theo 12 tháng liên tục kể từ ngày đầu tiên có",
+    "embedding_text": "[chapter I | article 2 | clause 2 | point a] a) Có mặt tại Việt Nam từ 183 ngày trở lên tính trong 01 năm dương lịch hoặc tính theo 12 tháng liên tục kể từ ngày đầu tiên có"
+  },
+  {
+    "id": "chunk:chapter I|article 2|clause 2|point a:2",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 2",
+      "clause 2",
+      "point a"
+    ],
+    "chunk_id": 2,
+    "text": "từ ngày đầu tiên có mặt tại Việt Nam;",
+    "embedding_text": "[chapter I | article 2 | clause 2 | point a] từ ngày đầu tiên có mặt tại Việt Nam;"
+  },
+  {
+    "id": "section:chapter I|article 2|clause 2|point b",
+    "type": "section",
+    "title": "point b",
+    "path": [
+      "chapter I",
+      "article 2",
+      "clause 2",
+      "point b"
+    ]
+  },
+  {
+    "id": "chunk:chapter I|article 2|clause 2|point b:1",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 2",
+      "clause 2",
+      "point b"
+    ],
+    "chunk_id": 1,
+    "text": "b) Có nơi ở thường xuyên tại Việt Nam, bao gồm có nơi ở đăng ký thường trú hoặc có nhà thuê để ở tại Việt Nam theo hợp đồng",
+    "embedding_text": "[chapter I | article 2 | clause 2 | point b] b) Có nơi ở thường xuyên tại Việt Nam, bao gồm có nơi ở đăng ký thường trú hoặc có nhà thuê để ở tại Việt Nam theo hợp đồng"
+  },
+  {
+    "id": "chunk:chapter I|article 2|clause 2|point b:2",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 2",
+      "clause 2",
+      "point b"
+    ],
+    "chunk_id": 2,
+    "text": "Việt Nam theo hợp đồng thuê có thời hạn.",
+    "embedding_text": "[chapter I | article 2 | clause 2 | point b] Việt Nam theo hợp đồng thuê có thời hạn."
+  },
+  {
+    "id": "section:chapter I|article 2|clause 3",
+    "type": "section",
+    "title": "clause 3",
+    "path": [
+      "chapter I",
+      "article 2",
+      "clause 3"
+    ]
+  },
+  {
+    "id": "chunk:chapter I|article 2|clause 3:1",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 2",
+      "clause 3"
+    ],
+    "chunk_id": 1,
+    "text": "3. Cá nhân không cư trú là người không đáp ứng điều kiện quy định tại khoản 2 Điều này.",
+    "embedding_text": "[chapter I | article 2 | clause 3] 3. Cá nhân không cư trú là người không đáp ứng điều kiện quy định tại khoản 2 Điều này."
+  },
+  {
+    "id": "section:chapter I|article 2|clause 4",
+    "type": "section",
+    "title": "clause 4",
+    "path": [
+      "chapter I",
+      "article 2",
+      "clause 4"
+    ]
+  },
+  {
+    "id": "chunk:chapter I|article 2|clause 4:1",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 2",
+      "clause 4"
+    ],
+    "chunk_id": 1,
+    "text": "4. Chính phủ quy định chi tiết Điều này.",
+    "embedding_text": "[chapter I | article 2 | clause 4] 4. Chính phủ quy định chi tiết Điều này."
+  },
+  {
+    "id": "section:chapter I|article 3",
+    "type": "section",
+    "title": "article 3",
+    "path": [
+      "chapter I",
+      "article 3"
+    ]
+  },
+  {
+    "id": "section:chapter I|article 3|clause 1",
+    "type": "section",
+    "title": "clause 1",
+    "path": [
+      "chapter I",
+      "article 3",
+      "clause 1"
+    ]
+  },
+  {
+    "id": "section:chapter I|article 3|clause 1|point a",
+    "type": "section",
+    "title": "point a",
+    "path": [
+      "chapter I",
+      "article 3",
+      "clause 1",
+      "point a"
+    ]
+  },
+  {
+    "id": "chunk:chapter I|article 3|clause 1|point a:1",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 3",
+      "clause 1",
+      "point a"
+    ],
+    "chunk_id": 1,
+    "text": "a) Thu nhập từ hoạt động sản xuất, kinh doanh hàng hoá, dịch vụ;",
+    "embedding_text": "[chapter I | article 3 | clause 1 | point a] a) Thu nhập từ hoạt động sản xuất, kinh doanh hàng hoá, dịch vụ;"
+  },
+  {
+    "id": "section:chapter I|article 3|clause 1|point b",
+    "type": "section",
+    "title": "point b",
+    "path": [
+      "chapter I",
+      "article 3",
+      "clause 1",
+      "point b"
+    ]
+  },
+  {
+    "id": "chunk:chapter I|article 3|clause 1|point b:1",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 3",
+      "clause 1",
+      "point b"
+    ],
+    "chunk_id": 1,
+    "text": "b) Thu nhập từ hoạt động hành nghề độc lập của cá nhân có giấy phép hoặc chứng chỉ hành nghề theo quy định của pháp luật;",
+    "embedding_text": "[chapter I | article 3 | clause 1 | point b] b) Thu nhập từ hoạt động hành nghề độc lập của cá nhân có giấy phép hoặc chứng chỉ hành nghề theo quy định của pháp luật;"
+  },
+  {
+    "id": "section:chapter I|article 3|clause 1|point c",
+    "type": "section",
+    "title": "point c",
+    "path": [
+      "chapter I",
+      "article 3",
+      "clause 1",
+      "point c"
+    ]
+  },
+  {
+    "id": "chunk:chapter I|article 3|clause 1|point c:1",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 3",
+      "clause 1",
+      "point c"
+    ],
+    "chunk_id": 1,
+    "text": "c) Thu nhập từ hoạt động đại lý, môi giới, hợp tác kinh doanh với tổ chức;",
+    "embedding_text": "[chapter I | article 3 | clause 1 | point c] c) Thu nhập từ hoạt động đại lý, môi giới, hợp tác kinh doanh với tổ chức;"
+  },
+  {
+    "id": "section:chapter I|article 3|clause 1|point d",
+    "type": "section",
+    "title": "point d",
+    "path": [
+      "chapter I",
+      "article 3",
+      "clause 1",
+      "point d"
+    ]
+  },
+  {
+    "id": "chunk:chapter I|article 3|clause 1|point d:1",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 3",
+      "clause 1",
+      "point d"
+    ],
+    "chunk_id": 1,
+    "text": "d) Thu nhập từ hoạt động kinh doanh thương mại điện tử, kinh doanh dựa trên nền tảng số.",
+    "embedding_text": "[chapter I | article 3 | clause 1 | point d] d) Thu nhập từ hoạt động kinh doanh thương mại điện tử, kinh doanh dựa trên nền tảng số."
+  },
+  {
+    "id": "section:chapter I|article 3|clause 2",
+    "type": "section",
+    "title": "clause 2",
+    "path": [
+      "chapter I",
+      "article 3",
+      "clause 2"
+    ]
+  },
+  {
+    "id": "section:chapter I|article 3|clause 2|point a",
+    "type": "section",
+    "title": "point a",
+    "path": [
+      "chapter I",
+      "article 3",
+      "clause 2",
+      "point a"
+    ]
+  },
+  {
+    "id": "chunk:chapter I|article 3|clause 2|point a:1",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 3",
+      "clause 2",
+      "point a"
+    ],
+    "chunk_id": 1,
+    "text": "a) Tiền lương, tiền công và các khoản có tính chất tiền lương, tiền công;",
+    "embedding_text": "[chapter I | article 3 | clause 2 | point a] a) Tiền lương, tiền công và các khoản có tính chất tiền lương, tiền công;"
+  },
+  {
+    "id": "section:chapter I|article 3|clause 2|point b",
+    "type": "section",
+    "title": "point b",
+    "path": [
+      "chapter I",
+      "article 3",
+      "clause 2",
+      "point b"
+    ]
+  },
+  {
+    "id": "chunk:chapter I|article 3|clause 2|point b:1",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 3",
+      "clause 2",
+      "point b"
+    ],
+    "chunk_id": 1,
+    "text": "b) Tiền thù lao, các khoản lợi ích bằng tiền hoặc không bằng tiền dưới mọi hình thức;",
+    "embedding_text": "[chapter I | article 3 | clause 2 | point b] b) Tiền thù lao, các khoản lợi ích bằng tiền hoặc không bằng tiền dưới mọi hình thức;"
+  },
+  {
+    "id": "section:chapter I|article 3|clause 2|point c",
+    "type": "section",
+    "title": "point c",
+    "path": [
+      "chapter I",
+      "article 3",
+      "clause 2",
+      "point c"
+    ]
+  },
+  {
+    "id": "chunk:chapter I|article 3|clause 2|point c:1",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 3",
+      "clause 2",
+      "point c"
+    ],
+    "chunk_id": 1,
+    "text": "c) Các khoản phụ cấp, trợ cấp, thu nhập khác trừ các khoản: phụ cấp, trợ cấp theo quy định của pháp luật về ưu đãi người có công; phụ",
+    "embedding_text": "[chapter I | article 3 | clause 2 | point c] c) Các khoản phụ cấp, trợ cấp, thu nhập khác trừ các khoản: phụ cấp, trợ cấp theo quy định của pháp luật về ưu đãi người có công; phụ"
+  },
+  {
+    "id": "chunk:chapter I|article 3|clause 2|point c:2",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 3",
+      "clause 2",
+      "point c"
+    ],
+    "chunk_id": 2,
+    "text": "đãi người có công; phụ cấp quốc phòng, an ninh; phụ cấp độc hại, nguy hiểm đối với ngành, nghề hoặc công việc ở nơi làm việc có yếu tố",
+    "embedding_text": "[chapter I | article 3 | clause 2 | point c] đãi người có công; phụ cấp quốc phòng, an ninh; phụ cấp độc hại, nguy hiểm đối với ngành, nghề hoặc công việc ở nơi làm việc có yếu tố"
+  },
+  {
+    "id": "chunk:chapter I|article 3|clause 2|point c:3",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 3",
+      "clause 2",
+      "point c"
+    ],
+    "chunk_id": 3,
+    "text": "làm việc có yếu tố độc hại, nguy hiểm; phụ cấp thu hút, phụ cấp khu vực theo quy định của pháp luật; phụ cấp, trợ cấp, sinh hoạt phí",
+    "embedding_text": "[chapter I | article 3 | clause 2 | point c] làm việc có yếu tố độc hại, nguy hiểm; phụ cấp thu hút, phụ cấp khu vực theo quy định của pháp luật; phụ cấp, trợ cấp, sinh hoạt phí"
+  },
+  {
+    "id": "chunk:chapter I|article 3|clause 2|point c:4",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 3",
+      "clause 2",
+      "point c"
+    ],
+    "chunk_id": 4,
+    "text": "trợ cấp, sinh hoạt phí do cơ quan Việt Nam ở nước ngoài chi trả; trợ cấp khó khăn đột xuất, trợ cấp tai nạn lao động, bệnh nghề nghiệp,",
+    "embedding_text": "[chapter I | article 3 | clause 2 | point c] trợ cấp, sinh hoạt phí do cơ quan Việt Nam ở nước ngoài chi trả; trợ cấp khó khăn đột xuất, trợ cấp tai nạn lao động, bệnh nghề nghiệp,"
+  },
+  {
+    "id": "chunk:chapter I|article 3|clause 2|point c:5",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 3",
+      "clause 2",
+      "point c"
+    ],
+    "chunk_id": 5,
+    "text": "lao động, bệnh nghề nghiệp, trợ cấp một lần khi sinh con hoặc nhận nuôi con nuôi, trợ cấp do suy giảm khả năng lao động, trợ cấp hưu trí",
+    "embedding_text": "[chapter I | article 3 | clause 2 | point c] lao động, bệnh nghề nghiệp, trợ cấp một lần khi sinh con hoặc nhận nuôi con nuôi, trợ cấp do suy giảm khả năng lao động, trợ cấp hưu trí"
+  },
+  {
+    "id": "chunk:chapter I|article 3|clause 2|point c:6",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 3",
+      "clause 2",
+      "point c"
+    ],
+    "chunk_id": 6,
+    "text": "động, trợ cấp hưu trí một lần, trợ cấp tuất hàng tháng và các khoản trợ cấp khác theo quy định của pháp luật về bảo hiểm xã hội; trợ",
+    "embedding_text": "[chapter I | article 3 | clause 2 | point c] động, trợ cấp hưu trí một lần, trợ cấp tuất hàng tháng và các khoản trợ cấp khác theo quy định của pháp luật về bảo hiểm xã hội; trợ"
+  },
+  {
+    "id": "chunk:chapter I|article 3|clause 2|point c:7",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 3",
+      "clause 2",
+      "point c"
+    ],
+    "chunk_id": 7,
+    "text": "bảo hiểm xã hội; trợ cấp thôi việc, trợ cấp mất việc làm; trợ cấp mang tính chất bảo trợ xã hội và các khoản phụ cấp, trợ cấp, thu",
+    "embedding_text": "[chapter I | article 3 | clause 2 | point c] bảo hiểm xã hội; trợ cấp thôi việc, trợ cấp mất việc làm; trợ cấp mang tính chất bảo trợ xã hội và các khoản phụ cấp, trợ cấp, thu"
+  },
+  {
+    "id": "chunk:chapter I|article 3|clause 2|point c:8",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 3",
+      "clause 2",
+      "point c"
+    ],
+    "chunk_id": 8,
+    "text": "phụ cấp, trợ cấp, thu nhập khác không mang tính chất tiền lương, tiền công do Chính phủ quy định.",
+    "embedding_text": "[chapter I | article 3 | clause 2 | point c] phụ cấp, trợ cấp, thu nhập khác không mang tính chất tiền lương, tiền công do Chính phủ quy định."
+  },
+  {
+    "id": "section:chapter I|article 3|clause 3",
+    "type": "section",
+    "title": "clause 3",
+    "path": [
+      "chapter I",
+      "article 3",
+      "clause 3"
+    ]
+  },
+  {
+    "id": "section:chapter I|article 3|clause 3|point a",
+    "type": "section",
+    "title": "point a",
+    "path": [
+      "chapter I",
+      "article 3",
+      "clause 3",
+      "point a"
+    ]
+  },
+  {
+    "id": "chunk:chapter I|article 3|clause 3|point a:1",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 3",
+      "clause 3",
+      "point a"
+    ],
+    "chunk_id": 1,
+    "text": "a) Tiền lãi cho vay;",
+    "embedding_text": "[chapter I | article 3 | clause 3 | point a] a) Tiền lãi cho vay;"
+  },
+  {
+    "id": "section:chapter I|article 3|clause 3|point b",
+    "type": "section",
+    "title": "point b",
+    "path": [
+      "chapter I",
+      "article 3",
+      "clause 3",
+      "point b"
+    ]
+  },
+  {
+    "id": "chunk:chapter I|article 3|clause 3|point b:1",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 3",
+      "clause 3",
+      "point b"
+    ],
+    "chunk_id": 1,
+    "text": "b) Lợi tức cổ phần;",
+    "embedding_text": "[chapter I | article 3 | clause 3 | point b] b) Lợi tức cổ phần;"
+  },
+  {
+    "id": "section:chapter I|article 3|clause 3|point c",
+    "type": "section",
+    "title": "point c",
+    "path": [
+      "chapter I",
+      "article 3",
+      "clause 3",
+      "point c"
+    ]
+  },
+  {
+    "id": "chunk:chapter I|article 3|clause 3|point c:1",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 3",
+      "clause 3",
+      "point c"
+    ],
+    "chunk_id": 1,
+    "text": "c) Thu nhập từ đầu tư vốn dưới các hình thức khác.",
+    "embedding_text": "[chapter I | article 3 | clause 3 | point c] c) Thu nhập từ đầu tư vốn dưới các hình thức khác."
+  },
+  {
+    "id": "section:chapter I|article 3|clause 4",
+    "type": "section",
+    "title": "clause 4",
+    "path": [
+      "chapter I",
+      "article 3",
+      "clause 4"
+    ]
+  },
+  {
+    "id": "section:chapter I|article 3|clause 4|point a",
+    "type": "section",
+    "title": "point a",
+    "path": [
+      "chapter I",
+      "article 3",
+      "clause 4",
+      "point a"
+    ]
+  },
+  {
+    "id": "chunk:chapter I|article 3|clause 4|point a:1",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 3",
+      "clause 4",
+      "point a"
+    ],
+    "chunk_id": 1,
+    "text": "a) Thu nhập từ chuyển nhượng phần vốn trong các tổ chức kinh tế;",
+    "embedding_text": "[chapter I | article 3 | clause 4 | point a] a) Thu nhập từ chuyển nhượng phần vốn trong các tổ chức kinh tế;"
+  },
+  {
+    "id": "section:chapter I|article 3|clause 4|point b",
+    "type": "section",
+    "title": "point b",
+    "path": [
+      "chapter I",
+      "article 3",
+      "clause 4",
+      "point b"
+    ]
+  },
+  {
+    "id": "chunk:chapter I|article 3|clause 4|point b:1",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 3",
+      "clause 4",
+      "point b"
+    ],
+    "chunk_id": 1,
+    "text": "b) Thu nhập từ chuyển nhượng chứng khoán;",
+    "embedding_text": "[chapter I | article 3 | clause 4 | point b] b) Thu nhập từ chuyển nhượng chứng khoán;"
+  },
+  {
+    "id": "section:chapter I|article 3|clause 4|point c",
+    "type": "section",
+    "title": "point c",
+    "path": [
+      "chapter I",
+      "article 3",
+      "clause 4",
+      "point c"
+    ]
+  },
+  {
+    "id": "chunk:chapter I|article 3|clause 4|point c:1",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 3",
+      "clause 4",
+      "point c"
+    ],
+    "chunk_id": 1,
+    "text": "c) Thu nhập từ chuyển nhượng vốn dưới các hình thức khác.",
+    "embedding_text": "[chapter I | article 3 | clause 4 | point c] c) Thu nhập từ chuyển nhượng vốn dưới các hình thức khác."
+  },
+  {
+    "id": "section:chapter I|article 3|clause 5",
+    "type": "section",
+    "title": "clause 5",
+    "path": [
+      "chapter I",
+      "article 3",
+      "clause 5"
+    ]
+  },
+  {
+    "id": "section:chapter I|article 3|clause 5|point a",
+    "type": "section",
+    "title": "point a",
+    "path": [
+      "chapter I",
+      "article 3",
+      "clause 5",
+      "point a"
+    ]
+  },
+  {
+    "id": "chunk:chapter I|article 3|clause 5|point a:1",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 3",
+      "clause 5",
+      "point a"
+    ],
+    "chunk_id": 1,
+    "text": "a) Thu nhập từ chuyển nhượng quyền sử dụng đất và tài sản gắn liền với đất;",
+    "embedding_text": "[chapter I | article 3 | clause 5 | point a] a) Thu nhập từ chuyển nhượng quyền sử dụng đất và tài sản gắn liền với đất;"
+  },
+  {
+    "id": "section:chapter I|article 3|clause 5|point b",
+    "type": "section",
+    "title": "point b",
+    "path": [
+      "chapter I",
+      "article 3",
+      "clause 5",
+      "point b"
+    ]
+  },
+  {
+    "id": "chunk:chapter I|article 3|clause 5|point b:1",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 3",
+      "clause 5",
+      "point b"
+    ],
+    "chunk_id": 1,
+    "text": "b) Thu nhập từ chuyển nhượng quyền sở hữu hoặc sử dụng nhà ở;",
+    "embedding_text": "[chapter I | article 3 | clause 5 | point b] b) Thu nhập từ chuyển nhượng quyền sở hữu hoặc sử dụng nhà ở;"
+  },
+  {
+    "id": "section:chapter I|article 3|clause 5|point c",
+    "type": "section",
+    "title": "point c",
+    "path": [
+      "chapter I",
+      "article 3",
+      "clause 5",
+      "point c"
+    ]
+  },
+  {
+    "id": "chunk:chapter I|article 3|clause 5|point c:1",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 3",
+      "clause 5",
+      "point c"
+    ],
+    "chunk_id": 1,
+    "text": "c) Thu nhập từ chuyển nhượng quyền thuê đất, quyền thuê mặt nước;",
+    "embedding_text": "[chapter I | article 3 | clause 5 | point c] c) Thu nhập từ chuyển nhượng quyền thuê đất, quyền thuê mặt nước;"
+  },
+  {
+    "id": "section:chapter I|article 3|clause 5|point d",
+    "type": "section",
+    "title": "point d",
+    "path": [
+      "chapter I",
+      "article 3",
+      "clause 5",
+      "point d"
+    ]
+  },
+  {
+    "id": "chunk:chapter I|article 3|clause 5|point d:1",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 3",
+      "clause 5",
+      "point d"
+    ],
+    "chunk_id": 1,
+    "text": "d) Các khoản thu nhập khác nhận được từ chuyển nhượng bất động sản dưới mọi hình thức.",
+    "embedding_text": "[chapter I | article 3 | clause 5 | point d] d) Các khoản thu nhập khác nhận được từ chuyển nhượng bất động sản dưới mọi hình thức."
+  },
+  {
+    "id": "section:chapter I|article 3|clause 6",
+    "type": "section",
+    "title": "clause 6",
+    "path": [
+      "chapter I",
+      "article 3",
+      "clause 6"
+    ]
+  },
+  {
+    "id": "section:chapter I|article 3|clause 6|point a",
+    "type": "section",
+    "title": "point a",
+    "path": [
+      "chapter I",
+      "article 3",
+      "clause 6",
+      "point a"
+    ]
+  },
+  {
+    "id": "chunk:chapter I|article 3|clause 6|point a:1",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 3",
+      "clause 6",
+      "point a"
+    ],
+    "chunk_id": 1,
+    "text": "a) Trúng thưởng xổ số;",
+    "embedding_text": "[chapter I | article 3 | clause 6 | point a] a) Trúng thưởng xổ số;"
+  },
+  {
+    "id": "section:chapter I|article 3|clause 6|point b",
+    "type": "section",
+    "title": "point b",
+    "path": [
+      "chapter I",
+      "article 3",
+      "clause 6",
+      "point b"
+    ]
+  },
+  {
+    "id": "chunk:chapter I|article 3|clause 6|point b:1",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 3",
+      "clause 6",
+      "point b"
+    ],
+    "chunk_id": 1,
+    "text": "b) Trúng thưởng trong các hình thức khuyến mại;",
+    "embedding_text": "[chapter I | article 3 | clause 6 | point b] b) Trúng thưởng trong các hình thức khuyến mại;"
+  },
+  {
+    "id": "section:chapter I|article 3|clause 6|point c",
+    "type": "section",
+    "title": "point c",
+    "path": [
+      "chapter I",
+      "article 3",
+      "clause 6",
+      "point c"
+    ]
+  },
+  {
+    "id": "chunk:chapter I|article 3|clause 6|point c:1",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 3",
+      "clause 6",
+      "point c"
+    ],
+    "chunk_id": 1,
+    "text": "c) Trúng thưởng trong các hình thức đặt cược;",
+    "embedding_text": "[chapter I | article 3 | clause 6 | point c] c) Trúng thưởng trong các hình thức đặt cược;"
+  },
+  {
+    "id": "section:chapter I|article 3|clause 6|point d",
+    "type": "section",
+    "title": "point d",
+    "path": [
+      "chapter I",
+      "article 3",
+      "clause 6",
+      "point d"
+    ]
+  },
+  {
+    "id": "chunk:chapter I|article 3|clause 6|point d:1",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 3",
+      "clause 6",
+      "point d"
+    ],
+    "chunk_id": 1,
+    "text": "d) Trúng thưởng trong các trò chơi, cuộc thi có thưởng và các hình thức trúng thưởng khác, trừ trúng thưởng trong casino.",
+    "embedding_text": "[chapter I | article 3 | clause 6 | point d] d) Trúng thưởng trong các trò chơi, cuộc thi có thưởng và các hình thức trúng thưởng khác, trừ trúng thưởng trong casino."
+  },
+  {
+    "id": "section:chapter I|article 3|clause 7",
+    "type": "section",
+    "title": "clause 7",
+    "path": [
+      "chapter I",
+      "article 3",
+      "clause 7"
+    ]
+  },
+  {
+    "id": "section:chapter I|article 3|clause 7|point a",
+    "type": "section",
+    "title": "point a",
+    "path": [
+      "chapter I",
+      "article 3",
+      "clause 7",
+      "point a"
+    ]
+  },
+  {
+    "id": "chunk:chapter I|article 3|clause 7|point a:1",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 3",
+      "clause 7",
+      "point a"
+    ],
+    "chunk_id": 1,
+    "text": "a) Thu nhập từ chuyển giao, chuyển quyền sử dụng các đối tượng của quyền sở hữu trí tuệ;",
+    "embedding_text": "[chapter I | article 3 | clause 7 | point a] a) Thu nhập từ chuyển giao, chuyển quyền sử dụng các đối tượng của quyền sở hữu trí tuệ;"
+  },
+  {
+    "id": "section:chapter I|article 3|clause 7|point b",
+    "type": "section",
+    "title": "point b",
+    "path": [
+      "chapter I",
+      "article 3",
+      "clause 7",
+      "point b"
+    ]
+  },
+  {
+    "id": "chunk:chapter I|article 3|clause 7|point b:1",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 3",
+      "clause 7",
+      "point b"
+    ],
+    "chunk_id": 1,
+    "text": "b) Thu nhập từ chuyển giao công nghệ.",
+    "embedding_text": "[chapter I | article 3 | clause 7 | point b] b) Thu nhập từ chuyển giao công nghệ."
+  },
+  {
+    "id": "section:chapter I|article 3|clause 8",
+    "type": "section",
+    "title": "clause 8",
+    "path": [
+      "chapter I",
+      "article 3",
+      "clause 8"
+    ]
+  },
+  {
+    "id": "chunk:chapter I|article 3|clause 8:1",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 3",
+      "clause 8"
+    ],
+    "chunk_id": 1,
+    "text": "8. Thu nhập từ nhượng quyền thương mại.",
+    "embedding_text": "[chapter I | article 3 | clause 8] 8. Thu nhập từ nhượng quyền thương mại."
+  },
+  {
+    "id": "section:chapter I|article 3|clause 9",
+    "type": "section",
+    "title": "clause 9",
+    "path": [
+      "chapter I",
+      "article 3",
+      "clause 9"
+    ]
+  },
+  {
+    "id": "chunk:chapter I|article 3|clause 9:1",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 3",
+      "clause 9"
+    ],
+    "chunk_id": 1,
+    "text": "9. Thu nhập từ nhận thừa kế, quà tặng là chứng khoán, phần vốn trong các tổ chức kinh tế, cơ sở kinh doanh, bất động sản và các tài",
+    "embedding_text": "[chapter I | article 3 | clause 9] 9. Thu nhập từ nhận thừa kế, quà tặng là chứng khoán, phần vốn trong các tổ chức kinh tế, cơ sở kinh doanh, bất động sản và các tài"
+  },
+  {
+    "id": "chunk:chapter I|article 3|clause 9:2",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 3",
+      "clause 9"
+    ],
+    "chunk_id": 2,
+    "text": "động sản và các tài sản phải đăng ký sở hữu hoặc đăng ký sử dụng.",
+    "embedding_text": "[chapter I | article 3 | clause 9] động sản và các tài sản phải đăng ký sở hữu hoặc đăng ký sử dụng."
+  },
+  {
+    "id": "section:chapter I|article 3|clause 10",
+    "type": "section",
+    "title": "clause 10",
+    "path": [
+      "chapter I",
+      "article 3",
+      "clause 10"
+    ]
+  },
+  {
+    "id": "section:chapter I|article 3|clause 10|point a",
+    "type": "section",
+    "title": "point a",
+    "path": [
+      "chapter I",
+      "article 3",
+      "clause 10",
+      "point a"
+    ]
+  },
+  {
+    "id": "chunk:chapter I|article 3|clause 10|point a:1",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 3",
+      "clause 10",
+      "point a"
+    ],
+    "chunk_id": 1,
+    "text": "a) Thu nhập từ chuyển nhượng tên miền internet quốc gia Việt Nam “.vn”;",
+    "embedding_text": "[chapter I | article 3 | clause 10 | point a] a) Thu nhập từ chuyển nhượng tên miền internet quốc gia Việt Nam “.vn”;"
+  },
+  {
+    "id": "section:chapter I|article 3|clause 10|point b",
+    "type": "section",
+    "title": "point b",
+    "path": [
+      "chapter I",
+      "article 3",
+      "clause 10",
+      "point b"
+    ]
+  },
+  {
+    "id": "chunk:chapter I|article 3|clause 10|point b:1",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 3",
+      "clause 10",
+      "point b"
+    ],
+    "chunk_id": 1,
+    "text": "b) Thu nhập từ chuyển nhượng kết quả giảm phát thải khí nhà kính, tín chỉ các bon;",
+    "embedding_text": "[chapter I | article 3 | clause 10 | point b] b) Thu nhập từ chuyển nhượng kết quả giảm phát thải khí nhà kính, tín chỉ các bon;"
+  },
+  {
+    "id": "section:chapter I|article 3|clause 10|point c",
+    "type": "section",
+    "title": "point c",
+    "path": [
+      "chapter I",
+      "article 3",
+      "clause 10",
+      "point c"
+    ]
+  },
+  {
+    "id": "chunk:chapter I|article 3|clause 10|point c:1",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 3",
+      "clause 10",
+      "point c"
+    ],
+    "chunk_id": 1,
+    "text": "c) Thu nhập từ chuyển nhượng biển số xe trúng đấu giá theo quy định của pháp luật;",
+    "embedding_text": "[chapter I | article 3 | clause 10 | point c] c) Thu nhập từ chuyển nhượng biển số xe trúng đấu giá theo quy định của pháp luật;"
+  },
+  {
+    "id": "section:chapter I|article 3|clause 10|point d",
+    "type": "section",
+    "title": "point d",
+    "path": [
+      "chapter I",
+      "article 3",
+      "clause 10",
+      "point d"
+    ]
+  },
+  {
+    "id": "chunk:chapter I|article 3|clause 10|point d:1",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 3",
+      "clause 10",
+      "point d"
+    ],
+    "chunk_id": 1,
+    "text": "d) Thu nhập từ chuyển nhượng tài sản số;",
+    "embedding_text": "[chapter I | article 3 | clause 10 | point d] d) Thu nhập từ chuyển nhượng tài sản số;"
+  },
+  {
+    "id": "chunk:chapter I|article 3|clause 10|point d:1",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 3",
+      "clause 10",
+      "point d"
+    ],
+    "chunk_id": 1,
+    "text": "đ) Thu nhập từ chuyển nhượng vàng miếng. Chính phủ quy định ngưỡng giá trị vàng miếng chịu thuế, thời điểm áp dụng thu và điều chỉnh thuế suất thuế",
+    "embedding_text": "[chapter I | article 3 | clause 10 | point d] đ) Thu nhập từ chuyển nhượng vàng miếng. Chính phủ quy định ngưỡng giá trị vàng miếng chịu thuế, thời điểm áp dụng thu và điều chỉnh thuế suất thuế"
+  },
+  {
+    "id": "chunk:chapter I|article 3|clause 10|point d:2",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 3",
+      "clause 10",
+      "point d"
+    ],
+    "chunk_id": 2,
+    "text": "điều chỉnh thuế suất thuế thu nhập cá nhân đối với chuyển nhượng vàng miếng phù hợp với lộ trình quản lý thị trường vàng.",
+    "embedding_text": "[chapter I | article 3 | clause 10 | point d] điều chỉnh thuế suất thuế thu nhập cá nhân đối với chuyển nhượng vàng miếng phù hợp với lộ trình quản lý thị trường vàng."
+  },
+  {
+    "id": "section:chapter I|article 3|clause 11",
+    "type": "section",
+    "title": "clause 11",
+    "path": [
+      "chapter I",
+      "article 3",
+      "clause 11"
+    ]
+  },
+  {
+    "id": "chunk:chapter I|article 3|clause 11:1",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 3",
+      "clause 11"
+    ],
+    "chunk_id": 1,
+    "text": "11. Chính phủ quy định chi tiết Điều này và việc quy đổi thu nhập chịu thuế nhận được không bằng tiền, không bằng Đồng Việt Nam.",
+    "embedding_text": "[chapter I | article 3 | clause 11] 11. Chính phủ quy định chi tiết Điều này và việc quy đổi thu nhập chịu thuế nhận được không bằng tiền, không bằng Đồng Việt Nam."
+  },
+  {
+    "id": "section:chapter I|article 4",
+    "type": "section",
+    "title": "article 4",
+    "path": [
+      "chapter I",
+      "article 4"
+    ]
+  },
+  {
+    "id": "section:chapter I|article 4|clause 1",
+    "type": "section",
+    "title": "clause 1",
+    "path": [
+      "chapter I",
+      "article 4",
+      "clause 1"
+    ]
+  },
+  {
+    "id": "chunk:chapter I|article 4|clause 1:1",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 4",
+      "clause 1"
+    ],
+    "chunk_id": 1,
+    "text": "1. Thu nhập từ chuyển nhượng, nhận thừa kế, quà tặng là bất động sản giữa vợ với chồng; cha đẻ, mẹ đẻ với con đẻ; cha nuôi, mẹ nuôi",
+    "embedding_text": "[chapter I | article 4 | clause 1] 1. Thu nhập từ chuyển nhượng, nhận thừa kế, quà tặng là bất động sản giữa vợ với chồng; cha đẻ, mẹ đẻ với con đẻ; cha nuôi, mẹ nuôi"
+  },
+  {
+    "id": "chunk:chapter I|article 4|clause 1:2",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 4",
+      "clause 1"
+    ],
+    "chunk_id": 2,
+    "text": "đẻ; cha nuôi, mẹ nuôi với con nuôi; cha chồng, mẹ chồng với con dâu; cha vợ, mẹ vợ với con rể; ông nội, bà nội với cháu nội; ông",
+    "embedding_text": "[chapter I | article 4 | clause 1] đẻ; cha nuôi, mẹ nuôi với con nuôi; cha chồng, mẹ chồng với con dâu; cha vợ, mẹ vợ với con rể; ông nội, bà nội với cháu nội; ông"
+  },
+  {
+    "id": "chunk:chapter I|article 4|clause 1:3",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 4",
+      "clause 1"
+    ],
+    "chunk_id": 3,
+    "text": "nội với cháu nội; ông ngoại, bà ngoại với cháu ngoại; anh, chị, em ruột với nhau.",
+    "embedding_text": "[chapter I | article 4 | clause 1] nội với cháu nội; ông ngoại, bà ngoại với cháu ngoại; anh, chị, em ruột với nhau."
+  },
+  {
+    "id": "section:chapter I|article 4|clause 2",
+    "type": "section",
+    "title": "clause 2",
+    "path": [
+      "chapter I",
+      "article 4",
+      "clause 2"
+    ]
+  },
+  {
+    "id": "chunk:chapter I|article 4|clause 2:1",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 4",
+      "clause 2"
+    ],
+    "chunk_id": 1,
+    "text": "2. Thu nhập từ chuyển nhượng nhà ở, quyền sử dụng đất ở và tài sản gắn liền với đất ở của cá nhân trong trường hợp cá nhân chỉ",
+    "embedding_text": "[chapter I | article 4 | clause 2] 2. Thu nhập từ chuyển nhượng nhà ở, quyền sử dụng đất ở và tài sản gắn liền với đất ở của cá nhân trong trường hợp cá nhân chỉ"
+  },
+  {
+    "id": "chunk:chapter I|article 4|clause 2:2",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 4",
+      "clause 2"
+    ],
+    "chunk_id": 2,
+    "text": "trường hợp cá nhân chỉ có một nhà ở, đất ở duy nhất tại Việt Nam.",
+    "embedding_text": "[chapter I | article 4 | clause 2] trường hợp cá nhân chỉ có một nhà ở, đất ở duy nhất tại Việt Nam."
+  },
+  {
+    "id": "section:chapter I|article 4|clause 3",
+    "type": "section",
+    "title": "clause 3",
+    "path": [
+      "chapter I",
+      "article 4",
+      "clause 3"
+    ]
+  },
+  {
+    "id": "chunk:chapter I|article 4|clause 3:1",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 4",
+      "clause 3"
+    ],
+    "chunk_id": 1,
+    "text": "3. Thu nhập từ giá trị quyền sử dụng đất của cá nhân được Nhà nước giao đất.",
+    "embedding_text": "[chapter I | article 4 | clause 3] 3. Thu nhập từ giá trị quyền sử dụng đất của cá nhân được Nhà nước giao đất."
+  },
+  {
+    "id": "section:chapter I|article 4|clause 4",
+    "type": "section",
+    "title": "clause 4",
+    "path": [
+      "chapter I",
+      "article 4",
+      "clause 4"
+    ]
+  },
+  {
+    "id": "chunk:chapter I|article 4|clause 4:1",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 4",
+      "clause 4"
+    ],
+    "chunk_id": 1,
+    "text": "4. Thu nhập của hộ gia đình, cá nhân trực tiếp sản xuất sản phẩm cây trồng, rừng trồng, chăn nuôi, thủy sản nuôi trồng, đánh bắt chưa qua chế",
+    "embedding_text": "[chapter I | article 4 | clause 4] 4. Thu nhập của hộ gia đình, cá nhân trực tiếp sản xuất sản phẩm cây trồng, rừng trồng, chăn nuôi, thủy sản nuôi trồng, đánh bắt chưa qua chế"
+  },
+  {
+    "id": "chunk:chapter I|article 4|clause 4:2",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 4",
+      "clause 4"
+    ],
+    "chunk_id": 2,
+    "text": "đánh bắt chưa qua chế biến thành các sản phẩm khác hoặc chỉ qua sơ chế thông thường; sản xuất muối; thu nhập từ lợi tức cổ phần của thành",
+    "embedding_text": "[chapter I | article 4 | clause 4] đánh bắt chưa qua chế biến thành các sản phẩm khác hoặc chỉ qua sơ chế thông thường; sản xuất muối; thu nhập từ lợi tức cổ phần của thành"
+  },
+  {
+    "id": "chunk:chapter I|article 4|clause 4:3",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 4",
+      "clause 4"
+    ],
+    "chunk_id": 3,
+    "text": "tức cổ phần của thành viên hợp tác xã, liên hiệp hợp tác xã nông nghiệp, cá nhân là nông dân ký kết hợp đồng với doanh nghiệp tham gia",
+    "embedding_text": "[chapter I | article 4 | clause 4] tức cổ phần của thành viên hợp tác xã, liên hiệp hợp tác xã nông nghiệp, cá nhân là nông dân ký kết hợp đồng với doanh nghiệp tham gia"
+  },
+  {
+    "id": "chunk:chapter I|article 4|clause 4:4",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 4",
+      "clause 4"
+    ],
+    "chunk_id": 4,
+    "text": "với doanh nghiệp tham gia “Cánh đồng lớn”, trồng rừng sản xuất, nuôi trồng thủy sản.",
+    "embedding_text": "[chapter I | article 4 | clause 4] với doanh nghiệp tham gia “Cánh đồng lớn”, trồng rừng sản xuất, nuôi trồng thủy sản."
+  },
+  {
+    "id": "section:chapter I|article 4|clause 5",
+    "type": "section",
+    "title": "clause 5",
+    "path": [
+      "chapter I",
+      "article 4",
+      "clause 5"
+    ]
+  },
+  {
+    "id": "chunk:chapter I|article 4|clause 5:1",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 4",
+      "clause 5"
+    ],
+    "chunk_id": 1,
+    "text": "5. Thu nhập từ chuyển đổi đất nông nghiệp của hộ gia đình, cá nhân được Nhà nước giao để sản xuất.",
+    "embedding_text": "[chapter I | article 4 | clause 5] 5. Thu nhập từ chuyển đổi đất nông nghiệp của hộ gia đình, cá nhân được Nhà nước giao để sản xuất."
+  },
+  {
+    "id": "section:chapter I|article 4|clause 6",
+    "type": "section",
+    "title": "clause 6",
+    "path": [
+      "chapter I",
+      "article 4",
+      "clause 6"
+    ]
+  },
+  {
+    "id": "chunk:chapter I|article 4|clause 6:1",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 4",
+      "clause 6"
+    ],
+    "chunk_id": 1,
+    "text": "6. Thu nhập từ lãi trái phiếu chính phủ, lãi trái phiếu chính quyền địa phương, lãi tiền gửi tại tổ chức tín dụng, lãi từ hợp đồng bảo hiểm",
+    "embedding_text": "[chapter I | article 4 | clause 6] 6. Thu nhập từ lãi trái phiếu chính phủ, lãi trái phiếu chính quyền địa phương, lãi tiền gửi tại tổ chức tín dụng, lãi từ hợp đồng bảo hiểm"
+  },
+  {
+    "id": "chunk:chapter I|article 4|clause 6:2",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 4",
+      "clause 6"
+    ],
+    "chunk_id": 2,
+    "text": "từ hợp đồng bảo hiểm nhân thọ.",
+    "embedding_text": "[chapter I | article 4 | clause 6] từ hợp đồng bảo hiểm nhân thọ."
+  },
+  {
+    "id": "section:chapter I|article 4|clause 7",
+    "type": "section",
+    "title": "clause 7",
+    "path": [
+      "chapter I",
+      "article 4",
+      "clause 7"
+    ]
+  },
+  {
+    "id": "chunk:chapter I|article 4|clause 7:1",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 4",
+      "clause 7"
+    ],
+    "chunk_id": 1,
+    "text": "7. Thu nhập từ kiều hối.",
+    "embedding_text": "[chapter I | article 4 | clause 7] 7. Thu nhập từ kiều hối."
+  },
+  {
+    "id": "section:chapter I|article 4|clause 8",
+    "type": "section",
+    "title": "clause 8",
+    "path": [
+      "chapter I",
+      "article 4",
+      "clause 8"
+    ]
+  },
+  {
+    "id": "chunk:chapter I|article 4|clause 8:1",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 4",
+      "clause 8"
+    ],
+    "chunk_id": 1,
+    "text": "8. Tiền lương làm việc ban đêm, làm thêm giờ, tiền lương, tiền công trả cho những ngày không nghỉ phép theo quy định của pháp luật.",
+    "embedding_text": "[chapter I | article 4 | clause 8] 8. Tiền lương làm việc ban đêm, làm thêm giờ, tiền lương, tiền công trả cho những ngày không nghỉ phép theo quy định của pháp luật."
+  },
+  {
+    "id": "section:chapter I|article 4|clause 9",
+    "type": "section",
+    "title": "clause 9",
+    "path": [
+      "chapter I",
+      "article 4",
+      "clause 9"
+    ]
+  },
+  {
+    "id": "chunk:chapter I|article 4|clause 9:1",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 4",
+      "clause 9"
+    ],
+    "chunk_id": 1,
+    "text": "9. Tiền lương hưu do Quỹ bảo hiểm xã hội chi trả; thu nhập do quỹ bảo hiểm hưu trí bổ sung, quỹ hưu trí tự nguyện chi trả.",
+    "embedding_text": "[chapter I | article 4 | clause 9] 9. Tiền lương hưu do Quỹ bảo hiểm xã hội chi trả; thu nhập do quỹ bảo hiểm hưu trí bổ sung, quỹ hưu trí tự nguyện chi trả."
+  },
+  {
+    "id": "section:chapter I|article 4|clause 10",
+    "type": "section",
+    "title": "clause 10",
+    "path": [
+      "chapter I",
+      "article 4",
+      "clause 10"
+    ]
+  },
+  {
+    "id": "section:chapter I|article 4|clause 10|point a",
+    "type": "section",
+    "title": "point a",
+    "path": [
+      "chapter I",
+      "article 4",
+      "clause 10",
+      "point a"
+    ]
+  },
+  {
+    "id": "chunk:chapter I|article 4|clause 10|point a:1",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 4",
+      "clause 10",
+      "point a"
+    ],
+    "chunk_id": 1,
+    "text": "a) Học bổng nhận được từ ngân sách nhà nước;",
+    "embedding_text": "[chapter I | article 4 | clause 10 | point a] a) Học bổng nhận được từ ngân sách nhà nước;"
+  },
+  {
+    "id": "section:chapter I|article 4|clause 10|point b",
+    "type": "section",
+    "title": "point b",
+    "path": [
+      "chapter I",
+      "article 4",
+      "clause 10",
+      "point b"
+    ]
+  },
+  {
+    "id": "chunk:chapter I|article 4|clause 10|point b:1",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 4",
+      "clause 10",
+      "point b"
+    ],
+    "chunk_id": 1,
+    "text": "b) Học bổng nhận được từ tổ chức trong nước và ngoài nước theo chương trình hỗ trợ khuyến học của tổ chức đó.",
+    "embedding_text": "[chapter I | article 4 | clause 10 | point b] b) Học bổng nhận được từ tổ chức trong nước và ngoài nước theo chương trình hỗ trợ khuyến học của tổ chức đó."
+  },
+  {
+    "id": "section:chapter I|article 4|clause 11",
+    "type": "section",
+    "title": "clause 11",
+    "path": [
+      "chapter I",
+      "article 4",
+      "clause 11"
+    ]
+  },
+  {
+    "id": "chunk:chapter I|article 4|clause 11:1",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 4",
+      "clause 11"
+    ],
+    "chunk_id": 1,
+    "text": "11. Thu nhập từ bồi thường hợp đồng bảo hiểm nhân thọ, phi nhân thọ, tiền bồi thường tai nạn lao động, khoản bồi thường nhà nước và các khoản",
+    "embedding_text": "[chapter I | article 4 | clause 11] 11. Thu nhập từ bồi thường hợp đồng bảo hiểm nhân thọ, phi nhân thọ, tiền bồi thường tai nạn lao động, khoản bồi thường nhà nước và các khoản"
+  },
+  {
+    "id": "chunk:chapter I|article 4|clause 11:2",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 4",
+      "clause 11"
+    ],
+    "chunk_id": 2,
+    "text": "nhà nước và các khoản bồi thường khác theo quy định của pháp luật.",
+    "embedding_text": "[chapter I | article 4 | clause 11] nhà nước và các khoản bồi thường khác theo quy định của pháp luật."
+  },
+  {
+    "id": "section:chapter I|article 4|clause 12",
+    "type": "section",
+    "title": "clause 12",
+    "path": [
+      "chapter I",
+      "article 4",
+      "clause 12"
+    ]
+  },
+  {
+    "id": "chunk:chapter I|article 4|clause 12:1",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 4",
+      "clause 12"
+    ],
+    "chunk_id": 1,
+    "text": "12. Thu nhập nhận được từ các tổ chức và quỹ từ thiện được cơ quan nhà nước có thẩm quyền cho phép thành lập hoặc công nhận, hoạt động",
+    "embedding_text": "[chapter I | article 4 | clause 12] 12. Thu nhập nhận được từ các tổ chức và quỹ từ thiện được cơ quan nhà nước có thẩm quyền cho phép thành lập hoặc công nhận, hoạt động"
+  },
+  {
+    "id": "chunk:chapter I|article 4|clause 12:2",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 4",
+      "clause 12"
+    ],
+    "chunk_id": 2,
+    "text": "hoặc công nhận, hoạt động vì mục đích từ thiện, nhân đạo, không vì mục tiêu lợi nhuận.",
+    "embedding_text": "[chapter I | article 4 | clause 12] hoặc công nhận, hoạt động vì mục đích từ thiện, nhân đạo, không vì mục tiêu lợi nhuận."
+  },
+  {
+    "id": "section:chapter I|article 4|clause 13",
+    "type": "section",
+    "title": "clause 13",
+    "path": [
+      "chapter I",
+      "article 4",
+      "clause 13"
+    ]
+  },
+  {
+    "id": "chunk:chapter I|article 4|clause 13:1",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 4",
+      "clause 13"
+    ],
+    "chunk_id": 1,
+    "text": "13. Thu nhập nhận được từ nguồn viện trợ nước ngoài vì mục đích từ thiện, nhân đạo dưới hình thức chính phủ và phi chính phủ được cơ quan",
+    "embedding_text": "[chapter I | article 4 | clause 13] 13. Thu nhập nhận được từ nguồn viện trợ nước ngoài vì mục đích từ thiện, nhân đạo dưới hình thức chính phủ và phi chính phủ được cơ quan"
+  },
+  {
+    "id": "chunk:chapter I|article 4|clause 13:2",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 4",
+      "clause 13"
+    ],
+    "chunk_id": 2,
+    "text": "chính phủ được cơ quan nhà nước có thẩm quyền phê duyệt.",
+    "embedding_text": "[chapter I | article 4 | clause 13] chính phủ được cơ quan nhà nước có thẩm quyền phê duyệt."
+  },
+  {
+    "id": "section:chapter I|article 4|clause 14",
+    "type": "section",
+    "title": "clause 14",
+    "path": [
+      "chapter I",
+      "article 4",
+      "clause 14"
+    ]
+  },
+  {
+    "id": "chunk:chapter I|article 4|clause 14:1",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 4",
+      "clause 14"
+    ],
+    "chunk_id": 1,
+    "text": "14. Thu nhập từ tiền lương, tiền công của thuyền viên là người Việt Nam làm việc cho các hãng tàu nước ngoài hoặc các hãng tàu Việt Nam vận",
+    "embedding_text": "[chapter I | article 4 | clause 14] 14. Thu nhập từ tiền lương, tiền công của thuyền viên là người Việt Nam làm việc cho các hãng tàu nước ngoài hoặc các hãng tàu Việt Nam vận"
+  },
+  {
+    "id": "chunk:chapter I|article 4|clause 14:2",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 4",
+      "clause 14"
+    ],
+    "chunk_id": 2,
+    "text": "hãng tàu Việt Nam vận tải quốc tế.",
+    "embedding_text": "[chapter I | article 4 | clause 14] hãng tàu Việt Nam vận tải quốc tế."
+  },
+  {
+    "id": "section:chapter I|article 4|clause 15",
+    "type": "section",
+    "title": "clause 15",
+    "path": [
+      "chapter I",
+      "article 4",
+      "clause 15"
+    ]
+  },
+  {
+    "id": "chunk:chapter I|article 4|clause 15:1",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 4",
+      "clause 15"
+    ],
+    "chunk_id": 1,
+    "text": "15. Thu nhập của cá nhân là chủ tàu, cá nhân có quyền sử dụng tàu và cá nhân làm việc trên tàu từ hoạt động cung cấp hàng hóa,",
+    "embedding_text": "[chapter I | article 4 | clause 15] 15. Thu nhập của cá nhân là chủ tàu, cá nhân có quyền sử dụng tàu và cá nhân làm việc trên tàu từ hoạt động cung cấp hàng hóa,"
+  },
+  {
+    "id": "chunk:chapter I|article 4|clause 15:2",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 4",
+      "clause 15"
+    ],
+    "chunk_id": 2,
+    "text": "động cung cấp hàng hóa, dịch vụ trực tiếp phục vụ hoạt động khai thác, đánh bắt thủy sản xa bờ.",
+    "embedding_text": "[chapter I | article 4 | clause 15] động cung cấp hàng hóa, dịch vụ trực tiếp phục vụ hoạt động khai thác, đánh bắt thủy sản xa bờ."
+  },
+  {
+    "id": "section:chapter I|article 4|clause 16",
+    "type": "section",
+    "title": "clause 16",
+    "path": [
+      "chapter I",
+      "article 4",
+      "clause 16"
+    ]
+  },
+  {
+    "id": "chunk:chapter I|article 4|clause 16:1",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 4",
+      "clause 16"
+    ],
+    "chunk_id": 1,
+    "text": "16. Thu nhập từ chuyển nhượng lần đầu kết quả giảm phát thải khí nhà kính của cá nhân được công nhận kết quả giảm phát thải khí nhà kính,",
+    "embedding_text": "[chapter I | article 4 | clause 16] 16. Thu nhập từ chuyển nhượng lần đầu kết quả giảm phát thải khí nhà kính của cá nhân được công nhận kết quả giảm phát thải khí nhà kính,"
+  },
+  {
+    "id": "chunk:chapter I|article 4|clause 16:2",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 4",
+      "clause 16"
+    ],
+    "chunk_id": 2,
+    "text": "phát thải khí nhà kính, tín chỉ các bon của cá nhân được cấp tín chỉ các bon; thu nhập từ tiền lãi trái phiếu xanh; thu nhập từ chuyển",
+    "embedding_text": "[chapter I | article 4 | clause 16] phát thải khí nhà kính, tín chỉ các bon của cá nhân được cấp tín chỉ các bon; thu nhập từ tiền lãi trái phiếu xanh; thu nhập từ chuyển"
+  },
+  {
+    "id": "chunk:chapter I|article 4|clause 16:3",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 4",
+      "clause 16"
+    ],
+    "chunk_id": 3,
+    "text": "xanh; thu nhập từ chuyển nhượng lần đầu trái phiếu xanh sau khi phát hành.",
+    "embedding_text": "[chapter I | article 4 | clause 16] xanh; thu nhập từ chuyển nhượng lần đầu trái phiếu xanh sau khi phát hành."
+  },
+  {
+    "id": "section:chapter I|article 4|clause 17",
+    "type": "section",
+    "title": "clause 17",
+    "path": [
+      "chapter I",
+      "article 4",
+      "clause 17"
+    ]
+  },
+  {
+    "id": "chunk:chapter I|article 4|clause 17:1",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 4",
+      "clause 17"
+    ],
+    "chunk_id": 1,
+    "text": "17. Thu nhập từ tiền lương, tiền công từ thực hiện nhiệm vụ khoa học, công nghệ và đổi mới sáng tạo.",
+    "embedding_text": "[chapter I | article 4 | clause 17] 17. Thu nhập từ tiền lương, tiền công từ thực hiện nhiệm vụ khoa học, công nghệ và đổi mới sáng tạo."
+  },
+  {
+    "id": "section:chapter I|article 4|clause 18",
+    "type": "section",
+    "title": "clause 18",
+    "path": [
+      "chapter I",
+      "article 4",
+      "clause 18"
+    ]
+  },
+  {
+    "id": "chunk:chapter I|article 4|clause 18:1",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 4",
+      "clause 18"
+    ],
+    "chunk_id": 1,
+    "text": "18. Thu nhập từ quyền tác giả của nhiệm vụ khoa học, công nghệ và đổi mới sáng tạo khi kết quả nhiệm vụ được thương mại hóa theo quy",
+    "embedding_text": "[chapter I | article 4 | clause 18] 18. Thu nhập từ quyền tác giả của nhiệm vụ khoa học, công nghệ và đổi mới sáng tạo khi kết quả nhiệm vụ được thương mại hóa theo quy"
+  },
+  {
+    "id": "chunk:chapter I|article 4|clause 18:2",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 4",
+      "clause 18"
+    ],
+    "chunk_id": 2,
+    "text": "thương mại hóa theo quy định của pháp luật về khoa học, công nghệ và đổi mới sáng tạo, pháp luật về sở hữu trí tuệ.",
+    "embedding_text": "[chapter I | article 4 | clause 18] thương mại hóa theo quy định của pháp luật về khoa học, công nghệ và đổi mới sáng tạo, pháp luật về sở hữu trí tuệ."
+  },
+  {
+    "id": "section:chapter I|article 4|clause 19",
+    "type": "section",
+    "title": "clause 19",
+    "path": [
+      "chapter I",
+      "article 4",
+      "clause 19"
+    ]
+  },
+  {
+    "id": "chunk:chapter I|article 4|clause 19:1",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 4",
+      "clause 19"
+    ],
+    "chunk_id": 1,
+    "text": "19. Thu nhập của nhà đầu tư cá nhân, chuyên gia từ dự án khởi nghiệp sáng tạo, sáng lập viên cho doanh nghiệp khởi nghiệp sáng tạo, nhà đầu",
+    "embedding_text": "[chapter I | article 4 | clause 19] 19. Thu nhập của nhà đầu tư cá nhân, chuyên gia từ dự án khởi nghiệp sáng tạo, sáng lập viên cho doanh nghiệp khởi nghiệp sáng tạo, nhà đầu"
+  },
+  {
+    "id": "chunk:chapter I|article 4|clause 19:2",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 4",
+      "clause 19"
+    ],
+    "chunk_id": 2,
+    "text": "nghiệp sáng tạo, nhà đầu tư cá nhân góp vốn vào quỹ đầu tư mạo hiểm.",
+    "embedding_text": "[chapter I | article 4 | clause 19] nghiệp sáng tạo, nhà đầu tư cá nhân góp vốn vào quỹ đầu tư mạo hiểm."
+  },
+  {
+    "id": "section:chapter I|article 4|clause 20",
+    "type": "section",
+    "title": "clause 20",
+    "path": [
+      "chapter I",
+      "article 4",
+      "clause 20"
+    ]
+  },
+  {
+    "id": "chunk:chapter I|article 4|clause 20:1",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 4",
+      "clause 20"
+    ],
+    "chunk_id": 1,
+    "text": "20. Thu nhập từ tiền lương, tiền công của chuyên gia nước ngoài làm việc tại chương trình, dự án tài trợ bằng nguồn vốn ODA không hoàn lại, chương",
+    "embedding_text": "[chapter I | article 4 | clause 20] 20. Thu nhập từ tiền lương, tiền công của chuyên gia nước ngoài làm việc tại chương trình, dự án tài trợ bằng nguồn vốn ODA không hoàn lại, chương"
+  },
+  {
+    "id": "chunk:chapter I|article 4|clause 20:2",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 4",
+      "clause 20"
+    ],
+    "chunk_id": 2,
+    "text": "ODA không hoàn lại, chương trình, dự án phi chính phủ nước ngoài tại Việt Nam; cá nhân là người Việt Nam làm việc tại cơ quan đại diện của",
+    "embedding_text": "[chapter I | article 4 | clause 20] ODA không hoàn lại, chương trình, dự án phi chính phủ nước ngoài tại Việt Nam; cá nhân là người Việt Nam làm việc tại cơ quan đại diện của"
+  },
+  {
+    "id": "chunk:chapter I|article 4|clause 20:3",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 4",
+      "clause 20"
+    ],
+    "chunk_id": 3,
+    "text": "cơ quan đại diện của tổ chức quốc tế thuộc Hệ thống Liên hợp quốc tại Việt Nam; cá nhân tham gia lực lượng gìn giữ hòa bình của Liên",
+    "embedding_text": "[chapter I | article 4 | clause 20] cơ quan đại diện của tổ chức quốc tế thuộc Hệ thống Liên hợp quốc tại Việt Nam; cá nhân tham gia lực lượng gìn giữ hòa bình của Liên"
+  },
+  {
+    "id": "chunk:chapter I|article 4|clause 20:4",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 4",
+      "clause 20"
+    ],
+    "chunk_id": 4,
+    "text": "giữ hòa bình của Liên hợp quốc.",
+    "embedding_text": "[chapter I | article 4 | clause 20] giữ hòa bình của Liên hợp quốc."
+  },
+  {
+    "id": "section:chapter I|article 4|clause 21",
+    "type": "section",
+    "title": "clause 21",
+    "path": [
+      "chapter I",
+      "article 4",
+      "clause 21"
+    ]
+  },
+  {
+    "id": "chunk:chapter I|article 4|clause 21:1",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 4",
+      "clause 21"
+    ],
+    "chunk_id": 1,
+    "text": "21. Thu nhập sau khi đã nộp thuế thu nhập doanh nghiệp của cá nhân là chủ doanh nghiệp tư nhân, cá nhân là chủ công ty trách nhiệm hữu",
+    "embedding_text": "[chapter I | article 4 | clause 21] 21. Thu nhập sau khi đã nộp thuế thu nhập doanh nghiệp của cá nhân là chủ doanh nghiệp tư nhân, cá nhân là chủ công ty trách nhiệm hữu"
+  },
+  {
+    "id": "chunk:chapter I|article 4|clause 21:2",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 4",
+      "clause 21"
+    ],
+    "chunk_id": 2,
+    "text": "công ty trách nhiệm hữu hạn một thành viên.",
+    "embedding_text": "[chapter I | article 4 | clause 21] công ty trách nhiệm hữu hạn một thành viên."
+  },
+  {
+    "id": "section:chapter I|article 4|clause 22",
+    "type": "section",
+    "title": "clause 22",
+    "path": [
+      "chapter I",
+      "article 4",
+      "clause 22"
+    ]
+  },
+  {
+    "id": "chunk:chapter I|article 4|clause 22:1",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 4",
+      "clause 22"
+    ],
+    "chunk_id": 1,
+    "text": "22. Chính phủ quy định chi tiết Điều này.",
+    "embedding_text": "[chapter I | article 4 | clause 22] 22. Chính phủ quy định chi tiết Điều này."
+  },
+  {
+    "id": "section:chapter I|article 5",
+    "type": "section",
+    "title": "article 5",
+    "path": [
+      "chapter I",
+      "article 5"
+    ]
+  },
+  {
+    "id": "section:chapter I|article 5|clause 1",
+    "type": "section",
+    "title": "clause 1",
+    "path": [
+      "chapter I",
+      "article 5",
+      "clause 1"
+    ]
+  },
+  {
+    "id": "chunk:chapter I|article 5|clause 1:1",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 5",
+      "clause 1"
+    ],
+    "chunk_id": 1,
+    "text": "1. Người nộp thuế gặp khó khăn do thiên tai, dịch bệnh, hoả hoạn, tai nạn, bệnh hiểm nghèo ảnh hưởng đến khả năng nộp thuế thì được giảm thuế",
+    "embedding_text": "[chapter I | article 5 | clause 1] 1. Người nộp thuế gặp khó khăn do thiên tai, dịch bệnh, hoả hoạn, tai nạn, bệnh hiểm nghèo ảnh hưởng đến khả năng nộp thuế thì được giảm thuế"
+  },
+  {
+    "id": "chunk:chapter I|article 5|clause 1:2",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 5",
+      "clause 1"
+    ],
+    "chunk_id": 2,
+    "text": "thuế thì được giảm thuế tương ứng với mức độ thiệt hại nhưng không vượt quá số thuế phải nộp.",
+    "embedding_text": "[chapter I | article 5 | clause 1] thuế thì được giảm thuế tương ứng với mức độ thiệt hại nhưng không vượt quá số thuế phải nộp."
+  },
+  {
+    "id": "section:chapter I|article 5|clause 2",
+    "type": "section",
+    "title": "clause 2",
+    "path": [
+      "chapter I",
+      "article 5",
+      "clause 2"
+    ]
+  },
+  {
+    "id": "section:chapter I|article 5|clause 2|point a",
+    "type": "section",
+    "title": "point a",
+    "path": [
+      "chapter I",
+      "article 5",
+      "clause 2",
+      "point a"
+    ]
+  },
+  {
+    "id": "chunk:chapter I|article 5|clause 2|point a:1",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 5",
+      "clause 2",
+      "point a"
+    ],
+    "chunk_id": 1,
+    "text": "a) Thu nhập từ dự án hoạt động công nghiệp công nghệ số trong khu công nghệ số tập trung;",
+    "embedding_text": "[chapter I | article 5 | clause 2 | point a] a) Thu nhập từ dự án hoạt động công nghiệp công nghệ số trong khu công nghệ số tập trung;"
+  },
+  {
+    "id": "section:chapter I|article 5|clause 2|point b",
+    "type": "section",
+    "title": "point b",
+    "path": [
+      "chapter I",
+      "article 5",
+      "clause 2",
+      "point b"
+    ]
+  },
+  {
+    "id": "chunk:chapter I|article 5|clause 2|point b:1",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 5",
+      "clause 2",
+      "point b"
+    ],
+    "chunk_id": 1,
+    "text": "b) Thu nhập từ dự án nghiên cứu và phát triển, sản xuất sản phẩm công nghệ số trọng điểm, chip bán dẫn, hệ thống trí tuệ nhân tạo;",
+    "embedding_text": "[chapter I | article 5 | clause 2 | point b] b) Thu nhập từ dự án nghiên cứu và phát triển, sản xuất sản phẩm công nghệ số trọng điểm, chip bán dẫn, hệ thống trí tuệ nhân tạo;"
+  },
+  {
+    "id": "section:chapter I|article 5|clause 2|point c",
+    "type": "section",
+    "title": "point c",
+    "path": [
+      "chapter I",
+      "article 5",
+      "clause 2",
+      "point c"
+    ]
+  },
+  {
+    "id": "chunk:chapter I|article 5|clause 2|point c:1",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 5",
+      "clause 2",
+      "point c"
+    ],
+    "chunk_id": 1,
+    "text": "c) Thu nhập từ các hoạt động đào tạo nhân lực công nghiệp công nghệ số.",
+    "embedding_text": "[chapter I | article 5 | clause 2 | point c] c) Thu nhập từ các hoạt động đào tạo nhân lực công nghiệp công nghệ số."
+  },
+  {
+    "id": "section:chapter I|article 5|clause 3",
+    "type": "section",
+    "title": "clause 3",
+    "path": [
+      "chapter I",
+      "article 5",
+      "clause 3"
+    ]
+  },
+  {
+    "id": "chunk:chapter I|article 5|clause 3:1",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 5",
+      "clause 3"
+    ],
+    "chunk_id": 1,
+    "text": "3. Miễn thuế thu nhập cá nhân trong thời hạn 05 năm đối với thu nhập từ tiền lương, tiền công của cá nhân là nhân lực công nghệ cao",
+    "embedding_text": "[chapter I | article 5 | clause 3] 3. Miễn thuế thu nhập cá nhân trong thời hạn 05 năm đối với thu nhập từ tiền lương, tiền công của cá nhân là nhân lực công nghệ cao"
+  },
+  {
+    "id": "chunk:chapter I|article 5|clause 3:2",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 5",
+      "clause 3"
+    ],
+    "chunk_id": 2,
+    "text": "nhân lực công nghệ cao thực hiện hoạt động nghiên cứu và phát triển công nghệ cao hoặc công nghệ chiến lược thuộc Danh mục công nghệ cao được ưu",
+    "embedding_text": "[chapter I | article 5 | clause 3] nhân lực công nghệ cao thực hiện hoạt động nghiên cứu và phát triển công nghệ cao hoặc công nghệ chiến lược thuộc Danh mục công nghệ cao được ưu"
+  },
+  {
+    "id": "chunk:chapter I|article 5|clause 3:3",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 5",
+      "clause 3"
+    ],
+    "chunk_id": 3,
+    "text": "công nghệ cao được ưu tiên đầu tư phát triển hoặc Danh mục công nghệ chiến lược và sản phẩm công nghệ chiến lược theo quy định của pháp luật",
+    "embedding_text": "[chapter I | article 5 | clause 3] công nghệ cao được ưu tiên đầu tư phát triển hoặc Danh mục công nghệ chiến lược và sản phẩm công nghệ chiến lược theo quy định của pháp luật"
+  },
+  {
+    "id": "chunk:chapter I|article 5|clause 3:4",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 5",
+      "clause 3"
+    ],
+    "chunk_id": 4,
+    "text": "quy định của pháp luật về công nghệ cao.",
+    "embedding_text": "[chapter I | article 5 | clause 3] quy định của pháp luật về công nghệ cao."
+  },
+  {
+    "id": "section:chapter I|article 5|clause 4",
+    "type": "section",
+    "title": "clause 4",
+    "path": [
+      "chapter I",
+      "article 5",
+      "clause 4"
+    ]
+  },
+  {
+    "id": "chunk:chapter I|article 5|clause 4:1",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 5",
+      "clause 4"
+    ],
+    "chunk_id": 1,
+    "text": "4. Miễn thuế thu nhập cá nhân đối với chuyển nhượng chứng chỉ quỹ mở thành lập theo quy định của pháp luật về chứng khoán được nắm giữ từ",
+    "embedding_text": "[chapter I | article 5 | clause 4] 4. Miễn thuế thu nhập cá nhân đối với chuyển nhượng chứng chỉ quỹ mở thành lập theo quy định của pháp luật về chứng khoán được nắm giữ từ"
+  },
+  {
+    "id": "chunk:chapter I|article 5|clause 4:2",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 5",
+      "clause 4"
+    ],
+    "chunk_id": 2,
+    "text": "khoán được nắm giữ từ 02 năm trở lên kể từ ngày mua.",
+    "embedding_text": "[chapter I | article 5 | clause 4] khoán được nắm giữ từ 02 năm trở lên kể từ ngày mua."
+  },
+  {
+    "id": "section:chapter I|article 5|clause 5",
+    "type": "section",
+    "title": "clause 5",
+    "path": [
+      "chapter I",
+      "article 5",
+      "clause 5"
+    ]
+  },
+  {
+    "id": "chunk:chapter I|article 5|clause 5:1",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 5",
+      "clause 5"
+    ],
+    "chunk_id": 1,
+    "text": "5. Giảm 50% thuế thu nhập cá nhân đối với lợi tức của nhà đầu tư cá nhân được chia từ quỹ đầu tư chứng khoán, quỹ đầu tư bất",
+    "embedding_text": "[chapter I | article 5 | clause 5] 5. Giảm 50% thuế thu nhập cá nhân đối với lợi tức của nhà đầu tư cá nhân được chia từ quỹ đầu tư chứng khoán, quỹ đầu tư bất"
+  },
+  {
+    "id": "chunk:chapter I|article 5|clause 5:2",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 5",
+      "clause 5"
+    ],
+    "chunk_id": 2,
+    "text": "khoán, quỹ đầu tư bất động sản thành lập theo quy định của Luật Chứng khoán trong thời hạn do Chính phủ quy định.",
+    "embedding_text": "[chapter I | article 5 | clause 5] khoán, quỹ đầu tư bất động sản thành lập theo quy định của Luật Chứng khoán trong thời hạn do Chính phủ quy định."
+  },
+  {
+    "id": "section:chapter I|article 5|clause 6",
+    "type": "section",
+    "title": "clause 6",
+    "path": [
+      "chapter I",
+      "article 5",
+      "clause 6"
+    ]
+  },
+  {
+    "id": "chunk:chapter I|article 5|clause 6:1",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 5",
+      "clause 6"
+    ],
+    "chunk_id": 1,
+    "text": "6. Chính phủ quy định chi tiết Điều này.",
+    "embedding_text": "[chapter I | article 5 | clause 6] 6. Chính phủ quy định chi tiết Điều này."
+  },
+  {
+    "id": "section:chapter I|article 6",
+    "type": "section",
+    "title": "article 6",
+    "path": [
+      "chapter I",
+      "article 6"
+    ]
+  },
+  {
+    "id": "chunk:chapter I|article 6:1",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 6"
+    ],
+    "chunk_id": 1,
+    "text": "# **Điều 6. Quản lý thuế đối với thuế thu nhập cá nhân** Căn cứ quy định của Luật này, Chính phủ quy định về kỳ tính thuế theo năm",
+    "embedding_text": "[chapter I | article 6] # **Điều 6. Quản lý thuế đối với thuế thu nhập cá nhân** Căn cứ quy định của Luật này, Chính phủ quy định về kỳ tính thuế theo năm"
+  },
+  {
+    "id": "chunk:chapter I|article 6:2",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 6"
+    ],
+    "chunk_id": 2,
+    "text": "kỳ tính thuế theo năm đối với thu nhập từ kinh doanh, thu nhập từ tiền lương, tiền công của cá nhân cư trú, kỳ tính thuế theo từng lần",
+    "embedding_text": "[chapter I | article 6] kỳ tính thuế theo năm đối với thu nhập từ kinh doanh, thu nhập từ tiền lương, tiền công của cá nhân cư trú, kỳ tính thuế theo từng lần"
+  },
+  {
+    "id": "chunk:chapter I|article 6:3",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 6"
+    ],
+    "chunk_id": 3,
+    "text": "tính thuế theo từng lần phát sinh đối với các khoản thu nhập khác của cá nhân cư trú và cá nhân không cư trú; thời điểm xác định thu",
+    "embedding_text": "[chapter I | article 6] tính thuế theo từng lần phát sinh đối với các khoản thu nhập khác của cá nhân cư trú và cá nhân không cư trú; thời điểm xác định thu"
+  },
+  {
+    "id": "chunk:chapter I|article 6:4",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 6"
+    ],
+    "chunk_id": 4,
+    "text": "thời điểm xác định thu nhập tính thuế; quyết toán thuế; hoàn thuế đối với trường hợp cá nhân có số thuế đã nộp lớn hơn số thuế phải nộp",
+    "embedding_text": "[chapter I | article 6] thời điểm xác định thu nhập tính thuế; quyết toán thuế; hoàn thuế đối với trường hợp cá nhân có số thuế đã nộp lớn hơn số thuế phải nộp"
+  },
+  {
+    "id": "chunk:chapter I|article 6:5",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 6"
+    ],
+    "chunk_id": 5,
+    "text": "hơn số thuế phải nộp hoặc chưa đến mức phải nộp; trách nhiệm khấu trừ, khai thay, nộp thay cho người nộp thuế phù hợp với quy định của Luật",
+    "embedding_text": "[chapter I | article 6] hơn số thuế phải nộp hoặc chưa đến mức phải nộp; trách nhiệm khấu trừ, khai thay, nộp thay cho người nộp thuế phù hợp với quy định của Luật"
+  },
+  {
+    "id": "chunk:chapter I|article 6:6",
+    "type": "chunk",
+    "path": [
+      "chapter I",
+      "article 6"
+    ],
+    "chunk_id": 6,
+    "text": "với quy định của Luật Quản lý thuế.",
+    "embedding_text": "[chapter I | article 6] với quy định của Luật Quản lý thuế."
+  },
+  {
+    "id": "section:chapter II",
+    "type": "section",
+    "title": "chapter II",
+    "path": [
+      "chapter II"
+    ]
+  },
+  {
+    "id": "section:chapter II|article 7",
+    "type": "section",
+    "title": "article 7",
+    "path": [
+      "chapter II",
+      "article 7"
+    ]
+  },
+  {
+    "id": "section:chapter II|article 7|clause 1",
+    "type": "section",
+    "title": "clause 1",
+    "path": [
+      "chapter II",
+      "article 7",
+      "clause 1"
+    ]
+  },
+  {
+    "id": "chunk:chapter II|article 7|clause 1:1",
+    "type": "chunk",
+    "path": [
+      "chapter II",
+      "article 7",
+      "clause 1"
+    ],
+    "chunk_id": 1,
+    "text": "1. Cá nhân cư trú có hoạt động sản xuất, kinh doanh có mức doanh thu năm từ 500 triệu đồng trở xuống không phải nộp thuế thu nhập cá",
+    "embedding_text": "[chapter II | article 7 | clause 1] 1. Cá nhân cư trú có hoạt động sản xuất, kinh doanh có mức doanh thu năm từ 500 triệu đồng trở xuống không phải nộp thuế thu nhập cá"
+  },
+  {
+    "id": "chunk:chapter II|article 7|clause 1:2",
+    "type": "chunk",
+    "path": [
+      "chapter II",
+      "article 7",
+      "clause 1"
+    ],
+    "chunk_id": 2,
+    "text": "nộp thuế thu nhập cá nhân. Chính phủ trình Ủy ban Thường vụ Quốc hội điều chỉnh mức doanh thu không phải nộp thuế thu nhập cá nhân cho phù",
+    "embedding_text": "[chapter II | article 7 | clause 1] nộp thuế thu nhập cá nhân. Chính phủ trình Ủy ban Thường vụ Quốc hội điều chỉnh mức doanh thu không phải nộp thuế thu nhập cá nhân cho phù"
+  },
+  {
+    "id": "chunk:chapter II|article 7|clause 1:3",
+    "type": "chunk",
+    "path": [
+      "chapter II",
+      "article 7",
+      "clause 1"
+    ],
+    "chunk_id": 3,
+    "text": "nhập cá nhân cho phù hợp với tình hình kinh tế - xã hội trong từng thời kỳ.",
+    "embedding_text": "[chapter II | article 7 | clause 1] nhập cá nhân cho phù hợp với tình hình kinh tế - xã hội trong từng thời kỳ."
+  },
+  {
+    "id": "section:chapter II|article 7|clause 2",
+    "type": "section",
+    "title": "clause 2",
+    "path": [
+      "chapter II",
+      "article 7",
+      "clause 2"
+    ]
+  },
+  {
+    "id": "section:chapter II|article 7|clause 2|point a",
+    "type": "section",
+    "title": "point a",
+    "path": [
+      "chapter II",
+      "article 7",
+      "clause 2",
+      "point a"
+    ]
+  },
+  {
+    "id": "chunk:chapter II|article 7|clause 2|point a:1",
+    "type": "chunk",
+    "path": [
+      "chapter II",
+      "article 7",
+      "clause 2",
+      "point a"
+    ],
+    "chunk_id": 1,
+    "text": "a) Thu nhập tính thuế được xác định bằng doanh thu của hàng hóa, dịch vụ bán ra trừ (-) đi chi phí liên quan đến hoạt động sản xuất,",
+    "embedding_text": "[chapter II | article 7 | clause 2 | point a] a) Thu nhập tính thuế được xác định bằng doanh thu của hàng hóa, dịch vụ bán ra trừ (-) đi chi phí liên quan đến hoạt động sản xuất,"
+  },
+  {
+    "id": "chunk:chapter II|article 7|clause 2|point a:2",
+    "type": "chunk",
+    "path": [
+      "chapter II",
+      "article 7",
+      "clause 2",
+      "point a"
+    ],
+    "chunk_id": 2,
+    "text": "đến hoạt động sản xuất, kinh doanh trong kỳ tính thuế;",
+    "embedding_text": "[chapter II | article 7 | clause 2 | point a] đến hoạt động sản xuất, kinh doanh trong kỳ tính thuế;"
+  },
+  {
+    "id": "section:chapter II|article 7|clause 2|point b",
+    "type": "section",
+    "title": "point b",
+    "path": [
+      "chapter II",
+      "article 7",
+      "clause 2",
+      "point b"
+    ]
+  },
+  {
+    "id": "chunk:chapter II|article 7|clause 2|point b:1",
+    "type": "chunk",
+    "path": [
+      "chapter II",
+      "article 7",
+      "clause 2",
+      "point b"
+    ],
+    "chunk_id": 1,
+    "text": "b) Cá nhân kinh doanh có doanh thu năm trên mức quy định tại khoản 1 Điều này đến 03 tỷ đồng: thuế suất 15%;",
+    "embedding_text": "[chapter II | article 7 | clause 2 | point b] b) Cá nhân kinh doanh có doanh thu năm trên mức quy định tại khoản 1 Điều này đến 03 tỷ đồng: thuế suất 15%;"
+  },
+  {
+    "id": "section:chapter II|article 7|clause 2|point c",
+    "type": "section",
+    "title": "point c",
+    "path": [
+      "chapter II",
+      "article 7",
+      "clause 2",
+      "point c"
+    ]
+  },
+  {
+    "id": "chunk:chapter II|article 7|clause 2|point c:1",
+    "type": "chunk",
+    "path": [
+      "chapter II",
+      "article 7",
+      "clause 2",
+      "point c"
+    ],
+    "chunk_id": 1,
+    "text": "c) Cá nhân kinh doanh có doanh thu năm trên 03 tỷ đồng đến 50 tỷ đồng: thuế suất 17%;",
+    "embedding_text": "[chapter II | article 7 | clause 2 | point c] c) Cá nhân kinh doanh có doanh thu năm trên 03 tỷ đồng đến 50 tỷ đồng: thuế suất 17%;"
+  },
+  {
+    "id": "section:chapter II|article 7|clause 2|point d",
+    "type": "section",
+    "title": "point d",
+    "path": [
+      "chapter II",
+      "article 7",
+      "clause 2",
+      "point d"
+    ]
+  },
+  {
+    "id": "chunk:chapter II|article 7|clause 2|point d:1",
+    "type": "chunk",
+    "path": [
+      "chapter II",
+      "article 7",
+      "clause 2",
+      "point d"
+    ],
+    "chunk_id": 1,
+    "text": "d) Cá nhân kinh doanh có doanh thu năm trên 50 tỷ đồng: thuế suất 20%. Thu nhập từ cho thuê bất động sản quy định tại khoản 4 Điều",
+    "embedding_text": "[chapter II | article 7 | clause 2 | point d] d) Cá nhân kinh doanh có doanh thu năm trên 50 tỷ đồng: thuế suất 20%. Thu nhập từ cho thuê bất động sản quy định tại khoản 4 Điều"
+  },
+  {
+    "id": "chunk:chapter II|article 7|clause 2|point d:2",
+    "type": "chunk",
+    "path": [
+      "chapter II",
+      "article 7",
+      "clause 2",
+      "point d"
+    ],
+    "chunk_id": 2,
+    "text": "định tại khoản 4 Điều này không áp dụng cách tính thuế quy định tại khoản này.",
+    "embedding_text": "[chapter II | article 7 | clause 2 | point d] định tại khoản 4 Điều này không áp dụng cách tính thuế quy định tại khoản này."
+  },
+  {
+    "id": "section:chapter II|article 7|clause 3",
+    "type": "section",
+    "title": "clause 3",
+    "path": [
+      "chapter II",
+      "article 7",
+      "clause 3"
+    ]
+  },
+  {
+    "id": "section:chapter II|article 7|clause 3|point a",
+    "type": "section",
+    "title": "point a",
+    "path": [
+      "chapter II",
+      "article 7",
+      "clause 3",
+      "point a"
+    ]
+  },
+  {
+    "id": "chunk:chapter II|article 7|clause 3|point a:1",
+    "type": "chunk",
+    "path": [
+      "chapter II",
+      "article 7",
+      "clause 3",
+      "point a"
+    ],
+    "chunk_id": 1,
+    "text": "a) Doanh thu tính thuế được xác định bằng phần doanh thu vượt trên mức quy định tại khoản 1 Điều này;",
+    "embedding_text": "[chapter II | article 7 | clause 3 | point a] a) Doanh thu tính thuế được xác định bằng phần doanh thu vượt trên mức quy định tại khoản 1 Điều này;"
+  },
+  {
+    "id": "section:chapter II|article 7|clause 3|point b",
+    "type": "section",
+    "title": "point b",
+    "path": [
+      "chapter II",
+      "article 7",
+      "clause 3",
+      "point b"
+    ]
+  },
+  {
+    "id": "chunk:chapter II|article 7|clause 3|point b:1",
+    "type": "chunk",
+    "path": [
+      "chapter II",
+      "article 7",
+      "clause 3",
+      "point b"
+    ],
+    "chunk_id": 1,
+    "text": "b) Phân phối, cung cấp hàng hoá: thuế suất 0,5%;",
+    "embedding_text": "[chapter II | article 7 | clause 3 | point b] b) Phân phối, cung cấp hàng hoá: thuế suất 0,5%;"
+  },
+  {
+    "id": "section:chapter II|article 7|clause 3|point c",
+    "type": "section",
+    "title": "point c",
+    "path": [
+      "chapter II",
+      "article 7",
+      "clause 3",
+      "point c"
+    ]
+  },
+  {
+    "id": "chunk:chapter II|article 7|clause 3|point c:1",
+    "type": "chunk",
+    "path": [
+      "chapter II",
+      "article 7",
+      "clause 3",
+      "point c"
+    ],
+    "chunk_id": 1,
+    "text": "c) Dịch vụ, xây dựng không bao thầu nguyên vật liệu: thuế suất 2%. Riêng hoạt động cho thuê tài sản, đại lý bảo hiểm, đại lý xổ số, đại",
+    "embedding_text": "[chapter II | article 7 | clause 3 | point c] c) Dịch vụ, xây dựng không bao thầu nguyên vật liệu: thuế suất 2%. Riêng hoạt động cho thuê tài sản, đại lý bảo hiểm, đại lý xổ số, đại"
+  },
+  {
+    "id": "chunk:chapter II|article 7|clause 3|point c:2",
+    "type": "chunk",
+    "path": [
+      "chapter II",
+      "article 7",
+      "clause 3",
+      "point c"
+    ],
+    "chunk_id": 2,
+    "text": "đại lý xổ số, đại lý bán hàng đa cấp: thuế suất 5%;",
+    "embedding_text": "[chapter II | article 7 | clause 3 | point c] đại lý xổ số, đại lý bán hàng đa cấp: thuế suất 5%;"
+  },
+  {
+    "id": "section:chapter II|article 7|clause 3|point d",
+    "type": "section",
+    "title": "point d",
+    "path": [
+      "chapter II",
+      "article 7",
+      "clause 3",
+      "point d"
+    ]
+  },
+  {
+    "id": "chunk:chapter II|article 7|clause 3|point d:1",
+    "type": "chunk",
+    "path": [
+      "chapter II",
+      "article 7",
+      "clause 3",
+      "point d"
+    ],
+    "chunk_id": 1,
+    "text": "d) Sản xuất, vận tải, dịch vụ có gắn với hàng hoá, xây dựng có bao thầu nguyên vật liệu: thuế suất 1,5%;",
+    "embedding_text": "[chapter II | article 7 | clause 3 | point d] d) Sản xuất, vận tải, dịch vụ có gắn với hàng hoá, xây dựng có bao thầu nguyên vật liệu: thuế suất 1,5%;"
+  },
+  {
+    "id": "chunk:chapter II|article 7|clause 3|point d:1",
+    "type": "chunk",
+    "path": [
+      "chapter II",
+      "article 7",
+      "clause 3",
+      "point d"
+    ],
+    "chunk_id": 1,
+    "text": "đ) Hoạt động cung cấp sản phẩm và dịch vụ nội dung thông tin số về giải trí, trò chơi điện tử, phim số, ảnh số, nhạc số, quảng cáo",
+    "embedding_text": "[chapter II | article 7 | clause 3 | point d] đ) Hoạt động cung cấp sản phẩm và dịch vụ nội dung thông tin số về giải trí, trò chơi điện tử, phim số, ảnh số, nhạc số, quảng cáo"
+  },
+  {
+    "id": "chunk:chapter II|article 7|clause 3|point d:2",
+    "type": "chunk",
+    "path": [
+      "chapter II",
+      "article 7",
+      "clause 3",
+      "point d"
+    ],
+    "chunk_id": 2,
+    "text": "số, nhạc số, quảng cáo số: thuế suất 5%;",
+    "embedding_text": "[chapter II | article 7 | clause 3 | point d] số, nhạc số, quảng cáo số: thuế suất 5%;"
+  },
+  {
+    "id": "section:chapter II|article 7|clause 3|point e",
+    "type": "section",
+    "title": "point e",
+    "path": [
+      "chapter II",
+      "article 7",
+      "clause 3",
+      "point e"
+    ]
+  },
+  {
+    "id": "chunk:chapter II|article 7|clause 3|point e:1",
+    "type": "chunk",
+    "path": [
+      "chapter II",
+      "article 7",
+      "clause 3",
+      "point e"
+    ],
+    "chunk_id": 1,
+    "text": "e) Hoạt động kinh doanh khác: thuế suất 1%.",
+    "embedding_text": "[chapter II | article 7 | clause 3 | point e] e) Hoạt động kinh doanh khác: thuế suất 1%."
+  },
+  {
+    "id": "section:chapter II|article 7|clause 4",
+    "type": "section",
+    "title": "clause 4",
+    "path": [
+      "chapter II",
+      "article 7",
+      "clause 4"
+    ]
+  },
+  {
+    "id": "chunk:chapter II|article 7|clause 4:1",
+    "type": "chunk",
+    "path": [
+      "chapter II",
+      "article 7",
+      "clause 4"
+    ],
+    "chunk_id": 1,
+    "text": "4. Cá nhân cho thuê bất động sản, trừ hoạt động kinh doanh lưu trú, nộp thuế thu nhập cá nhân được xác định bằng phần doanh thu vượt trên",
+    "embedding_text": "[chapter II | article 7 | clause 4] 4. Cá nhân cho thuê bất động sản, trừ hoạt động kinh doanh lưu trú, nộp thuế thu nhập cá nhân được xác định bằng phần doanh thu vượt trên"
+  },
+  {
+    "id": "chunk:chapter II|article 7|clause 4:2",
+    "type": "chunk",
+    "path": [
+      "chapter II",
+      "article 7",
+      "clause 4"
+    ],
+    "chunk_id": 2,
+    "text": "phần doanh thu vượt trên mức quy định tại khoản 1 Điều này nhân (x) với thuế suất 5%.",
+    "embedding_text": "[chapter II | article 7 | clause 4] phần doanh thu vượt trên mức quy định tại khoản 1 Điều này nhân (x) với thuế suất 5%."
+  },
+  {
+    "id": "section:chapter II|article 7|clause 5",
+    "type": "section",
+    "title": "clause 5",
+    "path": [
+      "chapter II",
+      "article 7",
+      "clause 5"
+    ]
+  },
+  {
+    "id": "chunk:chapter II|article 7|clause 5:1",
+    "type": "chunk",
+    "path": [
+      "chapter II",
+      "article 7",
+      "clause 5"
+    ],
+    "chunk_id": 1,
+    "text": "5. Chính phủ quy định chi tiết Điều này.",
+    "embedding_text": "[chapter II | article 7 | clause 5] 5. Chính phủ quy định chi tiết Điều này."
+  },
+  {
+    "id": "section:chapter II|article 8",
+    "type": "section",
+    "title": "article 8",
+    "path": [
+      "chapter II",
+      "article 8"
+    ]
+  },
+  {
+    "id": "section:chapter II|article 8|clause 1",
+    "type": "section",
+    "title": "clause 1",
+    "path": [
+      "chapter II",
+      "article 8",
+      "clause 1"
+    ]
+  },
+  {
+    "id": "chunk:chapter II|article 8|clause 1:1",
+    "type": "chunk",
+    "path": [
+      "chapter II",
+      "article 8",
+      "clause 1"
+    ],
+    "chunk_id": 1,
+    "text": "1. Thuế thu nhập cá nhân đối với thu nhập từ tiền lương, tiền công của cá nhân cư trú được xác định bằng thu nhập tính thuế quy định",
+    "embedding_text": "[chapter II | article 8 | clause 1] 1. Thuế thu nhập cá nhân đối với thu nhập từ tiền lương, tiền công của cá nhân cư trú được xác định bằng thu nhập tính thuế quy định"
+  },
+  {
+    "id": "chunk:chapter II|article 8|clause 1:2",
+    "type": "chunk",
+    "path": [
+      "chapter II",
+      "article 8",
+      "clause 1"
+    ],
+    "chunk_id": 2,
+    "text": "nhập tính thuế quy định tại khoản 2 Điều này, không phân biệt nơi trả thu nhập, nhân (x) với thuế suất tại Biểu thuế lũy tiến từng phần quy",
+    "embedding_text": "[chapter II | article 8 | clause 1] nhập tính thuế quy định tại khoản 2 Điều này, không phân biệt nơi trả thu nhập, nhân (x) với thuế suất tại Biểu thuế lũy tiến từng phần quy"
+  },
+  {
+    "id": "chunk:chapter II|article 8|clause 1:3",
+    "type": "chunk",
+    "path": [
+      "chapter II",
+      "article 8",
+      "clause 1"
+    ],
+    "chunk_id": 3,
+    "text": "lũy tiến từng phần quy định tại Điều 9 của Luật này.",
+    "embedding_text": "[chapter II | article 8 | clause 1] lũy tiến từng phần quy định tại Điều 9 của Luật này."
+  },
+  {
+    "id": "section:chapter II|article 8|clause 2",
+    "type": "section",
+    "title": "clause 2",
+    "path": [
+      "chapter II",
+      "article 8",
+      "clause 2"
+    ]
+  },
+  {
+    "id": "chunk:chapter II|article 8|clause 2:1",
+    "type": "chunk",
+    "path": [
+      "chapter II",
+      "article 8",
+      "clause 2"
+    ],
+    "chunk_id": 1,
+    "text": "2. Thu nhập tính thuế đối với thu nhập từ tiền lương, tiền công là tổng thu nhập chịu thuế quy định tại khoản 2 Điều 3 của Luật này",
+    "embedding_text": "[chapter II | article 8 | clause 2] 2. Thu nhập tính thuế đối với thu nhập từ tiền lương, tiền công là tổng thu nhập chịu thuế quy định tại khoản 2 Điều 3 của Luật này"
+  },
+  {
+    "id": "chunk:chapter II|article 8|clause 2:2",
+    "type": "chunk",
+    "path": [
+      "chapter II",
+      "article 8",
+      "clause 2"
+    ],
+    "chunk_id": 2,
+    "text": "Điều 3 của Luật này mà người nộp thuế nhận được trong kỳ tính thuế, trừ (-) đi các khoản đóng góp bảo hiểm xã hội, bảo hiểm y tế,",
+    "embedding_text": "[chapter II | article 8 | clause 2] Điều 3 của Luật này mà người nộp thuế nhận được trong kỳ tính thuế, trừ (-) đi các khoản đóng góp bảo hiểm xã hội, bảo hiểm y tế,"
+  },
+  {
+    "id": "chunk:chapter II|article 8|clause 2:3",
+    "type": "chunk",
+    "path": [
+      "chapter II",
+      "article 8",
+      "clause 2"
+    ],
+    "chunk_id": 3,
+    "text": "hội, bảo hiểm y tế, bảo hiểm thất nghiệp, bảo hiểm trách nhiệm nghề nghiệp đối với một số ngành, nghề phải tham gia bảo hiểm bắt buộc, khoản đóng",
+    "embedding_text": "[chapter II | article 8 | clause 2] hội, bảo hiểm y tế, bảo hiểm thất nghiệp, bảo hiểm trách nhiệm nghề nghiệp đối với một số ngành, nghề phải tham gia bảo hiểm bắt buộc, khoản đóng"
+  },
+  {
+    "id": "chunk:chapter II|article 8|clause 2:4",
+    "type": "chunk",
+    "path": [
+      "chapter II",
+      "article 8",
+      "clause 2"
+    ],
+    "chunk_id": 4,
+    "text": "hiểm bắt buộc, khoản đóng góp tham gia bảo hiểm hưu trí bổ sung theo quy định của Luật Bảo hiểm xã hội, mua bảo hiểm hưu trí tự nguyện,",
+    "embedding_text": "[chapter II | article 8 | clause 2] hiểm bắt buộc, khoản đóng góp tham gia bảo hiểm hưu trí bổ sung theo quy định của Luật Bảo hiểm xã hội, mua bảo hiểm hưu trí tự nguyện,"
+  },
+  {
+    "id": "chunk:chapter II|article 8|clause 2:5",
+    "type": "chunk",
+    "path": [
+      "chapter II",
+      "article 8",
+      "clause 2"
+    ],
+    "chunk_id": 5,
+    "text": "hiểm hưu trí tự nguyện, bảo hiểm nhân thọ không vượt quá mức do Chính phủ quy định và các khoản giảm trừ quy định tại Điều 10 và Điều",
+    "embedding_text": "[chapter II | article 8 | clause 2] hiểm hưu trí tự nguyện, bảo hiểm nhân thọ không vượt quá mức do Chính phủ quy định và các khoản giảm trừ quy định tại Điều 10 và Điều"
+  },
+  {
+    "id": "chunk:chapter II|article 8|clause 2:6",
+    "type": "chunk",
+    "path": [
+      "chapter II",
+      "article 8",
+      "clause 2"
+    ],
+    "chunk_id": 6,
+    "text": "tại Điều 10 và Điều 11 của Luật này.",
+    "embedding_text": "[chapter II | article 8 | clause 2] tại Điều 10 và Điều 11 của Luật này."
+  },
+  {
+    "id": "section:chapter II|article 8|clause 3",
+    "type": "section",
+    "title": "clause 3",
+    "path": [
+      "chapter II",
+      "article 8",
+      "clause 3"
+    ]
+  },
+  {
+    "id": "chunk:chapter II|article 8|clause 3:1",
+    "type": "chunk",
+    "path": [
+      "chapter II",
+      "article 8",
+      "clause 3"
+    ],
+    "chunk_id": 1,
+    "text": "3. Thời điểm xác định thu nhập tính thuế từ tiền lương, tiền công là thời điểm tổ chức, cá nhân trả thu nhập cho người nộp thuế hoặc thời",
+    "embedding_text": "[chapter II | article 8 | clause 3] 3. Thời điểm xác định thu nhập tính thuế từ tiền lương, tiền công là thời điểm tổ chức, cá nhân trả thu nhập cho người nộp thuế hoặc thời"
+  },
+  {
+    "id": "chunk:chapter II|article 8|clause 3:2",
+    "type": "chunk",
+    "path": [
+      "chapter II",
+      "article 8",
+      "clause 3"
+    ],
+    "chunk_id": 2,
+    "text": "người nộp thuế hoặc thời điểm người nộp thuế nhận được thu nhập.",
+    "embedding_text": "[chapter II | article 8 | clause 3] người nộp thuế hoặc thời điểm người nộp thuế nhận được thu nhập."
+  },
+  {
+    "id": "section:chapter II|article 9",
+    "type": "section",
+    "title": "article 9",
+    "path": [
+      "chapter II",
+      "article 9"
+    ]
+  },
+  {
+    "id": "section:chapter II|article 9|clause 1",
+    "type": "section",
+    "title": "clause 1",
+    "path": [
+      "chapter II",
+      "article 9",
+      "clause 1"
+    ]
+  },
+  {
+    "id": "chunk:chapter II|article 9|clause 1:1",
+    "type": "chunk",
+    "path": [
+      "chapter II",
+      "article 9",
+      "clause 1"
+    ],
+    "chunk_id": 1,
+    "text": "1. Biểu thuế luỹ tiến từng phần áp dụng đối với thu nhập tính thuế quy định tại khoản 2 Điều 8 của Luật này.",
+    "embedding_text": "[chapter II | article 9 | clause 1] 1. Biểu thuế luỹ tiến từng phần áp dụng đối với thu nhập tính thuế quy định tại khoản 2 Điều 8 của Luật này."
+  },
+  {
+    "id": "section:chapter II|article 9|clause 2",
+    "type": "section",
+    "title": "clause 2",
+    "path": [
+      "chapter II",
+      "article 9",
+      "clause 2"
+    ]
+  },
+  {
+    "id": "chunk:chapter II|article 9|clause 2:1",
+    "type": "chunk",
+    "path": [
+      "chapter II",
+      "article 9",
+      "clause 2"
+    ],
+    "chunk_id": 1,
+    "text": "2. Biểu thuế luỹ tiến từng phần được quy định như sau: |Bậc thuế|Phần thu nhập tính thuế/năm<br>(triệu đồng)|Phần thu nhập tính<br>thuế/tháng<br>(triệu đồng)|Thuế suất (%)| |---|---|---|---| |1|Đến 120|Đến 10|5| |2|Trên",
+    "embedding_text": "[chapter II | article 9 | clause 2] 2. Biểu thuế luỹ tiến từng phần được quy định như sau: |Bậc thuế|Phần thu nhập tính thuế/năm<br>(triệu đồng)|Phần thu nhập tính<br>thuế/tháng<br>(triệu đồng)|Thuế suất (%)| |---|---|---|---| |1|Đến 120|Đến 10|5| |2|Trên"
+  },
+  {
+    "id": "chunk:chapter II|article 9|clause 2:2",
+    "type": "chunk",
+    "path": [
+      "chapter II",
+      "article 9",
+      "clause 2"
+    ],
+    "chunk_id": 2,
+    "text": "|---|---|---|---| |1|Đến 120|Đến 10|5| |2|Trên 120 đến 360|Trên 10 đến 30|10| |3|Trên 360 đến 720|Trên 30 đến 60|20| |4|Trên 720 đến 1.200|Trên 60 đến 100|30| |5|Trên 1.200|Trên 100|35|",
+    "embedding_text": "[chapter II | article 9 | clause 2] |---|---|---|---| |1|Đến 120|Đến 10|5| |2|Trên 120 đến 360|Trên 10 đến 30|10| |3|Trên 360 đến 720|Trên 30 đến 60|20| |4|Trên 720 đến 1.200|Trên 60 đến 100|30| |5|Trên 1.200|Trên 100|35|"
+  },
+  {
+    "id": "section:chapter II|article 10",
+    "type": "section",
+    "title": "article 10",
+    "path": [
+      "chapter II",
+      "article 10"
+    ]
+  },
+  {
+    "id": "section:chapter II|article 10|clause 1",
+    "type": "section",
+    "title": "clause 1",
+    "path": [
+      "chapter II",
+      "article 10",
+      "clause 1"
+    ]
+  },
+  {
+    "id": "section:chapter II|article 10|clause 1|point a",
+    "type": "section",
+    "title": "point a",
+    "path": [
+      "chapter II",
+      "article 10",
+      "clause 1",
+      "point a"
+    ]
+  },
+  {
+    "id": "chunk:chapter II|article 10|clause 1|point a:1",
+    "type": "chunk",
+    "path": [
+      "chapter II",
+      "article 10",
+      "clause 1",
+      "point a"
+    ],
+    "chunk_id": 1,
+    "text": "a) Mức giảm trừ đối với người nộp thuế là 15,5 triệu đồng/tháng (186 triệu đồng/năm);",
+    "embedding_text": "[chapter II | article 10 | clause 1 | point a] a) Mức giảm trừ đối với người nộp thuế là 15,5 triệu đồng/tháng (186 triệu đồng/năm);"
+  },
+  {
+    "id": "section:chapter II|article 10|clause 1|point b",
+    "type": "section",
+    "title": "point b",
+    "path": [
+      "chapter II",
+      "article 10",
+      "clause 1",
+      "point b"
+    ]
+  },
+  {
+    "id": "chunk:chapter II|article 10|clause 1|point b:1",
+    "type": "chunk",
+    "path": [
+      "chapter II",
+      "article 10",
+      "clause 1",
+      "point b"
+    ],
+    "chunk_id": 1,
+    "text": "b) Mức giảm trừ đối với mỗi người phụ thuộc là 6,2 triệu đồng/tháng.",
+    "embedding_text": "[chapter II | article 10 | clause 1 | point b] b) Mức giảm trừ đối với mỗi người phụ thuộc là 6,2 triệu đồng/tháng."
+  },
+  {
+    "id": "section:chapter II|article 10|clause 2",
+    "type": "section",
+    "title": "clause 2",
+    "path": [
+      "chapter II",
+      "article 10",
+      "clause 2"
+    ]
+  },
+  {
+    "id": "chunk:chapter II|article 10|clause 2:1",
+    "type": "chunk",
+    "path": [
+      "chapter II",
+      "article 10",
+      "clause 2"
+    ],
+    "chunk_id": 1,
+    "text": "2. Căn cứ biến động của giá cả, thu nhập, Chính phủ trình Ủy ban Thường vụ Quốc hội quy định mức giảm trừ gia cảnh quy định tại khoản",
+    "embedding_text": "[chapter II | article 10 | clause 2] 2. Căn cứ biến động của giá cả, thu nhập, Chính phủ trình Ủy ban Thường vụ Quốc hội quy định mức giảm trừ gia cảnh quy định tại khoản"
+  },
+  {
+    "id": "chunk:chapter II|article 10|clause 2:2",
+    "type": "chunk",
+    "path": [
+      "chapter II",
+      "article 10",
+      "clause 2"
+    ],
+    "chunk_id": 2,
+    "text": "cảnh quy định tại khoản 1 Điều này phù hợp với tình hình kinh tế - xã hội trong từng thời kỳ.",
+    "embedding_text": "[chapter II | article 10 | clause 2] cảnh quy định tại khoản 1 Điều này phù hợp với tình hình kinh tế - xã hội trong từng thời kỳ."
+  },
+  {
+    "id": "section:chapter II|article 10|clause 3",
+    "type": "section",
+    "title": "clause 3",
+    "path": [
+      "chapter II",
+      "article 10",
+      "clause 3"
+    ]
+  },
+  {
+    "id": "chunk:chapter II|article 10|clause 3:1",
+    "type": "chunk",
+    "path": [
+      "chapter II",
+      "article 10",
+      "clause 3"
+    ],
+    "chunk_id": 1,
+    "text": "3. Việc xác định mức giảm trừ gia cảnh đối với người phụ thuộc thực hiện theo nguyên tắc mỗi người phụ thuộc chỉ được tính giảm trừ một lần",
+    "embedding_text": "[chapter II | article 10 | clause 3] 3. Việc xác định mức giảm trừ gia cảnh đối với người phụ thuộc thực hiện theo nguyên tắc mỗi người phụ thuộc chỉ được tính giảm trừ một lần"
+  },
+  {
+    "id": "chunk:chapter II|article 10|clause 3:2",
+    "type": "chunk",
+    "path": [
+      "chapter II",
+      "article 10",
+      "clause 3"
+    ],
+    "chunk_id": 2,
+    "text": "tính giảm trừ một lần vào một người nộp thuế.",
+    "embedding_text": "[chapter II | article 10 | clause 3] tính giảm trừ một lần vào một người nộp thuế."
+  },
+  {
+    "id": "section:chapter II|article 10|clause 4",
+    "type": "section",
+    "title": "clause 4",
+    "path": [
+      "chapter II",
+      "article 10",
+      "clause 4"
+    ]
+  },
+  {
+    "id": "section:chapter II|article 10|clause 4|point a",
+    "type": "section",
+    "title": "point a",
+    "path": [
+      "chapter II",
+      "article 10",
+      "clause 4",
+      "point a"
+    ]
+  },
+  {
+    "id": "chunk:chapter II|article 10|clause 4|point a:1",
+    "type": "chunk",
+    "path": [
+      "chapter II",
+      "article 10",
+      "clause 4",
+      "point a"
+    ],
+    "chunk_id": 1,
+    "text": "a) Con chưa thành niên; con là người mất năng lực hành vi dân sự, người khuyết tật, không có khả năng lao động;",
+    "embedding_text": "[chapter II | article 10 | clause 4 | point a] a) Con chưa thành niên; con là người mất năng lực hành vi dân sự, người khuyết tật, không có khả năng lao động;"
+  },
+  {
+    "id": "section:chapter II|article 10|clause 4|point b",
+    "type": "section",
+    "title": "point b",
+    "path": [
+      "chapter II",
+      "article 10",
+      "clause 4",
+      "point b"
+    ]
+  },
+  {
+    "id": "chunk:chapter II|article 10|clause 4|point b:1",
+    "type": "chunk",
+    "path": [
+      "chapter II",
+      "article 10",
+      "clause 4",
+      "point b"
+    ],
+    "chunk_id": 1,
+    "text": "b) Các cá nhân không có thu nhập hoặc có thu nhập không vượt quá mức do Bộ trưởng Bộ Tài chính quy định, bao gồm con thành niên đang",
+    "embedding_text": "[chapter II | article 10 | clause 4 | point b] b) Các cá nhân không có thu nhập hoặc có thu nhập không vượt quá mức do Bộ trưởng Bộ Tài chính quy định, bao gồm con thành niên đang"
+  },
+  {
+    "id": "chunk:chapter II|article 10|clause 4|point b:2",
+    "type": "chunk",
+    "path": [
+      "chapter II",
+      "article 10",
+      "clause 4",
+      "point b"
+    ],
+    "chunk_id": 2,
+    "text": "gồm con thành niên đang học đại học, cao đẳng, trung học chuyên nghiệp hoặc học nghề; vợ hoặc chồng không có khả năng lao động; bố, mẹ đã hết",
+    "embedding_text": "[chapter II | article 10 | clause 4 | point b] gồm con thành niên đang học đại học, cao đẳng, trung học chuyên nghiệp hoặc học nghề; vợ hoặc chồng không có khả năng lao động; bố, mẹ đã hết"
+  },
+  {
+    "id": "chunk:chapter II|article 10|clause 4|point b:3",
+    "type": "chunk",
+    "path": [
+      "chapter II",
+      "article 10",
+      "clause 4",
+      "point b"
+    ],
+    "chunk_id": 3,
+    "text": "động; bố, mẹ đã hết tuổi lao động hoặc không có khả năng lao động; những người khác không nơi nương tựa mà người nộp thuế phải trực tiếp nuôi",
+    "embedding_text": "[chapter II | article 10 | clause 4 | point b] động; bố, mẹ đã hết tuổi lao động hoặc không có khả năng lao động; những người khác không nơi nương tựa mà người nộp thuế phải trực tiếp nuôi"
+  },
+  {
+    "id": "chunk:chapter II|article 10|clause 4|point b:4",
+    "type": "chunk",
+    "path": [
+      "chapter II",
+      "article 10",
+      "clause 4",
+      "point b"
+    ],
+    "chunk_id": 4,
+    "text": "thuế phải trực tiếp nuôi dưỡng.",
+    "embedding_text": "[chapter II | article 10 | clause 4 | point b] thuế phải trực tiếp nuôi dưỡng."
+  },
+  {
+    "id": "section:chapter II|article 11",
+    "type": "section",
+    "title": "article 11",
+    "path": [
+      "chapter II",
+      "article 11"
+    ]
+  },
+  {
+    "id": "section:chapter II|article 11|clause 1",
+    "type": "section",
+    "title": "clause 1",
+    "path": [
+      "chapter II",
+      "article 11",
+      "clause 1"
+    ]
+  },
+  {
+    "id": "section:chapter II|article 11|clause 1|point a",
+    "type": "section",
+    "title": "point a",
+    "path": [
+      "chapter II",
+      "article 11",
+      "clause 1",
+      "point a"
+    ]
+  },
+  {
+    "id": "chunk:chapter II|article 11|clause 1|point a:1",
+    "type": "chunk",
+    "path": [
+      "chapter II",
+      "article 11",
+      "clause 1",
+      "point a"
+    ],
+    "chunk_id": 1,
+    "text": "a) Khoản đóng góp vào tổ chức, cơ sở chăm sóc, nuôi dưỡng trẻ em có hoàn cảnh đặc biệt khó khăn, người khuyết tật, người già không nơi nương",
+    "embedding_text": "[chapter II | article 11 | clause 1 | point a] a) Khoản đóng góp vào tổ chức, cơ sở chăm sóc, nuôi dưỡng trẻ em có hoàn cảnh đặc biệt khó khăn, người khuyết tật, người già không nơi nương"
+  },
+  {
+    "id": "chunk:chapter II|article 11|clause 1|point a:2",
+    "type": "chunk",
+    "path": [
+      "chapter II",
+      "article 11",
+      "clause 1",
+      "point a"
+    ],
+    "chunk_id": 2,
+    "text": "người già không nơi nương tựa;",
+    "embedding_text": "[chapter II | article 11 | clause 1 | point a] người già không nơi nương tựa;"
+  },
+  {
+    "id": "section:chapter II|article 11|clause 1|point b",
+    "type": "section",
+    "title": "point b",
+    "path": [
+      "chapter II",
+      "article 11",
+      "clause 1",
+      "point b"
+    ]
+  },
+  {
+    "id": "chunk:chapter II|article 11|clause 1|point b:1",
+    "type": "chunk",
+    "path": [
+      "chapter II",
+      "article 11",
+      "clause 1",
+      "point b"
+    ],
+    "chunk_id": 1,
+    "text": "b) Khoản đóng góp vào quỹ từ thiện, quỹ nhân đạo, quỹ khuyến học;",
+    "embedding_text": "[chapter II | article 11 | clause 1 | point b] b) Khoản đóng góp vào quỹ từ thiện, quỹ nhân đạo, quỹ khuyến học;"
+  },
+  {
+    "id": "section:chapter II|article 11|clause 1|point c",
+    "type": "section",
+    "title": "point c",
+    "path": [
+      "chapter II",
+      "article 11",
+      "clause 1",
+      "point c"
+    ]
+  },
+  {
+    "id": "chunk:chapter II|article 11|clause 1|point c:1",
+    "type": "chunk",
+    "path": [
+      "chapter II",
+      "article 11",
+      "clause 1",
+      "point c"
+    ],
+    "chunk_id": 1,
+    "text": "c) Khoản đóng góp vào các tổ chức có chức năng huy động tài trợ được thành lập và hoạt động theo quy định của pháp luật. Tổ chức, cơ",
+    "embedding_text": "[chapter II | article 11 | clause 1 | point c] c) Khoản đóng góp vào các tổ chức có chức năng huy động tài trợ được thành lập và hoạt động theo quy định của pháp luật. Tổ chức, cơ"
+  },
+  {
+    "id": "chunk:chapter II|article 11|clause 1|point c:2",
+    "type": "chunk",
+    "path": [
+      "chapter II",
+      "article 11",
+      "clause 1",
+      "point c"
+    ],
+    "chunk_id": 2,
+    "text": "pháp luật. Tổ chức, cơ sở và các quỹ quy định tại khoản này phải được cơ quan nhà nước có thẩm quyền cho phép thành lập hoặc công nhận,",
+    "embedding_text": "[chapter II | article 11 | clause 1 | point c] pháp luật. Tổ chức, cơ sở và các quỹ quy định tại khoản này phải được cơ quan nhà nước có thẩm quyền cho phép thành lập hoặc công nhận,"
+  },
+  {
+    "id": "chunk:chapter II|article 11|clause 1|point c:3",
+    "type": "chunk",
+    "path": [
+      "chapter II",
+      "article 11",
+      "clause 1",
+      "point c"
+    ],
+    "chunk_id": 3,
+    "text": "thành lập hoặc công nhận, hoạt động vì mục đích từ thiện, nhân đạo, khuyến học, không vì mục tiêu lợi nhuận.",
+    "embedding_text": "[chapter II | article 11 | clause 1 | point c] thành lập hoặc công nhận, hoạt động vì mục đích từ thiện, nhân đạo, khuyến học, không vì mục tiêu lợi nhuận."
+  },
+  {
+    "id": "section:chapter II|article 11|clause 2",
+    "type": "section",
+    "title": "clause 2",
+    "path": [
+      "chapter II",
+      "article 11",
+      "clause 2"
+    ]
+  },
+  {
+    "id": "chunk:chapter II|article 11|clause 2:1",
+    "type": "chunk",
+    "path": [
+      "chapter II",
+      "article 11",
+      "clause 2"
+    ],
+    "chunk_id": 1,
+    "text": "2. Khoản chi cho y tế, giáo dục - đào tạo của người nộp thuế, người phụ thuộc của người nộp thuế được giảm trừ vào thu nhập trước khi",
+    "embedding_text": "[chapter II | article 11 | clause 2] 2. Khoản chi cho y tế, giáo dục - đào tạo của người nộp thuế, người phụ thuộc của người nộp thuế được giảm trừ vào thu nhập trước khi"
+  },
+  {
+    "id": "chunk:chapter II|article 11|clause 2:2",
+    "type": "chunk",
+    "path": [
+      "chapter II",
+      "article 11",
+      "clause 2"
+    ],
+    "chunk_id": 2,
+    "text": "vào thu nhập trước khi tính thuế theo mức do Chính phủ quy định.",
+    "embedding_text": "[chapter II | article 11 | clause 2] vào thu nhập trước khi tính thuế theo mức do Chính phủ quy định."
+  },
+  {
+    "id": "section:chapter II|article 11|clause 3",
+    "type": "section",
+    "title": "clause 3",
+    "path": [
+      "chapter II",
+      "article 11",
+      "clause 3"
+    ]
+  },
+  {
+    "id": "chunk:chapter II|article 11|clause 3:1",
+    "type": "chunk",
+    "path": [
+      "chapter II",
+      "article 11",
+      "clause 3"
+    ],
+    "chunk_id": 1,
+    "text": "3. Các khoản chi quy định tại Điều này phải đáp ứng các điều kiện về hóa đơn, chứng từ theo quy định của pháp luật và không được chi",
+    "embedding_text": "[chapter II | article 11 | clause 3] 3. Các khoản chi quy định tại Điều này phải đáp ứng các điều kiện về hóa đơn, chứng từ theo quy định của pháp luật và không được chi"
+  },
+  {
+    "id": "chunk:chapter II|article 11|clause 3:2",
+    "type": "chunk",
+    "path": [
+      "chapter II",
+      "article 11",
+      "clause 3"
+    ],
+    "chunk_id": 2,
+    "text": "luật và không được chi trả từ các nguồn khác.",
+    "embedding_text": "[chapter II | article 11 | clause 3] luật và không được chi trả từ các nguồn khác."
+  },
+  {
+    "id": "section:chapter II|article 11|clause 4",
+    "type": "section",
+    "title": "clause 4",
+    "path": [
+      "chapter II",
+      "article 11",
+      "clause 4"
+    ]
+  },
+  {
+    "id": "chunk:chapter II|article 11|clause 4:1",
+    "type": "chunk",
+    "path": [
+      "chapter II",
+      "article 11",
+      "clause 4"
+    ],
+    "chunk_id": 1,
+    "text": "4. Chính phủ quy định chi tiết Điều này.",
+    "embedding_text": "[chapter II | article 11 | clause 4] 4. Chính phủ quy định chi tiết Điều này."
+  },
+  {
+    "id": "section:chapter II|article 12",
+    "type": "section",
+    "title": "article 12",
+    "path": [
+      "chapter II",
+      "article 12"
+    ]
+  },
+  {
+    "id": "section:chapter II|article 12|clause 1",
+    "type": "section",
+    "title": "clause 1",
+    "path": [
+      "chapter II",
+      "article 12",
+      "clause 1"
+    ]
+  },
+  {
+    "id": "chunk:chapter II|article 12|clause 1:1",
+    "type": "chunk",
+    "path": [
+      "chapter II",
+      "article 12",
+      "clause 1"
+    ],
+    "chunk_id": 1,
+    "text": "1. Thuế đối với thu nhập từ đầu tư vốn của cá nhân cư trú được xác định bằng thu nhập tính thuế nhân (x) với thuế suất 5%.",
+    "embedding_text": "[chapter II | article 12 | clause 1] 1. Thuế đối với thu nhập từ đầu tư vốn của cá nhân cư trú được xác định bằng thu nhập tính thuế nhân (x) với thuế suất 5%."
+  },
+  {
+    "id": "section:chapter II|article 12|clause 2",
+    "type": "section",
+    "title": "clause 2",
+    "path": [
+      "chapter II",
+      "article 12",
+      "clause 2"
+    ]
+  },
+  {
+    "id": "chunk:chapter II|article 12|clause 2:1",
+    "type": "chunk",
+    "path": [
+      "chapter II",
+      "article 12",
+      "clause 2"
+    ],
+    "chunk_id": 1,
+    "text": "2. Thu nhập tính thuế từ đầu tư vốn là tổng số các khoản thu nhập chịu thuế từ đầu tư vốn quy định tại khoản 3 Điều 3 của",
+    "embedding_text": "[chapter II | article 12 | clause 2] 2. Thu nhập tính thuế từ đầu tư vốn là tổng số các khoản thu nhập chịu thuế từ đầu tư vốn quy định tại khoản 3 Điều 3 của"
+  },
+  {
+    "id": "chunk:chapter II|article 12|clause 2:2",
+    "type": "chunk",
+    "path": [
+      "chapter II",
+      "article 12",
+      "clause 2"
+    ],
+    "chunk_id": 2,
+    "text": "khoản 3 Điều 3 của Luật này mà người nộp thuế nhận được theo từng lần phát sinh.",
+    "embedding_text": "[chapter II | article 12 | clause 2] khoản 3 Điều 3 của Luật này mà người nộp thuế nhận được theo từng lần phát sinh."
+  },
+  {
+    "id": "section:chapter II|article 12|clause 3",
+    "type": "section",
+    "title": "clause 3",
+    "path": [
+      "chapter II",
+      "article 12",
+      "clause 3"
+    ]
+  },
+  {
+    "id": "chunk:chapter II|article 12|clause 3:1",
+    "type": "chunk",
+    "path": [
+      "chapter II",
+      "article 12",
+      "clause 3"
+    ],
+    "chunk_id": 1,
+    "text": "3. Thời điểm xác định thu nhập tính thuế từ đầu tư vốn là thời điểm tổ chức, cá nhân trả thu nhập cho người nộp thuế hoặc thời điểm",
+    "embedding_text": "[chapter II | article 12 | clause 3] 3. Thời điểm xác định thu nhập tính thuế từ đầu tư vốn là thời điểm tổ chức, cá nhân trả thu nhập cho người nộp thuế hoặc thời điểm"
+  },
+  {
+    "id": "chunk:chapter II|article 12|clause 3:2",
+    "type": "chunk",
+    "path": [
+      "chapter II",
+      "article 12",
+      "clause 3"
+    ],
+    "chunk_id": 2,
+    "text": "nộp thuế hoặc thời điểm người nộp thuế nhận được thu nhập.",
+    "embedding_text": "[chapter II | article 12 | clause 3] nộp thuế hoặc thời điểm người nộp thuế nhận được thu nhập."
+  },
+  {
+    "id": "section:chapter II|article 12|clause 4",
+    "type": "section",
+    "title": "clause 4",
+    "path": [
+      "chapter II",
+      "article 12",
+      "clause 4"
+    ]
+  },
+  {
+    "id": "chunk:chapter II|article 12|clause 4:1",
+    "type": "chunk",
+    "path": [
+      "chapter II",
+      "article 12",
+      "clause 4"
+    ],
+    "chunk_id": 1,
+    "text": "4. Chính phủ quy định chi tiết Điều này.",
+    "embedding_text": "[chapter II | article 12 | clause 4] 4. Chính phủ quy định chi tiết Điều này."
+  },
+  {
+    "id": "section:chapter II|article 13",
+    "type": "section",
+    "title": "article 13",
+    "path": [
+      "chapter II",
+      "article 13"
+    ]
+  },
+  {
+    "id": "section:chapter II|article 13|clause 1",
+    "type": "section",
+    "title": "clause 1",
+    "path": [
+      "chapter II",
+      "article 13",
+      "clause 1"
+    ]
+  },
+  {
+    "id": "chunk:chapter II|article 13|clause 1:1",
+    "type": "chunk",
+    "path": [
+      "chapter II",
+      "article 13",
+      "clause 1"
+    ],
+    "chunk_id": 1,
+    "text": "1. Thuế thu nhập cá nhân đối với thu nhập từ chuyển nhượng vốn của cá nhân cư trú được xác định bằng thu nhập tính thuế nhân (x) với",
+    "embedding_text": "[chapter II | article 13 | clause 1] 1. Thuế thu nhập cá nhân đối với thu nhập từ chuyển nhượng vốn của cá nhân cư trú được xác định bằng thu nhập tính thuế nhân (x) với"
+  },
+  {
+    "id": "chunk:chapter II|article 13|clause 1:2",
+    "type": "chunk",
+    "path": [
+      "chapter II",
+      "article 13",
+      "clause 1"
+    ],
+    "chunk_id": 2,
+    "text": "tính thuế nhân (x) với thuế suất 20% theo từng lần chuyển nhượng. Trong đó, thu nhập tính thuế từ chuyển nhượng vốn được xác định bằng giá chuyển nhượng",
+    "embedding_text": "[chapter II | article 13 | clause 1] tính thuế nhân (x) với thuế suất 20% theo từng lần chuyển nhượng. Trong đó, thu nhập tính thuế từ chuyển nhượng vốn được xác định bằng giá chuyển nhượng"
+  },
+  {
+    "id": "chunk:chapter II|article 13|clause 1:3",
+    "type": "chunk",
+    "path": [
+      "chapter II",
+      "article 13",
+      "clause 1"
+    ],
+    "chunk_id": 3,
+    "text": "định bằng giá chuyển nhượng trừ (-) đi giá mua và các khoản chi phí hợp lý liên quan đến việc tạo ra thu nhập từ chuyển nhượng vốn. Trường",
+    "embedding_text": "[chapter II | article 13 | clause 1] định bằng giá chuyển nhượng trừ (-) đi giá mua và các khoản chi phí hợp lý liên quan đến việc tạo ra thu nhập từ chuyển nhượng vốn. Trường"
+  },
+  {
+    "id": "chunk:chapter II|article 13|clause 1:4",
+    "type": "chunk",
+    "path": [
+      "chapter II",
+      "article 13",
+      "clause 1"
+    ],
+    "chunk_id": 4,
+    "text": "từ chuyển nhượng vốn. Trường hợp không xác định giá mua và các chi phí liên quan đến việc chuyển nhượng vốn thì thuế thu nhập cá nhân được xác",
+    "embedding_text": "[chapter II | article 13 | clause 1] từ chuyển nhượng vốn. Trường hợp không xác định giá mua và các chi phí liên quan đến việc chuyển nhượng vốn thì thuế thu nhập cá nhân được xác"
+  },
+  {
+    "id": "chunk:chapter II|article 13|clause 1:5",
+    "type": "chunk",
+    "path": [
+      "chapter II",
+      "article 13",
+      "clause 1"
+    ],
+    "chunk_id": 5,
+    "text": "nhập cá nhân được xác định bằng giá chuyển nhượng nhân (x) với thuế suất 2%.",
+    "embedding_text": "[chapter II | article 13 | clause 1] nhập cá nhân được xác định bằng giá chuyển nhượng nhân (x) với thuế suất 2%."
+  },
+  {
+    "id": "section:chapter II|article 13|clause 2",
+    "type": "section",
+    "title": "clause 2",
+    "path": [
+      "chapter II",
+      "article 13",
+      "clause 2"
+    ]
+  },
+  {
+    "id": "chunk:chapter II|article 13|clause 2:1",
+    "type": "chunk",
+    "path": [
+      "chapter II",
+      "article 13",
+      "clause 2"
+    ],
+    "chunk_id": 1,
+    "text": "2. Thuế thu nhập cá nhân đối với thu nhập từ chuyển nhượng chứng khoán được xác định bằng giá chuyển nhượng nhân (x) với thuế suất 0,1% theo từng",
+    "embedding_text": "[chapter II | article 13 | clause 2] 2. Thuế thu nhập cá nhân đối với thu nhập từ chuyển nhượng chứng khoán được xác định bằng giá chuyển nhượng nhân (x) với thuế suất 0,1% theo từng"
+  },
+  {
+    "id": "chunk:chapter II|article 13|clause 2:2",
+    "type": "chunk",
+    "path": [
+      "chapter II",
+      "article 13",
+      "clause 2"
+    ],
+    "chunk_id": 2,
+    "text": "thuế suất 0,1% theo từng lần chuyển nhượng.",
+    "embedding_text": "[chapter II | article 13 | clause 2] thuế suất 0,1% theo từng lần chuyển nhượng."
+  },
+  {
+    "id": "section:chapter II|article 13|clause 3",
+    "type": "section",
+    "title": "clause 3",
+    "path": [
+      "chapter II",
+      "article 13",
+      "clause 3"
+    ]
+  },
+  {
+    "id": "chunk:chapter II|article 13|clause 3:1",
+    "type": "chunk",
+    "path": [
+      "chapter II",
+      "article 13",
+      "clause 3"
+    ],
+    "chunk_id": 1,
+    "text": "3. Thời điểm xác định thu nhập tính thuế là thời điểm giao dịch hoàn thành theo quy định của pháp luật.",
+    "embedding_text": "[chapter II | article 13 | clause 3] 3. Thời điểm xác định thu nhập tính thuế là thời điểm giao dịch hoàn thành theo quy định của pháp luật."
+  },
+  {
+    "id": "section:chapter II|article 13|clause 4",
+    "type": "section",
+    "title": "clause 4",
+    "path": [
+      "chapter II",
+      "article 13",
+      "clause 4"
+    ]
+  },
+  {
+    "id": "chunk:chapter II|article 13|clause 4:1",
+    "type": "chunk",
+    "path": [
+      "chapter II",
+      "article 13",
+      "clause 4"
+    ],
+    "chunk_id": 1,
+    "text": "4. Chính phủ quy định chi tiết Điều này.",
+    "embedding_text": "[chapter II | article 13 | clause 4] 4. Chính phủ quy định chi tiết Điều này."
+  },
+  {
+    "id": "section:chapter II|article 14",
+    "type": "section",
+    "title": "article 14",
+    "path": [
+      "chapter II",
+      "article 14"
+    ]
+  },
+  {
+    "id": "section:chapter II|article 14|clause 1",
+    "type": "section",
+    "title": "clause 1",
+    "path": [
+      "chapter II",
+      "article 14",
+      "clause 1"
+    ]
+  },
+  {
+    "id": "chunk:chapter II|article 14|clause 1:1",
+    "type": "chunk",
+    "path": [
+      "chapter II",
+      "article 14",
+      "clause 1"
+    ],
+    "chunk_id": 1,
+    "text": "1. Thuế thu nhập cá nhân đối với thu nhập từ chuyển nhượng bất động sản của cá nhân cư trú được xác định bằng giá chuyển nhượng nhân (x)",
+    "embedding_text": "[chapter II | article 14 | clause 1] 1. Thuế thu nhập cá nhân đối với thu nhập từ chuyển nhượng bất động sản của cá nhân cư trú được xác định bằng giá chuyển nhượng nhân (x)"
+  },
+  {
+    "id": "chunk:chapter II|article 14|clause 1:2",
+    "type": "chunk",
+    "path": [
+      "chapter II",
+      "article 14",
+      "clause 1"
+    ],
+    "chunk_id": 2,
+    "text": "giá chuyển nhượng nhân (x) với thuế suất 2%.",
+    "embedding_text": "[chapter II | article 14 | clause 1] giá chuyển nhượng nhân (x) với thuế suất 2%."
+  },
+  {
+    "id": "section:chapter II|article 14|clause 2",
+    "type": "section",
+    "title": "clause 2",
+    "path": [
+      "chapter II",
+      "article 14",
+      "clause 2"
+    ]
+  },
+  {
+    "id": "chunk:chapter II|article 14|clause 2:1",
+    "type": "chunk",
+    "path": [
+      "chapter II",
+      "article 14",
+      "clause 2"
+    ],
+    "chunk_id": 1,
+    "text": "2. Thời điểm xác định thu nhập tính thuế từ chuyển nhượng bất động sản là thời điểm hợp đồng chuyển nhượng có hiệu lực theo quy định của pháp",
+    "embedding_text": "[chapter II | article 14 | clause 2] 2. Thời điểm xác định thu nhập tính thuế từ chuyển nhượng bất động sản là thời điểm hợp đồng chuyển nhượng có hiệu lực theo quy định của pháp"
+  },
+  {
+    "id": "chunk:chapter II|article 14|clause 2:2",
+    "type": "chunk",
+    "path": [
+      "chapter II",
+      "article 14",
+      "clause 2"
+    ],
+    "chunk_id": 2,
+    "text": "theo quy định của pháp luật hoặc thời điểm đăng ký quyền sử dụng, quyền sở hữu bất động sản.",
+    "embedding_text": "[chapter II | article 14 | clause 2] theo quy định của pháp luật hoặc thời điểm đăng ký quyền sử dụng, quyền sở hữu bất động sản."
+  },
+  {
+    "id": "section:chapter II|article 14|clause 3",
+    "type": "section",
+    "title": "clause 3",
+    "path": [
+      "chapter II",
+      "article 14",
+      "clause 3"
+    ]
+  },
+  {
+    "id": "chunk:chapter II|article 14|clause 3:1",
+    "type": "chunk",
+    "path": [
+      "chapter II",
+      "article 14",
+      "clause 3"
+    ],
+    "chunk_id": 1,
+    "text": "3. Chính phủ quy định chi tiết Điều này.",
+    "embedding_text": "[chapter II | article 14 | clause 3] 3. Chính phủ quy định chi tiết Điều này."
+  },
+  {
+    "id": "section:chapter II|article 15",
+    "type": "section",
+    "title": "article 15",
+    "path": [
+      "chapter II",
+      "article 15"
+    ]
+  },
+  {
+    "id": "section:chapter II|article 15|clause 1",
+    "type": "section",
+    "title": "clause 1",
+    "path": [
+      "chapter II",
+      "article 15",
+      "clause 1"
+    ]
+  },
+  {
+    "id": "chunk:chapter II|article 15|clause 1:1",
+    "type": "chunk",
+    "path": [
+      "chapter II",
+      "article 15",
+      "clause 1"
+    ],
+    "chunk_id": 1,
+    "text": "1. Thuế thu nhập cá nhân đối với thu nhập từ trúng thưởng của cá nhân cư trú được xác định bằng thu nhập tính thuế nhân (x) với thuế",
+    "embedding_text": "[chapter II | article 15 | clause 1] 1. Thuế thu nhập cá nhân đối với thu nhập từ trúng thưởng của cá nhân cư trú được xác định bằng thu nhập tính thuế nhân (x) với thuế"
+  },
+  {
+    "id": "chunk:chapter II|article 15|clause 1:2",
+    "type": "chunk",
+    "path": [
+      "chapter II",
+      "article 15",
+      "clause 1"
+    ],
+    "chunk_id": 2,
+    "text": "thuế nhân (x) với thuế suất 10%.",
+    "embedding_text": "[chapter II | article 15 | clause 1] thuế nhân (x) với thuế suất 10%."
+  },
+  {
+    "id": "section:chapter II|article 15|clause 2",
+    "type": "section",
+    "title": "clause 2",
+    "path": [
+      "chapter II",
+      "article 15",
+      "clause 2"
+    ]
+  },
+  {
+    "id": "chunk:chapter II|article 15|clause 2:1",
+    "type": "chunk",
+    "path": [
+      "chapter II",
+      "article 15",
+      "clause 2"
+    ],
+    "chunk_id": 1,
+    "text": "2. Thu nhập tính thuế từ trúng thưởng là phần giá trị giải thưởng vượt trên 20 triệu đồng mà người nộp thuế nhận được theo từng lần trúng thưởng.",
+    "embedding_text": "[chapter II | article 15 | clause 2] 2. Thu nhập tính thuế từ trúng thưởng là phần giá trị giải thưởng vượt trên 20 triệu đồng mà người nộp thuế nhận được theo từng lần trúng thưởng."
+  },
+  {
+    "id": "section:chapter II|article 15|clause 3",
+    "type": "section",
+    "title": "clause 3",
+    "path": [
+      "chapter II",
+      "article 15",
+      "clause 3"
+    ]
+  },
+  {
+    "id": "chunk:chapter II|article 15|clause 3:1",
+    "type": "chunk",
+    "path": [
+      "chapter II",
+      "article 15",
+      "clause 3"
+    ],
+    "chunk_id": 1,
+    "text": "3. Thời điểm xác định thu nhập tính thuế từ trúng thưởng là thời điểm tổ chức, cá nhân trả thu nhập cho người nộp thuế.",
+    "embedding_text": "[chapter II | article 15 | clause 3] 3. Thời điểm xác định thu nhập tính thuế từ trúng thưởng là thời điểm tổ chức, cá nhân trả thu nhập cho người nộp thuế."
+  },
+  {
+    "id": "section:chapter II|article 16",
+    "type": "section",
+    "title": "article 16",
+    "path": [
+      "chapter II",
+      "article 16"
+    ]
+  },
+  {
+    "id": "section:chapter II|article 16|clause 1",
+    "type": "section",
+    "title": "clause 1",
+    "path": [
+      "chapter II",
+      "article 16",
+      "clause 1"
+    ]
+  },
+  {
+    "id": "chunk:chapter II|article 16|clause 1:1",
+    "type": "chunk",
+    "path": [
+      "chapter II",
+      "article 16",
+      "clause 1"
+    ],
+    "chunk_id": 1,
+    "text": "1. Thuế thu nhập cá nhân đối với thu nhập từ tiền bản quyền của cá nhân cư trú được tính bằng thu nhập tính thuế nhân (x) với thuế",
+    "embedding_text": "[chapter II | article 16 | clause 1] 1. Thuế thu nhập cá nhân đối với thu nhập từ tiền bản quyền của cá nhân cư trú được tính bằng thu nhập tính thuế nhân (x) với thuế"
+  },
+  {
+    "id": "chunk:chapter II|article 16|clause 1:2",
+    "type": "chunk",
+    "path": [
+      "chapter II",
+      "article 16",
+      "clause 1"
+    ],
+    "chunk_id": 2,
+    "text": "thuế nhân (x) với thuế suất 5%.",
+    "embedding_text": "[chapter II | article 16 | clause 1] thuế nhân (x) với thuế suất 5%."
+  },
+  {
+    "id": "section:chapter II|article 16|clause 2",
+    "type": "section",
+    "title": "clause 2",
+    "path": [
+      "chapter II",
+      "article 16",
+      "clause 2"
+    ]
+  },
+  {
+    "id": "chunk:chapter II|article 16|clause 2:1",
+    "type": "chunk",
+    "path": [
+      "chapter II",
+      "article 16",
+      "clause 2"
+    ],
+    "chunk_id": 1,
+    "text": "2. Thu nhập tính thuế từ tiền bản quyền là phần thu nhập vượt trên 20 triệu đồng mà người nộp thuế nhận được khi chuyển giao, chuyển quyền sử",
+    "embedding_text": "[chapter II | article 16 | clause 2] 2. Thu nhập tính thuế từ tiền bản quyền là phần thu nhập vượt trên 20 triệu đồng mà người nộp thuế nhận được khi chuyển giao, chuyển quyền sử"
+  },
+  {
+    "id": "chunk:chapter II|article 16|clause 2:2",
+    "type": "chunk",
+    "path": [
+      "chapter II",
+      "article 16",
+      "clause 2"
+    ],
+    "chunk_id": 2,
+    "text": "chuyển giao, chuyển quyền sử dụng các đối tượng của quyền sở hữu trí tuệ, chuyển giao công nghệ theo từng hợp đồng.",
+    "embedding_text": "[chapter II | article 16 | clause 2] chuyển giao, chuyển quyền sử dụng các đối tượng của quyền sở hữu trí tuệ, chuyển giao công nghệ theo từng hợp đồng."
+  },
+  {
+    "id": "section:chapter II|article 16|clause 3",
+    "type": "section",
+    "title": "clause 3",
+    "path": [
+      "chapter II",
+      "article 16",
+      "clause 3"
+    ]
+  },
+  {
+    "id": "chunk:chapter II|article 16|clause 3:1",
+    "type": "chunk",
+    "path": [
+      "chapter II",
+      "article 16",
+      "clause 3"
+    ],
+    "chunk_id": 1,
+    "text": "3. Thời điểm xác định thu nhập tính thuế từ tiền bản quyền là thời điểm tổ chức, cá nhân trả thu nhập cho người nộp thuế.",
+    "embedding_text": "[chapter II | article 16 | clause 3] 3. Thời điểm xác định thu nhập tính thuế từ tiền bản quyền là thời điểm tổ chức, cá nhân trả thu nhập cho người nộp thuế."
+  },
+  {
+    "id": "section:chapter II|article 17",
+    "type": "section",
+    "title": "article 17",
+    "path": [
+      "chapter II",
+      "article 17"
+    ]
+  },
+  {
+    "id": "section:chapter II|article 17|clause 1",
+    "type": "section",
+    "title": "clause 1",
+    "path": [
+      "chapter II",
+      "article 17",
+      "clause 1"
+    ]
+  },
+  {
+    "id": "chunk:chapter II|article 17|clause 1:1",
+    "type": "chunk",
+    "path": [
+      "chapter II",
+      "article 17",
+      "clause 1"
+    ],
+    "chunk_id": 1,
+    "text": "1. Thuế thu nhập cá nhân đối với thu nhập từ nhượng quyền thương mại của cá nhân cư trú được tính bằng thu nhập tính thuế nhân (x) với",
+    "embedding_text": "[chapter II | article 17 | clause 1] 1. Thuế thu nhập cá nhân đối với thu nhập từ nhượng quyền thương mại của cá nhân cư trú được tính bằng thu nhập tính thuế nhân (x) với"
+  },
+  {
+    "id": "chunk:chapter II|article 17|clause 1:2",
+    "type": "chunk",
+    "path": [
+      "chapter II",
+      "article 17",
+      "clause 1"
+    ],
+    "chunk_id": 2,
+    "text": "tính thuế nhân (x) với thuế suất 5%.",
+    "embedding_text": "[chapter II | article 17 | clause 1] tính thuế nhân (x) với thuế suất 5%."
+  },
+  {
+    "id": "section:chapter II|article 17|clause 2",
+    "type": "section",
+    "title": "clause 2",
+    "path": [
+      "chapter II",
+      "article 17",
+      "clause 2"
+    ]
+  },
+  {
+    "id": "chunk:chapter II|article 17|clause 2:1",
+    "type": "chunk",
+    "path": [
+      "chapter II",
+      "article 17",
+      "clause 2"
+    ],
+    "chunk_id": 1,
+    "text": "2. Thu nhập tính thuế từ nhượng quyền thương mại là phần thu nhập vượt trên 20 triệu đồng mà người nộp thuế nhận được theo từng hợp đồng nhượng",
+    "embedding_text": "[chapter II | article 17 | clause 2] 2. Thu nhập tính thuế từ nhượng quyền thương mại là phần thu nhập vượt trên 20 triệu đồng mà người nộp thuế nhận được theo từng hợp đồng nhượng"
+  },
+  {
+    "id": "chunk:chapter II|article 17|clause 2:2",
+    "type": "chunk",
+    "path": [
+      "chapter II",
+      "article 17",
+      "clause 2"
+    ],
+    "chunk_id": 2,
+    "text": "theo từng hợp đồng nhượng quyền thương mại.",
+    "embedding_text": "[chapter II | article 17 | clause 2] theo từng hợp đồng nhượng quyền thương mại."
+  },
+  {
+    "id": "section:chapter II|article 17|clause 3",
+    "type": "section",
+    "title": "clause 3",
+    "path": [
+      "chapter II",
+      "article 17",
+      "clause 3"
+    ]
+  },
+  {
+    "id": "chunk:chapter II|article 17|clause 3:1",
+    "type": "chunk",
+    "path": [
+      "chapter II",
+      "article 17",
+      "clause 3"
+    ],
+    "chunk_id": 1,
+    "text": "3. Thời điểm xác định thu nhập tính thuế từ nhượng quyền thương mại là thời điểm tổ chức, cá nhân trả thu nhập cho người nộp thuế.",
+    "embedding_text": "[chapter II | article 17 | clause 3] 3. Thời điểm xác định thu nhập tính thuế từ nhượng quyền thương mại là thời điểm tổ chức, cá nhân trả thu nhập cho người nộp thuế."
+  },
+  {
+    "id": "section:chapter II|article 18",
+    "type": "section",
+    "title": "article 18",
+    "path": [
+      "chapter II",
+      "article 18"
+    ]
+  },
+  {
+    "id": "section:chapter II|article 18|clause 1",
+    "type": "section",
+    "title": "clause 1",
+    "path": [
+      "chapter II",
+      "article 18",
+      "clause 1"
+    ]
+  },
+  {
+    "id": "chunk:chapter II|article 18|clause 1:1",
+    "type": "chunk",
+    "path": [
+      "chapter II",
+      "article 18",
+      "clause 1"
+    ],
+    "chunk_id": 1,
+    "text": "1. Thuế thu nhập cá nhân đối với thu nhập từ nhận thừa kế, quà tặng của cá nhân cư trú được xác định bằng thu nhập tính thuế nhân",
+    "embedding_text": "[chapter II | article 18 | clause 1] 1. Thuế thu nhập cá nhân đối với thu nhập từ nhận thừa kế, quà tặng của cá nhân cư trú được xác định bằng thu nhập tính thuế nhân"
+  },
+  {
+    "id": "chunk:chapter II|article 18|clause 1:2",
+    "type": "chunk",
+    "path": [
+      "chapter II",
+      "article 18",
+      "clause 1"
+    ],
+    "chunk_id": 2,
+    "text": "thu nhập tính thuế nhân (x) với thuế suất 10%.",
+    "embedding_text": "[chapter II | article 18 | clause 1] thu nhập tính thuế nhân (x) với thuế suất 10%."
+  },
+  {
+    "id": "section:chapter II|article 18|clause 2",
+    "type": "section",
+    "title": "clause 2",
+    "path": [
+      "chapter II",
+      "article 18",
+      "clause 2"
+    ]
+  },
+  {
+    "id": "chunk:chapter II|article 18|clause 2:1",
+    "type": "chunk",
+    "path": [
+      "chapter II",
+      "article 18",
+      "clause 2"
+    ],
+    "chunk_id": 1,
+    "text": "2. Thu nhập tính thuế từ nhận thừa kế, quà tặng là phần giá trị tài sản thừa kế, quà tặng vượt trên 20 triệu đồng mà người nộp thuế",
+    "embedding_text": "[chapter II | article 18 | clause 2] 2. Thu nhập tính thuế từ nhận thừa kế, quà tặng là phần giá trị tài sản thừa kế, quà tặng vượt trên 20 triệu đồng mà người nộp thuế"
+  },
+  {
+    "id": "chunk:chapter II|article 18|clause 2:2",
+    "type": "chunk",
+    "path": [
+      "chapter II",
+      "article 18",
+      "clause 2"
+    ],
+    "chunk_id": 2,
+    "text": "đồng mà người nộp thuế nhận được theo từng lần phát sinh.",
+    "embedding_text": "[chapter II | article 18 | clause 2] đồng mà người nộp thuế nhận được theo từng lần phát sinh."
+  },
+  {
+    "id": "section:chapter II|article 18|clause 3",
+    "type": "section",
+    "title": "clause 3",
+    "path": [
+      "chapter II",
+      "article 18",
+      "clause 3"
+    ]
+  },
+  {
+    "id": "section:chapter II|article 18|clause 3|point a",
+    "type": "section",
+    "title": "point a",
+    "path": [
+      "chapter II",
+      "article 18",
+      "clause 3",
+      "point a"
+    ]
+  },
+  {
+    "id": "chunk:chapter II|article 18|clause 3|point a:1",
+    "type": "chunk",
+    "path": [
+      "chapter II",
+      "article 18",
+      "clause 3",
+      "point a"
+    ],
+    "chunk_id": 1,
+    "text": "a) Đối với thu nhập từ nhận thừa kế là thời điểm người nộp thuế nhận được thừa kế;",
+    "embedding_text": "[chapter II | article 18 | clause 3 | point a] a) Đối với thu nhập từ nhận thừa kế là thời điểm người nộp thuế nhận được thừa kế;"
+  },
+  {
+    "id": "section:chapter II|article 18|clause 3|point b",
+    "type": "section",
+    "title": "point b",
+    "path": [
+      "chapter II",
+      "article 18",
+      "clause 3",
+      "point b"
+    ]
+  },
+  {
+    "id": "chunk:chapter II|article 18|clause 3|point b:1",
+    "type": "chunk",
+    "path": [
+      "chapter II",
+      "article 18",
+      "clause 3",
+      "point b"
+    ],
+    "chunk_id": 1,
+    "text": "b) Đối với thu nhập từ nhận quà tặng là thời điểm tổ chức, cá nhân tặng cho người nộp thuế hoặc thời điểm người nộp thuế nhận được thu",
+    "embedding_text": "[chapter II | article 18 | clause 3 | point b] b) Đối với thu nhập từ nhận quà tặng là thời điểm tổ chức, cá nhân tặng cho người nộp thuế hoặc thời điểm người nộp thuế nhận được thu"
+  },
+  {
+    "id": "chunk:chapter II|article 18|clause 3|point b:2",
+    "type": "chunk",
+    "path": [
+      "chapter II",
+      "article 18",
+      "clause 3",
+      "point b"
+    ],
+    "chunk_id": 2,
+    "text": "nộp thuế nhận được thu nhập.",
+    "embedding_text": "[chapter II | article 18 | clause 3 | point b] nộp thuế nhận được thu nhập."
+  },
+  {
+    "id": "section:chapter II|article 18|clause 4",
+    "type": "section",
+    "title": "clause 4",
+    "path": [
+      "chapter II",
+      "article 18",
+      "clause 4"
+    ]
+  },
+  {
+    "id": "chunk:chapter II|article 18|clause 4:1",
+    "type": "chunk",
+    "path": [
+      "chapter II",
+      "article 18",
+      "clause 4"
+    ],
+    "chunk_id": 1,
+    "text": "4. Chính phủ quy định chi tiết Điều này.",
+    "embedding_text": "[chapter II | article 18 | clause 4] 4. Chính phủ quy định chi tiết Điều này."
+  },
+  {
+    "id": "section:chapter II|article 19",
+    "type": "section",
+    "title": "article 19",
+    "path": [
+      "chapter II",
+      "article 19"
+    ]
+  },
+  {
+    "id": "section:chapter II|article 19|clause 1",
+    "type": "section",
+    "title": "clause 1",
+    "path": [
+      "chapter II",
+      "article 19",
+      "clause 1"
+    ]
+  },
+  {
+    "id": "chunk:chapter II|article 19|clause 1:1",
+    "type": "chunk",
+    "path": [
+      "chapter II",
+      "article 19",
+      "clause 1"
+    ],
+    "chunk_id": 1,
+    "text": "1. Thuế thu nhập cá nhân đối với thu nhập khác của cá nhân cư trú quy định tại các điểm a, b và c khoản 10 Điều 3 của",
+    "embedding_text": "[chapter II | article 19 | clause 1] 1. Thuế thu nhập cá nhân đối với thu nhập khác của cá nhân cư trú quy định tại các điểm a, b và c khoản 10 Điều 3 của"
+  },
+  {
+    "id": "chunk:chapter II|article 19|clause 1:2",
+    "type": "chunk",
+    "path": [
+      "chapter II",
+      "article 19",
+      "clause 1"
+    ],
+    "chunk_id": 2,
+    "text": "khoản 10 Điều 3 của Luật này được xác định bằng thu nhập tính thuế nhân (x) với thuế suất 5%. Trong đó, thu nhập tính thuế là phần thu",
+    "embedding_text": "[chapter II | article 19 | clause 1] khoản 10 Điều 3 của Luật này được xác định bằng thu nhập tính thuế nhân (x) với thuế suất 5%. Trong đó, thu nhập tính thuế là phần thu"
+  },
+  {
+    "id": "chunk:chapter II|article 19|clause 1:3",
+    "type": "chunk",
+    "path": [
+      "chapter II",
+      "article 19",
+      "clause 1"
+    ],
+    "chunk_id": 3,
+    "text": "tính thuế là phần thu nhập vượt trên 20 triệu đồng mà người nộp thuế nhận được theo từng lần phát sinh.",
+    "embedding_text": "[chapter II | article 19 | clause 1] tính thuế là phần thu nhập vượt trên 20 triệu đồng mà người nộp thuế nhận được theo từng lần phát sinh."
+  },
+  {
+    "id": "section:chapter II|article 19|clause 2",
+    "type": "section",
+    "title": "clause 2",
+    "path": [
+      "chapter II",
+      "article 19",
+      "clause 2"
+    ]
+  },
+  {
+    "id": "chunk:chapter II|article 19|clause 2:1",
+    "type": "chunk",
+    "path": [
+      "chapter II",
+      "article 19",
+      "clause 2"
+    ],
+    "chunk_id": 1,
+    "text": "2. Thuế thu nhập cá nhân đối với thu nhập khác của cá nhân cư trú quy định tại điểm d và điểm đ khoản 10 Điều 3 của Luật",
+    "embedding_text": "[chapter II | article 19 | clause 2] 2. Thuế thu nhập cá nhân đối với thu nhập khác của cá nhân cư trú quy định tại điểm d và điểm đ khoản 10 Điều 3 của Luật"
+  },
+  {
+    "id": "chunk:chapter II|article 19|clause 2:2",
+    "type": "chunk",
+    "path": [
+      "chapter II",
+      "article 19",
+      "clause 2"
+    ],
+    "chunk_id": 2,
+    "text": "10 Điều 3 của Luật này được xác định bằng giá chuyển nhượng nhân (x) với thuế suất 0,1%.",
+    "embedding_text": "[chapter II | article 19 | clause 2] 10 Điều 3 của Luật này được xác định bằng giá chuyển nhượng nhân (x) với thuế suất 0,1%."
+  },
+  {
+    "id": "section:chapter II|article 19|clause 3",
+    "type": "section",
+    "title": "clause 3",
+    "path": [
+      "chapter II",
+      "article 19",
+      "clause 3"
+    ]
+  },
+  {
+    "id": "chunk:chapter II|article 19|clause 3:1",
+    "type": "chunk",
+    "path": [
+      "chapter II",
+      "article 19",
+      "clause 3"
+    ],
+    "chunk_id": 1,
+    "text": "3. Thời điểm xác định thu nhập tính thuế là thời điểm tổ chức, cá nhân chi trả thu nhập cho người nộp thuế hoặc thời điểm người nộp thuế",
+    "embedding_text": "[chapter II | article 19 | clause 3] 3. Thời điểm xác định thu nhập tính thuế là thời điểm tổ chức, cá nhân chi trả thu nhập cho người nộp thuế hoặc thời điểm người nộp thuế"
+  },
+  {
+    "id": "chunk:chapter II|article 19|clause 3:2",
+    "type": "chunk",
+    "path": [
+      "chapter II",
+      "article 19",
+      "clause 3"
+    ],
+    "chunk_id": 2,
+    "text": "thời điểm người nộp thuế nhận được thu nhập.",
+    "embedding_text": "[chapter II | article 19 | clause 3] thời điểm người nộp thuế nhận được thu nhập."
+  },
+  {
+    "id": "section:chapter II|article 19|clause 4",
+    "type": "section",
+    "title": "clause 4",
+    "path": [
+      "chapter II",
+      "article 19",
+      "clause 4"
+    ]
+  },
+  {
+    "id": "chunk:chapter II|article 19|clause 4:1",
+    "type": "chunk",
+    "path": [
+      "chapter II",
+      "article 19",
+      "clause 4"
+    ],
+    "chunk_id": 1,
+    "text": "4. Chính phủ quy định chi tiết Điều này.",
+    "embedding_text": "[chapter II | article 19 | clause 4] 4. Chính phủ quy định chi tiết Điều này."
+  },
+  {
+    "id": "section:chapter III",
+    "type": "section",
+    "title": "chapter III",
+    "path": [
+      "chapter III"
+    ]
+  },
+  {
+    "id": "section:chapter III|article 20",
+    "type": "section",
+    "title": "article 20",
+    "path": [
+      "chapter III",
+      "article 20"
+    ]
+  },
+  {
+    "id": "section:chapter III|article 20|clause 1",
+    "type": "section",
+    "title": "clause 1",
+    "path": [
+      "chapter III",
+      "article 20",
+      "clause 1"
+    ]
+  },
+  {
+    "id": "chunk:chapter III|article 20|clause 1:1",
+    "type": "chunk",
+    "path": [
+      "chapter III",
+      "article 20",
+      "clause 1"
+    ],
+    "chunk_id": 1,
+    "text": "1. Thuế thu nhập cá nhân đối với thu nhập từ kinh doanh của cá nhân không cư trú được xác định bằng doanh thu từ hoạt động kinh doanh",
+    "embedding_text": "[chapter III | article 20 | clause 1] 1. Thuế thu nhập cá nhân đối với thu nhập từ kinh doanh của cá nhân không cư trú được xác định bằng doanh thu từ hoạt động kinh doanh"
+  },
+  {
+    "id": "chunk:chapter III|article 20|clause 1:2",
+    "type": "chunk",
+    "path": [
+      "chapter III",
+      "article 20",
+      "clause 1"
+    ],
+    "chunk_id": 2,
+    "text": "từ hoạt động kinh doanh quy định tại khoản 2 Điều này nhân (x) với thuế suất quy định tại khoản 3 Điều này.",
+    "embedding_text": "[chapter III | article 20 | clause 1] từ hoạt động kinh doanh quy định tại khoản 2 Điều này nhân (x) với thuế suất quy định tại khoản 3 Điều này."
+  },
+  {
+    "id": "section:chapter III|article 20|clause 2",
+    "type": "section",
+    "title": "clause 2",
+    "path": [
+      "chapter III",
+      "article 20",
+      "clause 2"
+    ]
+  },
+  {
+    "id": "chunk:chapter III|article 20|clause 2:1",
+    "type": "chunk",
+    "path": [
+      "chapter III",
+      "article 20",
+      "clause 2"
+    ],
+    "chunk_id": 1,
+    "text": "2. Doanh thu là toàn bộ tiền bán hàng, tiền gia công, tiền cung ứng dịch vụ kể cả trợ giá, phụ thu, phụ trội mà cá nhân được hưởng,",
+    "embedding_text": "[chapter III | article 20 | clause 2] 2. Doanh thu là toàn bộ tiền bán hàng, tiền gia công, tiền cung ứng dịch vụ kể cả trợ giá, phụ thu, phụ trội mà cá nhân được hưởng,"
+  },
+  {
+    "id": "chunk:chapter III|article 20|clause 2:2",
+    "type": "chunk",
+    "path": [
+      "chapter III",
+      "article 20",
+      "clause 2"
+    ],
+    "chunk_id": 2,
+    "text": "mà cá nhân được hưởng, không phân biệt đã thu được tiền hay chưa thu được tiền, bao gồm cả chi phí do bên mua hàng hoá, dịch vụ trả",
+    "embedding_text": "[chapter III | article 20 | clause 2] mà cá nhân được hưởng, không phân biệt đã thu được tiền hay chưa thu được tiền, bao gồm cả chi phí do bên mua hàng hoá, dịch vụ trả"
+  },
+  {
+    "id": "chunk:chapter III|article 20|clause 2:3",
+    "type": "chunk",
+    "path": [
+      "chapter III",
+      "article 20",
+      "clause 2"
+    ],
+    "chunk_id": 3,
+    "text": "hàng hoá, dịch vụ trả thay cho cá nhân không cư trú mà không được hoàn trả. Trường hợp thoả thuận hợp đồng không bao gồm thuế thu nhập cá",
+    "embedding_text": "[chapter III | article 20 | clause 2] hàng hoá, dịch vụ trả thay cho cá nhân không cư trú mà không được hoàn trả. Trường hợp thoả thuận hợp đồng không bao gồm thuế thu nhập cá"
+  },
+  {
+    "id": "chunk:chapter III|article 20|clause 2:4",
+    "type": "chunk",
+    "path": [
+      "chapter III",
+      "article 20",
+      "clause 2"
+    ],
+    "chunk_id": 4,
+    "text": "gồm thuế thu nhập cá nhân thì doanh thu tính thuế phải quy đổi là toàn bộ số tiền mà cá nhân không cư trú nhận được dưới bất kỳ",
+    "embedding_text": "[chapter III | article 20 | clause 2] gồm thuế thu nhập cá nhân thì doanh thu tính thuế phải quy đổi là toàn bộ số tiền mà cá nhân không cư trú nhận được dưới bất kỳ"
+  },
+  {
+    "id": "chunk:chapter III|article 20|clause 2:5",
+    "type": "chunk",
+    "path": [
+      "chapter III",
+      "article 20",
+      "clause 2"
+    ],
+    "chunk_id": 5,
+    "text": "nhận được dưới bất kỳ hình thức nào từ việc cung cấp hàng hoá, dịch vụ tại Việt Nam không phụ thuộc vào địa điểm tiến hành các hoạt động",
+    "embedding_text": "[chapter III | article 20 | clause 2] nhận được dưới bất kỳ hình thức nào từ việc cung cấp hàng hoá, dịch vụ tại Việt Nam không phụ thuộc vào địa điểm tiến hành các hoạt động"
+  },
+  {
+    "id": "chunk:chapter III|article 20|clause 2:6",
+    "type": "chunk",
+    "path": [
+      "chapter III",
+      "article 20",
+      "clause 2"
+    ],
+    "chunk_id": 6,
+    "text": "tiến hành các hoạt động kinh doanh.",
+    "embedding_text": "[chapter III | article 20 | clause 2] tiến hành các hoạt động kinh doanh."
+  },
+  {
+    "id": "section:chapter III|article 20|clause 3",
+    "type": "section",
+    "title": "clause 3",
+    "path": [
+      "chapter III",
+      "article 20",
+      "clause 3"
+    ]
+  },
+  {
+    "id": "section:chapter III|article 20|clause 3|point a",
+    "type": "section",
+    "title": "point a",
+    "path": [
+      "chapter III",
+      "article 20",
+      "clause 3",
+      "point a"
+    ]
+  },
+  {
+    "id": "chunk:chapter III|article 20|clause 3|point a:1",
+    "type": "chunk",
+    "path": [
+      "chapter III",
+      "article 20",
+      "clause 3",
+      "point a"
+    ],
+    "chunk_id": 1,
+    "text": "a) Phân phối, cung cấp hàng hoá: 1%;",
+    "embedding_text": "[chapter III | article 20 | clause 3 | point a] a) Phân phối, cung cấp hàng hoá: 1%;"
+  },
+  {
+    "id": "section:chapter III|article 20|clause 3|point b",
+    "type": "section",
+    "title": "point b",
+    "path": [
+      "chapter III",
+      "article 20",
+      "clause 3",
+      "point b"
+    ]
+  },
+  {
+    "id": "chunk:chapter III|article 20|clause 3|point b:1",
+    "type": "chunk",
+    "path": [
+      "chapter III",
+      "article 20",
+      "clause 3",
+      "point b"
+    ],
+    "chunk_id": 1,
+    "text": "b) Dịch vụ, xây dựng không bao thầu nguyên vật liệu: 5%;",
+    "embedding_text": "[chapter III | article 20 | clause 3 | point b] b) Dịch vụ, xây dựng không bao thầu nguyên vật liệu: 5%;"
+  },
+  {
+    "id": "section:chapter III|article 20|clause 3|point c",
+    "type": "section",
+    "title": "point c",
+    "path": [
+      "chapter III",
+      "article 20",
+      "clause 3",
+      "point c"
+    ]
+  },
+  {
+    "id": "chunk:chapter III|article 20|clause 3|point c:1",
+    "type": "chunk",
+    "path": [
+      "chapter III",
+      "article 20",
+      "clause 3",
+      "point c"
+    ],
+    "chunk_id": 1,
+    "text": "c) Sản xuất, vận tải, dịch vụ có gắn với hàng hoá, xây dựng có bao thầu nguyên vật liệu: 2%;",
+    "embedding_text": "[chapter III | article 20 | clause 3 | point c] c) Sản xuất, vận tải, dịch vụ có gắn với hàng hoá, xây dựng có bao thầu nguyên vật liệu: 2%;"
+  },
+  {
+    "id": "section:chapter III|article 20|clause 3|point d",
+    "type": "section",
+    "title": "point d",
+    "path": [
+      "chapter III",
+      "article 20",
+      "clause 3",
+      "point d"
+    ]
+  },
+  {
+    "id": "chunk:chapter III|article 20|clause 3|point d:1",
+    "type": "chunk",
+    "path": [
+      "chapter III",
+      "article 20",
+      "clause 3",
+      "point d"
+    ],
+    "chunk_id": 1,
+    "text": "d) Hoạt động cung cấp sản phẩm và dịch vụ nội dung thông tin số về giải trí, trò chơi điện tử, phim số, ảnh số, nhạc số, quảng cáo:",
+    "embedding_text": "[chapter III | article 20 | clause 3 | point d] d) Hoạt động cung cấp sản phẩm và dịch vụ nội dung thông tin số về giải trí, trò chơi điện tử, phim số, ảnh số, nhạc số, quảng cáo:"
+  },
+  {
+    "id": "chunk:chapter III|article 20|clause 3|point d:2",
+    "type": "chunk",
+    "path": [
+      "chapter III",
+      "article 20",
+      "clause 3",
+      "point d"
+    ],
+    "chunk_id": 2,
+    "text": "số, nhạc số, quảng cáo: 5%;",
+    "embedding_text": "[chapter III | article 20 | clause 3 | point d] số, nhạc số, quảng cáo: 5%;"
+  },
+  {
+    "id": "chunk:chapter III|article 20|clause 3|point d:1",
+    "type": "chunk",
+    "path": [
+      "chapter III",
+      "article 20",
+      "clause 3",
+      "point d"
+    ],
+    "chunk_id": 1,
+    "text": "đ) Hoạt động kinh doanh khác: 2%.",
+    "embedding_text": "[chapter III | article 20 | clause 3 | point d] đ) Hoạt động kinh doanh khác: 2%."
+  },
+  {
+    "id": "section:chapter III|article 21",
+    "type": "section",
+    "title": "article 21",
+    "path": [
+      "chapter III",
+      "article 21"
+    ]
+  },
+  {
+    "id": "chunk:chapter III|article 21:1",
+    "type": "chunk",
+    "path": [
+      "chapter III",
+      "article 21"
+    ],
+    "chunk_id": 1,
+    "text": "# **Điều 21. Thuế thu nhập cá nhân đối với thu nhập từ tiền lương, tiền công** Thuế thu nhập cá nhân đối với thu nhập từ tiền lương, tiền",
+    "embedding_text": "[chapter III | article 21] # **Điều 21. Thuế thu nhập cá nhân đối với thu nhập từ tiền lương, tiền công** Thuế thu nhập cá nhân đối với thu nhập từ tiền lương, tiền"
+  },
+  {
+    "id": "chunk:chapter III|article 21:2",
+    "type": "chunk",
+    "path": [
+      "chapter III",
+      "article 21"
+    ],
+    "chunk_id": 2,
+    "text": "nhập từ tiền lương, tiền công của cá nhân không cư trú được xác định bằng tổng số tiền lương, tiền công mà cá nhân không cư trú nhận được",
+    "embedding_text": "[chapter III | article 21] nhập từ tiền lương, tiền công của cá nhân không cư trú được xác định bằng tổng số tiền lương, tiền công mà cá nhân không cư trú nhận được"
+  },
+  {
+    "id": "chunk:chapter III|article 21:3",
+    "type": "chunk",
+    "path": [
+      "chapter III",
+      "article 21"
+    ],
+    "chunk_id": 3,
+    "text": "không cư trú nhận được do thực hiện công việc tại Việt Nam nhân (x) với thuế suất 20%, không phân biệt nơi trả thu nhập.",
+    "embedding_text": "[chapter III | article 21] không cư trú nhận được do thực hiện công việc tại Việt Nam nhân (x) với thuế suất 20%, không phân biệt nơi trả thu nhập."
+  },
+  {
+    "id": "section:chapter III|article 22",
+    "type": "section",
+    "title": "article 22",
+    "path": [
+      "chapter III",
+      "article 22"
+    ]
+  },
+  {
+    "id": "chunk:chapter III|article 22:1",
+    "type": "chunk",
+    "path": [
+      "chapter III",
+      "article 22"
+    ],
+    "chunk_id": 1,
+    "text": "# **Điều 22. Thuế thu nhập cá nhân đối với thu nhập từ đầu tư vốn** Thuế thu nhập cá nhân đối với thu nhập từ đầu tư vốn của",
+    "embedding_text": "[chapter III | article 22] # **Điều 22. Thuế thu nhập cá nhân đối với thu nhập từ đầu tư vốn** Thuế thu nhập cá nhân đối với thu nhập từ đầu tư vốn của"
+  },
+  {
+    "id": "chunk:chapter III|article 22:2",
+    "type": "chunk",
+    "path": [
+      "chapter III",
+      "article 22"
+    ],
+    "chunk_id": 2,
+    "text": "từ đầu tư vốn của cá nhân không cư trú được xác định bằng tổng số thu nhập mà cá nhân không cư trú nhận được từ việc đầu tư",
+    "embedding_text": "[chapter III | article 22] từ đầu tư vốn của cá nhân không cư trú được xác định bằng tổng số thu nhập mà cá nhân không cư trú nhận được từ việc đầu tư"
+  },
+  {
+    "id": "chunk:chapter III|article 22:3",
+    "type": "chunk",
+    "path": [
+      "chapter III",
+      "article 22"
+    ],
+    "chunk_id": 3,
+    "text": "được từ việc đầu tư vốn vào tổ chức, cá nhân tại Việt Nam nhân (x) với thuế suất 5%.",
+    "embedding_text": "[chapter III | article 22] được từ việc đầu tư vốn vào tổ chức, cá nhân tại Việt Nam nhân (x) với thuế suất 5%."
+  },
+  {
+    "id": "section:chapter III|article 23",
+    "type": "section",
+    "title": "article 23",
+    "path": [
+      "chapter III",
+      "article 23"
+    ]
+  },
+  {
+    "id": "section:chapter III|article 23|clause 1",
+    "type": "section",
+    "title": "clause 1",
+    "path": [
+      "chapter III",
+      "article 23",
+      "clause 1"
+    ]
+  },
+  {
+    "id": "chunk:chapter III|article 23|clause 1:1",
+    "type": "chunk",
+    "path": [
+      "chapter III",
+      "article 23",
+      "clause 1"
+    ],
+    "chunk_id": 1,
+    "text": "1. Thuế thu nhập cá nhân đối với thu nhập từ chuyển nhượng vốn của cá nhân không cư trú được xác định bằng thu nhập tính thuế nhân (x)",
+    "embedding_text": "[chapter III | article 23 | clause 1] 1. Thuế thu nhập cá nhân đối với thu nhập từ chuyển nhượng vốn của cá nhân không cư trú được xác định bằng thu nhập tính thuế nhân (x)"
+  },
+  {
+    "id": "chunk:chapter III|article 23|clause 1:2",
+    "type": "chunk",
+    "path": [
+      "chapter III",
+      "article 23",
+      "clause 1"
+    ],
+    "chunk_id": 2,
+    "text": "nhập tính thuế nhân (x) với thuế suất 20% theo từng lần phát sinh, không phân biệt việc chuyển nhượng được thực hiện tại Việt Nam hay tại nước ngoài.",
+    "embedding_text": "[chapter III | article 23 | clause 1] nhập tính thuế nhân (x) với thuế suất 20% theo từng lần phát sinh, không phân biệt việc chuyển nhượng được thực hiện tại Việt Nam hay tại nước ngoài."
+  },
+  {
+    "id": "chunk:chapter III|article 23|clause 1:3",
+    "type": "chunk",
+    "path": [
+      "chapter III",
+      "article 23",
+      "clause 1"
+    ],
+    "chunk_id": 3,
+    "text": "Nam hay tại nước ngoài. Trong đó, thu nhập tính thuế từ chuyển nhượng vốn được xác định bằng giá chuyển nhượng trừ (-) đi giá mua và các khoản",
+    "embedding_text": "[chapter III | article 23 | clause 1] Nam hay tại nước ngoài. Trong đó, thu nhập tính thuế từ chuyển nhượng vốn được xác định bằng giá chuyển nhượng trừ (-) đi giá mua và các khoản"
+  },
+  {
+    "id": "chunk:chapter III|article 23|clause 1:4",
+    "type": "chunk",
+    "path": [
+      "chapter III",
+      "article 23",
+      "clause 1"
+    ],
+    "chunk_id": 4,
+    "text": "giá mua và các khoản chi phí hợp lý liên quan đến việc tạo ra thu nhập từ chuyển nhượng phần vốn tại tổ chức, cá nhân Việt Nam. Trường",
+    "embedding_text": "[chapter III | article 23 | clause 1] giá mua và các khoản chi phí hợp lý liên quan đến việc tạo ra thu nhập từ chuyển nhượng phần vốn tại tổ chức, cá nhân Việt Nam. Trường"
+  },
+  {
+    "id": "chunk:chapter III|article 23|clause 1:5",
+    "type": "chunk",
+    "path": [
+      "chapter III",
+      "article 23",
+      "clause 1"
+    ],
+    "chunk_id": 5,
+    "text": "cá nhân Việt Nam. Trường hợp không xác định được giá mua và các chi phí liên quan đến việc chuyển nhượng vốn thì thuế thu nhập cá nhân được",
+    "embedding_text": "[chapter III | article 23 | clause 1] cá nhân Việt Nam. Trường hợp không xác định được giá mua và các chi phí liên quan đến việc chuyển nhượng vốn thì thuế thu nhập cá nhân được"
+  },
+  {
+    "id": "chunk:chapter III|article 23|clause 1:6",
+    "type": "chunk",
+    "path": [
+      "chapter III",
+      "article 23",
+      "clause 1"
+    ],
+    "chunk_id": 6,
+    "text": "thu nhập cá nhân được xác định bằng giá chuyển nhượng phần vốn tại tổ chức, cá nhân Việt Nam nhân (x) với thuế suất 2%.",
+    "embedding_text": "[chapter III | article 23 | clause 1] thu nhập cá nhân được xác định bằng giá chuyển nhượng phần vốn tại tổ chức, cá nhân Việt Nam nhân (x) với thuế suất 2%."
+  },
+  {
+    "id": "section:chapter III|article 23|clause 2",
+    "type": "section",
+    "title": "clause 2",
+    "path": [
+      "chapter III",
+      "article 23",
+      "clause 2"
+    ]
+  },
+  {
+    "id": "chunk:chapter III|article 23|clause 2:1",
+    "type": "chunk",
+    "path": [
+      "chapter III",
+      "article 23",
+      "clause 2"
+    ],
+    "chunk_id": 1,
+    "text": "2. Thuế thu nhập cá nhân đối với thu nhập từ chuyển nhượng chứng khoán của cá nhân không cư trú được xác định bằng giá chuyển nhượng nhân (x)",
+    "embedding_text": "[chapter III | article 23 | clause 2] 2. Thuế thu nhập cá nhân đối với thu nhập từ chuyển nhượng chứng khoán của cá nhân không cư trú được xác định bằng giá chuyển nhượng nhân (x)"
+  },
+  {
+    "id": "chunk:chapter III|article 23|clause 2:2",
+    "type": "chunk",
+    "path": [
+      "chapter III",
+      "article 23",
+      "clause 2"
+    ],
+    "chunk_id": 2,
+    "text": "giá chuyển nhượng nhân (x) với thuế suất 0,1%.",
+    "embedding_text": "[chapter III | article 23 | clause 2] giá chuyển nhượng nhân (x) với thuế suất 0,1%."
+  },
+  {
+    "id": "section:chapter III|article 23|clause 3",
+    "type": "section",
+    "title": "clause 3",
+    "path": [
+      "chapter III",
+      "article 23",
+      "clause 3"
+    ]
+  },
+  {
+    "id": "chunk:chapter III|article 23|clause 3:1",
+    "type": "chunk",
+    "path": [
+      "chapter III",
+      "article 23",
+      "clause 3"
+    ],
+    "chunk_id": 1,
+    "text": "3. Chính phủ quy định chi tiết Điều này.",
+    "embedding_text": "[chapter III | article 23 | clause 3] 3. Chính phủ quy định chi tiết Điều này."
+  },
+  {
+    "id": "section:chapter III|article 24",
+    "type": "section",
+    "title": "article 24",
+    "path": [
+      "chapter III",
+      "article 24"
+    ]
+  },
+  {
+    "id": "section:chapter III|article 24|clause 1",
+    "type": "section",
+    "title": "clause 1",
+    "path": [
+      "chapter III",
+      "article 24",
+      "clause 1"
+    ]
+  },
+  {
+    "id": "chunk:chapter III|article 24|clause 1:1",
+    "type": "chunk",
+    "path": [
+      "chapter III",
+      "article 24",
+      "clause 1"
+    ],
+    "chunk_id": 1,
+    "text": "1. Thuế thu nhập cá nhân đối với thu nhập từ chuyển nhượng bất động sản của cá nhân không cư trú được xác định bằng giá chuyển nhượng nhân",
+    "embedding_text": "[chapter III | article 24 | clause 1] 1. Thuế thu nhập cá nhân đối với thu nhập từ chuyển nhượng bất động sản của cá nhân không cư trú được xác định bằng giá chuyển nhượng nhân"
+  },
+  {
+    "id": "chunk:chapter III|article 24|clause 1:2",
+    "type": "chunk",
+    "path": [
+      "chapter III",
+      "article 24",
+      "clause 1"
+    ],
+    "chunk_id": 2,
+    "text": "bằng giá chuyển nhượng nhân (x) với thuế suất 2%.",
+    "embedding_text": "[chapter III | article 24 | clause 1] bằng giá chuyển nhượng nhân (x) với thuế suất 2%."
+  },
+  {
+    "id": "section:chapter III|article 24|clause 2",
+    "type": "section",
+    "title": "clause 2",
+    "path": [
+      "chapter III",
+      "article 24",
+      "clause 2"
+    ]
+  },
+  {
+    "id": "chunk:chapter III|article 24|clause 2:1",
+    "type": "chunk",
+    "path": [
+      "chapter III",
+      "article 24",
+      "clause 2"
+    ],
+    "chunk_id": 1,
+    "text": "2. Chính phủ quy định chi tiết Điều này.",
+    "embedding_text": "[chapter III | article 24 | clause 2] 2. Chính phủ quy định chi tiết Điều này."
+  },
+  {
+    "id": "section:chapter III|article 25",
+    "type": "section",
+    "title": "article 25",
+    "path": [
+      "chapter III",
+      "article 25"
+    ]
+  },
+  {
+    "id": "section:chapter III|article 25|clause 1",
+    "type": "section",
+    "title": "clause 1",
+    "path": [
+      "chapter III",
+      "article 25",
+      "clause 1"
+    ]
+  },
+  {
+    "id": "chunk:chapter III|article 25|clause 1:1",
+    "type": "chunk",
+    "path": [
+      "chapter III",
+      "article 25",
+      "clause 1"
+    ],
+    "chunk_id": 1,
+    "text": "1. Thuế thu nhập cá nhân đối với thu nhập từ tiền bản quyền của cá nhân không cư trú được xác định bằng phần thu nhập vượt trên 20",
+    "embedding_text": "[chapter III | article 25 | clause 1] 1. Thuế thu nhập cá nhân đối với thu nhập từ tiền bản quyền của cá nhân không cư trú được xác định bằng phần thu nhập vượt trên 20"
+  },
+  {
+    "id": "chunk:chapter III|article 25|clause 1:2",
+    "type": "chunk",
+    "path": [
+      "chapter III",
+      "article 25",
+      "clause 1"
+    ],
+    "chunk_id": 2,
+    "text": "thu nhập vượt trên 20 triệu đồng theo từng hợp đồng chuyển giao, chuyển quyền sử dụng các đối tượng của quyền sở hữu trí tuệ, chuyển giao công nghệ",
+    "embedding_text": "[chapter III | article 25 | clause 1] thu nhập vượt trên 20 triệu đồng theo từng hợp đồng chuyển giao, chuyển quyền sử dụng các đối tượng của quyền sở hữu trí tuệ, chuyển giao công nghệ"
+  },
+  {
+    "id": "chunk:chapter III|article 25|clause 1:3",
+    "type": "chunk",
+    "path": [
+      "chapter III",
+      "article 25",
+      "clause 1"
+    ],
+    "chunk_id": 3,
+    "text": "tuệ, chuyển giao công nghệ tại Việt Nam nhân (x) với thuế suất 5%.",
+    "embedding_text": "[chapter III | article 25 | clause 1] tuệ, chuyển giao công nghệ tại Việt Nam nhân (x) với thuế suất 5%."
+  },
+  {
+    "id": "section:chapter III|article 25|clause 2",
+    "type": "section",
+    "title": "clause 2",
+    "path": [
+      "chapter III",
+      "article 25",
+      "clause 2"
+    ]
+  },
+  {
+    "id": "chunk:chapter III|article 25|clause 2:1",
+    "type": "chunk",
+    "path": [
+      "chapter III",
+      "article 25",
+      "clause 2"
+    ],
+    "chunk_id": 1,
+    "text": "2. Thuế thu nhập cá nhân đối với thu nhập từ nhượng quyền thương mại của cá nhân không cư trú được xác định bằng phần thu nhập vượt trên",
+    "embedding_text": "[chapter III | article 25 | clause 2] 2. Thuế thu nhập cá nhân đối với thu nhập từ nhượng quyền thương mại của cá nhân không cư trú được xác định bằng phần thu nhập vượt trên"
+  },
+  {
+    "id": "chunk:chapter III|article 25|clause 2:2",
+    "type": "chunk",
+    "path": [
+      "chapter III",
+      "article 25",
+      "clause 2"
+    ],
+    "chunk_id": 2,
+    "text": "phần thu nhập vượt trên 20 triệu đồng theo từng hợp đồng nhượng quyền thương mại tại Việt Nam nhân (x) với thuế suất 5%.",
+    "embedding_text": "[chapter III | article 25 | clause 2] phần thu nhập vượt trên 20 triệu đồng theo từng hợp đồng nhượng quyền thương mại tại Việt Nam nhân (x) với thuế suất 5%."
+  },
+  {
+    "id": "section:chapter III|article 26",
+    "type": "section",
+    "title": "article 26",
+    "path": [
+      "chapter III",
+      "article 26"
+    ]
+  },
+  {
+    "id": "chunk:chapter III|article 26:1",
+    "type": "chunk",
+    "path": [
+      "chapter III",
+      "article 26"
+    ],
+    "chunk_id": 1,
+    "text": "# **Điều 26. Thuế thu nhập cá nhân đối với thu nhập từ trúng thưởng, nhận thừa kế, quà tặng** Thuế thu nhập cá nhân đối với thu nhập từ",
+    "embedding_text": "[chapter III | article 26] # **Điều 26. Thuế thu nhập cá nhân đối với thu nhập từ trúng thưởng, nhận thừa kế, quà tặng** Thuế thu nhập cá nhân đối với thu nhập từ"
+  },
+  {
+    "id": "chunk:chapter III|article 26:2",
+    "type": "chunk",
+    "path": [
+      "chapter III",
+      "article 26"
+    ],
+    "chunk_id": 2,
+    "text": "đối với thu nhập từ trúng thưởng, nhận thừa kế, quà tặng của cá nhân không cư trú được xác định bằng phần giá trị vượt trên 20 triệu đồng",
+    "embedding_text": "[chapter III | article 26] đối với thu nhập từ trúng thưởng, nhận thừa kế, quà tặng của cá nhân không cư trú được xác định bằng phần giá trị vượt trên 20 triệu đồng"
+  },
+  {
+    "id": "chunk:chapter III|article 26:3",
+    "type": "chunk",
+    "path": [
+      "chapter III",
+      "article 26"
+    ],
+    "chunk_id": 3,
+    "text": "vượt trên 20 triệu đồng theo từng lần trúng thưởng, nhận thừa kế, quà tặng tại Việt Nam nhân (x) với thuế suất 10%.",
+    "embedding_text": "[chapter III | article 26] vượt trên 20 triệu đồng theo từng lần trúng thưởng, nhận thừa kế, quà tặng tại Việt Nam nhân (x) với thuế suất 10%."
+  },
+  {
+    "id": "section:chapter III|article 27",
+    "type": "section",
+    "title": "article 27",
+    "path": [
+      "chapter III",
+      "article 27"
+    ]
+  },
+  {
+    "id": "section:chapter III|article 27|clause 1",
+    "type": "section",
+    "title": "clause 1",
+    "path": [
+      "chapter III",
+      "article 27",
+      "clause 1"
+    ]
+  },
+  {
+    "id": "chunk:chapter III|article 27|clause 1:1",
+    "type": "chunk",
+    "path": [
+      "chapter III",
+      "article 27",
+      "clause 1"
+    ],
+    "chunk_id": 1,
+    "text": "1. Thuế thu nhập cá nhân đối với thu nhập khác của cá nhân không cư trú quy định tại các điểm a, b và c khoản 10 Điều 3",
+    "embedding_text": "[chapter III | article 27 | clause 1] 1. Thuế thu nhập cá nhân đối với thu nhập khác của cá nhân không cư trú quy định tại các điểm a, b và c khoản 10 Điều 3"
+  },
+  {
+    "id": "chunk:chapter III|article 27|clause 1:2",
+    "type": "chunk",
+    "path": [
+      "chapter III",
+      "article 27",
+      "clause 1"
+    ],
+    "chunk_id": 2,
+    "text": "c khoản 10 Điều 3 của Luật này được xác định bằng thu nhập tính thuế nhân (x) với thuế suất 5%. Thu nhập tính thuế là phần thu nhập",
+    "embedding_text": "[chapter III | article 27 | clause 1] c khoản 10 Điều 3 của Luật này được xác định bằng thu nhập tính thuế nhân (x) với thuế suất 5%. Thu nhập tính thuế là phần thu nhập"
+  },
+  {
+    "id": "chunk:chapter III|article 27|clause 1:3",
+    "type": "chunk",
+    "path": [
+      "chapter III",
+      "article 27",
+      "clause 1"
+    ],
+    "chunk_id": 3,
+    "text": "thuế là phần thu nhập vượt trên 20 triệu đồng mà người nộp thuế nhận được theo từng lần phát sinh.",
+    "embedding_text": "[chapter III | article 27 | clause 1] thuế là phần thu nhập vượt trên 20 triệu đồng mà người nộp thuế nhận được theo từng lần phát sinh."
+  },
+  {
+    "id": "section:chapter III|article 27|clause 2",
+    "type": "section",
+    "title": "clause 2",
+    "path": [
+      "chapter III",
+      "article 27",
+      "clause 2"
+    ]
+  },
+  {
+    "id": "chunk:chapter III|article 27|clause 2:1",
+    "type": "chunk",
+    "path": [
+      "chapter III",
+      "article 27",
+      "clause 2"
+    ],
+    "chunk_id": 1,
+    "text": "2. Thuế thu nhập cá nhân đối với thu nhập khác của cá nhân không cư trú quy định tại điểm d và điểm đ khoản 10 Điều 3 của",
+    "embedding_text": "[chapter III | article 27 | clause 2] 2. Thuế thu nhập cá nhân đối với thu nhập khác của cá nhân không cư trú quy định tại điểm d và điểm đ khoản 10 Điều 3 của"
+  },
+  {
+    "id": "chunk:chapter III|article 27|clause 2:2",
+    "type": "chunk",
+    "path": [
+      "chapter III",
+      "article 27",
+      "clause 2"
+    ],
+    "chunk_id": 2,
+    "text": "khoản 10 Điều 3 của Luật này được xác định bằng giá chuyển nhượng nhân (x) với thuế suất 0,1%.",
+    "embedding_text": "[chapter III | article 27 | clause 2] khoản 10 Điều 3 của Luật này được xác định bằng giá chuyển nhượng nhân (x) với thuế suất 0,1%."
+  },
+  {
+    "id": "section:chapter III|article 27|clause 3",
+    "type": "section",
+    "title": "clause 3",
+    "path": [
+      "chapter III",
+      "article 27",
+      "clause 3"
+    ]
+  },
+  {
+    "id": "chunk:chapter III|article 27|clause 3:1",
+    "type": "chunk",
+    "path": [
+      "chapter III",
+      "article 27",
+      "clause 3"
+    ],
+    "chunk_id": 1,
+    "text": "3. Chính phủ quy định chi tiết Điều này.",
+    "embedding_text": "[chapter III | article 27 | clause 3] 3. Chính phủ quy định chi tiết Điều này."
+  },
+  {
+    "id": "section:chapter III|article 28",
+    "type": "section",
+    "title": "article 28",
+    "path": [
+      "chapter III",
+      "article 28"
+    ]
+  },
+  {
+    "id": "section:chapter III|article 28|clause 1",
+    "type": "section",
+    "title": "clause 1",
+    "path": [
+      "chapter III",
+      "article 28",
+      "clause 1"
+    ]
+  },
+  {
+    "id": "chunk:chapter III|article 28|clause 1:1",
+    "type": "chunk",
+    "path": [
+      "chapter III",
+      "article 28",
+      "clause 1"
+    ],
+    "chunk_id": 1,
+    "text": "1. Thời điểm xác định thu nhập tính thuế đối với thu nhập quy định tại Điều 20 của Luật này là thời điểm cá nhân không cư trú nhận",
+    "embedding_text": "[chapter III | article 28 | clause 1] 1. Thời điểm xác định thu nhập tính thuế đối với thu nhập quy định tại Điều 20 của Luật này là thời điểm cá nhân không cư trú nhận"
+  },
+  {
+    "id": "chunk:chapter III|article 28|clause 1:2",
+    "type": "chunk",
+    "path": [
+      "chapter III",
+      "article 28",
+      "clause 1"
+    ],
+    "chunk_id": 2,
+    "text": "nhân không cư trú nhận được thu nhập hoặc thời điểm xuất hoá đơn bán hàng hoá, cung cấp dịch vụ.",
+    "embedding_text": "[chapter III | article 28 | clause 1] nhân không cư trú nhận được thu nhập hoặc thời điểm xuất hoá đơn bán hàng hoá, cung cấp dịch vụ."
+  },
+  {
+    "id": "section:chapter III|article 28|clause 2",
+    "type": "section",
+    "title": "clause 2",
+    "path": [
+      "chapter III",
+      "article 28",
+      "clause 2"
+    ]
+  },
+  {
+    "id": "chunk:chapter III|article 28|clause 2:1",
+    "type": "chunk",
+    "path": [
+      "chapter III",
+      "article 28",
+      "clause 2"
+    ],
+    "chunk_id": 1,
+    "text": "2. Thời điểm xác định thu nhập tính thuế đối với thu nhập quy định tại các điều 21, 22, 25, 26 và 27 của Luật này là thời điểm",
+    "embedding_text": "[chapter III | article 28 | clause 2] 2. Thời điểm xác định thu nhập tính thuế đối với thu nhập quy định tại các điều 21, 22, 25, 26 và 27 của Luật này là thời điểm"
+  },
+  {
+    "id": "chunk:chapter III|article 28|clause 2:2",
+    "type": "chunk",
+    "path": [
+      "chapter III",
+      "article 28",
+      "clause 2"
+    ],
+    "chunk_id": 2,
+    "text": "Luật này là thời điểm tổ chức, cá nhân tại Việt Nam trả thu nhập cho cá nhân không cư trú hoặc thời điểm cá nhân không cư trú nhận",
+    "embedding_text": "[chapter III | article 28 | clause 2] Luật này là thời điểm tổ chức, cá nhân tại Việt Nam trả thu nhập cho cá nhân không cư trú hoặc thời điểm cá nhân không cư trú nhận"
+  },
+  {
+    "id": "chunk:chapter III|article 28|clause 2:3",
+    "type": "chunk",
+    "path": [
+      "chapter III",
+      "article 28",
+      "clause 2"
+    ],
+    "chunk_id": 3,
+    "text": "nhân không cư trú nhận được thu nhập.",
+    "embedding_text": "[chapter III | article 28 | clause 2] nhân không cư trú nhận được thu nhập."
+  },
+  {
+    "id": "section:chapter III|article 28|clause 3",
+    "type": "section",
+    "title": "clause 3",
+    "path": [
+      "chapter III",
+      "article 28",
+      "clause 3"
+    ]
+  },
+  {
+    "id": "chunk:chapter III|article 28|clause 3:1",
+    "type": "chunk",
+    "path": [
+      "chapter III",
+      "article 28",
+      "clause 3"
+    ],
+    "chunk_id": 1,
+    "text": "3. Thời điểm xác định thu nhập tính thuế đối với thu nhập quy định tại Điều 23 của Luật này là thời điểm giao dịch hoàn thành theo quy",
+    "embedding_text": "[chapter III | article 28 | clause 3] 3. Thời điểm xác định thu nhập tính thuế đối với thu nhập quy định tại Điều 23 của Luật này là thời điểm giao dịch hoàn thành theo quy"
+  },
+  {
+    "id": "chunk:chapter III|article 28|clause 3:2",
+    "type": "chunk",
+    "path": [
+      "chapter III",
+      "article 28",
+      "clause 3"
+    ],
+    "chunk_id": 2,
+    "text": "dịch hoàn thành theo quy định của pháp luật.",
+    "embedding_text": "[chapter III | article 28 | clause 3] dịch hoàn thành theo quy định của pháp luật."
+  },
+  {
+    "id": "section:chapter III|article 28|clause 4",
+    "type": "section",
+    "title": "clause 4",
+    "path": [
+      "chapter III",
+      "article 28",
+      "clause 4"
+    ]
+  },
+  {
+    "id": "chunk:chapter III|article 28|clause 4:1",
+    "type": "chunk",
+    "path": [
+      "chapter III",
+      "article 28",
+      "clause 4"
+    ],
+    "chunk_id": 1,
+    "text": "4. Thời điểm xác định thu nhập tính thuế đối với thu nhập quy định tại Điều 24 của Luật này là thời điểm hợp đồng chuyển nhượng có hiệu",
+    "embedding_text": "[chapter III | article 28 | clause 4] 4. Thời điểm xác định thu nhập tính thuế đối với thu nhập quy định tại Điều 24 của Luật này là thời điểm hợp đồng chuyển nhượng có hiệu"
+  },
+  {
+    "id": "chunk:chapter III|article 28|clause 4:2",
+    "type": "chunk",
+    "path": [
+      "chapter III",
+      "article 28",
+      "clause 4"
+    ],
+    "chunk_id": 2,
+    "text": "đồng chuyển nhượng có hiệu lực theo quy định của pháp luật hoặc thời điểm đăng ký quyền sử dụng, quyền sở hữu bất động sản.",
+    "embedding_text": "[chapter III | article 28 | clause 4] đồng chuyển nhượng có hiệu lực theo quy định của pháp luật hoặc thời điểm đăng ký quyền sử dụng, quyền sở hữu bất động sản."
+  },
+  {
+    "id": "section:chapter III|article 28|clause 5",
+    "type": "section",
+    "title": "clause 5",
+    "path": [
+      "chapter III",
+      "article 28",
+      "clause 5"
+    ]
+  },
+  {
+    "id": "chunk:chapter III|article 28|clause 5:1",
+    "type": "chunk",
+    "path": [
+      "chapter III",
+      "article 28",
+      "clause 5"
+    ],
+    "chunk_id": 1,
+    "text": "5. Chính phủ quy định chi tiết Điều này.",
+    "embedding_text": "[chapter III | article 28 | clause 5] 5. Chính phủ quy định chi tiết Điều này."
+  },
+  {
+    "id": "section:chapter IV",
+    "type": "section",
+    "title": "chapter IV",
+    "path": [
+      "chapter IV"
+    ]
+  },
+  {
+    "id": "section:chapter IV|article 29",
+    "type": "section",
+    "title": "article 29",
+    "path": [
+      "chapter IV",
+      "article 29"
+    ]
+  },
+  {
+    "id": "section:chapter IV|article 29|clause 1",
+    "type": "section",
+    "title": "clause 1",
+    "path": [
+      "chapter IV",
+      "article 29",
+      "clause 1"
+    ]
+  },
+  {
+    "id": "chunk:chapter IV|article 29|clause 1:1",
+    "type": "chunk",
+    "path": [
+      "chapter IV",
+      "article 29",
+      "clause 1"
+    ],
+    "chunk_id": 1,
+    "text": "1. Luật này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2026, trừ quy định tại khoản 2 Điều này.",
+    "embedding_text": "[chapter IV | article 29 | clause 1] 1. Luật này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2026, trừ quy định tại khoản 2 Điều này."
+  },
+  {
+    "id": "section:chapter IV|article 29|clause 2",
+    "type": "section",
+    "title": "clause 2",
+    "path": [
+      "chapter IV",
+      "article 29",
+      "clause 2"
+    ]
+  },
+  {
+    "id": "chunk:chapter IV|article 29|clause 2:1",
+    "type": "chunk",
+    "path": [
+      "chapter IV",
+      "article 29",
+      "clause 2"
+    ],
+    "chunk_id": 1,
+    "text": "2. Các quy định liên quan đến thu nhập từ kinh doanh, từ tiền lương, tiền công của cá nhân cư trú áp dụng từ kỳ tính thuế năm 2026.",
+    "embedding_text": "[chapter IV | article 29 | clause 2] 2. Các quy định liên quan đến thu nhập từ kinh doanh, từ tiền lương, tiền công của cá nhân cư trú áp dụng từ kỳ tính thuế năm 2026."
+  },
+  {
+    "id": "section:chapter IV|article 29|clause 3",
+    "type": "section",
+    "title": "clause 3",
+    "path": [
+      "chapter IV",
+      "article 29",
+      "clause 3"
+    ]
+  },
+  {
+    "id": "chunk:chapter IV|article 29|clause 3:1",
+    "type": "chunk",
+    "path": [
+      "chapter IV",
+      "article 29",
+      "clause 3"
+    ],
+    "chunk_id": 1,
+    "text": "3. Luật Thuế thu nhập cá nhân số 04/2007/QH12 đã được sửa đổi, bổ sung một số điều theo Luật số 26/2012/QH13, Luật số 71/2014/QH13, Luật số 31/2024/QH15, Luật số",
+    "embedding_text": "[chapter IV | article 29 | clause 3] 3. Luật Thuế thu nhập cá nhân số 04/2007/QH12 đã được sửa đổi, bổ sung một số điều theo Luật số 26/2012/QH13, Luật số 71/2014/QH13, Luật số 31/2024/QH15, Luật số"
+  },
+  {
+    "id": "chunk:chapter IV|article 29|clause 3:2",
+    "type": "chunk",
+    "path": [
+      "chapter IV",
+      "article 29",
+      "clause 3"
+    ],
+    "chunk_id": 2,
+    "text": "Luật số 31/2024/QH15, Luật số 48/2024/QH15, Luật số 56/2025/QH15, Luật số 71/2025/QH15, Luật số 93/2025/QH15 hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành; riêng các",
+    "embedding_text": "[chapter IV | article 29 | clause 3] Luật số 31/2024/QH15, Luật số 48/2024/QH15, Luật số 56/2025/QH15, Luật số 71/2025/QH15, Luật số 93/2025/QH15 hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành; riêng các"
+  },
+  {
+    "id": "chunk:chapter IV|article 29|clause 3:3",
+    "type": "chunk",
+    "path": [
+      "chapter IV",
+      "article 29",
+      "clause 3"
+    ],
+    "chunk_id": 3,
+    "text": "lực thi hành; riêng các quy định liên quan đến thu nhập từ kinh doanh, từ tiền lương, tiền công của cá nhân cư trú hết hiệu lực thi hành",
+    "embedding_text": "[chapter IV | article 29 | clause 3] lực thi hành; riêng các quy định liên quan đến thu nhập từ kinh doanh, từ tiền lương, tiền công của cá nhân cư trú hết hiệu lực thi hành"
+  },
+  {
+    "id": "chunk:chapter IV|article 29|clause 3:4",
+    "type": "chunk",
+    "path": [
+      "chapter IV",
+      "article 29",
+      "clause 3"
+    ],
+    "chunk_id": 4,
+    "text": "hết hiệu lực thi hành từ kỳ tính thuế năm 2026.",
+    "embedding_text": "[chapter IV | article 29 | clause 3] hết hiệu lực thi hành từ kỳ tính thuế năm 2026."
+  },
+  {
+    "id": "section:chapter IV|article 29|clause 4",
+    "type": "section",
+    "title": "clause 4",
+    "path": [
+      "chapter IV",
+      "article 29",
+      "clause 4"
+    ]
+  },
+  {
+    "id": "chunk:chapter IV|article 29|clause 4:1",
+    "type": "chunk",
+    "path": [
+      "chapter IV",
+      "article 29",
+      "clause 4"
+    ],
+    "chunk_id": 1,
+    "text": "4. Trường hợp có quy định khác nhau về ưu đãi thuế giữa Luật này với Luật Thủ đô, nghị quyết của Quốc hội và giải pháp quy định tại",
+    "embedding_text": "[chapter IV | article 29 | clause 4] 4. Trường hợp có quy định khác nhau về ưu đãi thuế giữa Luật này với Luật Thủ đô, nghị quyết của Quốc hội và giải pháp quy định tại"
+  },
+  {
+    "id": "chunk:chapter IV|article 29|clause 4:2",
+    "type": "chunk",
+    "path": [
+      "chapter IV",
+      "article 29",
+      "clause 4"
+    ],
+    "chunk_id": 2,
+    "text": "giải pháp quy định tại điểm h khoản 8 Điều 10 của Luật Tổ chức Chính phủ thì áp dụng theo Luật Thủ đô, nghị quyết của Quốc hội và",
+    "embedding_text": "[chapter IV | article 29 | clause 4] giải pháp quy định tại điểm h khoản 8 Điều 10 của Luật Tổ chức Chính phủ thì áp dụng theo Luật Thủ đô, nghị quyết của Quốc hội và"
+  },
+  {
+    "id": "chunk:chapter IV|article 29|clause 4:3",
+    "type": "chunk",
+    "path": [
+      "chapter IV",
+      "article 29",
+      "clause 4"
+    ],
+    "chunk_id": 3,
+    "text": "quyết của Quốc hội và giải pháp quy định tại điểm h khoản 8 Điều 10 của Luật Tổ chức Chính phủ. Trường hợp quy định tại Luật này ưu",
+    "embedding_text": "[chapter IV | article 29 | clause 4] quyết của Quốc hội và giải pháp quy định tại điểm h khoản 8 Điều 10 của Luật Tổ chức Chính phủ. Trường hợp quy định tại Luật này ưu"
+  },
+  {
+    "id": "chunk:chapter IV|article 29|clause 4:4",
+    "type": "chunk",
+    "path": [
+      "chapter IV",
+      "article 29",
+      "clause 4"
+    ],
+    "chunk_id": 4,
+    "text": "định tại Luật này ưu đãi hơn thì người nộp thuế được lựa chọn áp dụng mức ưu đãi có lợi nhất. _Luật này được Quốc hội nước Cộng hoà",
+    "embedding_text": "[chapter IV | article 29 | clause 4] định tại Luật này ưu đãi hơn thì người nộp thuế được lựa chọn áp dụng mức ưu đãi có lợi nhất. _Luật này được Quốc hội nước Cộng hoà"
+  },
+  {
+    "id": "chunk:chapter IV|article 29|clause 4:5",
+    "type": "chunk",
+    "path": [
+      "chapter IV",
+      "article 29",
+      "clause 4"
+    ],
+    "chunk_id": 5,
+    "text": "Quốc hội nước Cộng hoà xã hội chủ nghĩa Việt Nam khóa XV, Kỳ họp thứ 10 thông qua ngày 10 tháng 12 năm 2025._ **CHỦ TỊCH QUỐC HỘI** **Trần",
+    "embedding_text": "[chapter IV | article 29 | clause 4] Quốc hội nước Cộng hoà xã hội chủ nghĩa Việt Nam khóa XV, Kỳ họp thứ 10 thông qua ngày 10 tháng 12 năm 2025._ **CHỦ TỊCH QUỐC HỘI** **Trần"
+  },
+  {
+    "id": "chunk:chapter IV|article 29|clause 4:6",
+    "type": "chunk",
+    "path": [
+      "chapter IV",
+      "article 29",
+      "clause 4"
+    ],
+    "chunk_id": 6,
+    "text": "**CHỦ TỊCH QUỐC HỘI** **Trần Thanh Mẫn**",
+    "embedding_text": "[chapter IV | article 29 | clause 4] **CHỦ TỊCH QUỐC HỘI** **Trần Thanh Mẫn**"
+  }
+]
