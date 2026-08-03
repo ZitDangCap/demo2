@@ -7,7 +7,7 @@ class ConsensusScorer:
     def __init__(
         self,
         input_dir="h12_output_multi_qwen",
-        output_file="consensus.json",
+        output_file="h12_output_multi_qwen/consensus.json",
         literal_weight=0.4,
         semantic_weight=0.4,
         exception_weight=0.2
