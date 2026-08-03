@@ -9,8 +9,8 @@ class ConsensusFilter:
 
     def __init__(
         self,
-        input_file="h14_output_consensus/consensus.json",
-        output_file="h15_output_filter/filtered_consensus.json",
+        input_file="h12_output_multi/consensus.json",
+        output_file="h12_output_multi/filtered_consensus.json",
         delta=2.0,
         top_k=8
     ):
