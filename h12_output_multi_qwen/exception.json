@@ -1,0 +1,54 @@
+[
+  {
+    "node_id": "chunk:chapter II|article 7|clause 2|point c:1",
+    "score": 8
+  },
+  {
+    "node_id": "chunk:chapter II|article 13|clause 1:4",
+    "score": 10
+  },
+  {
+    "node_id": "section:chapter II|article 7|clause 2|point b:1",
+    "score": 2
+  },
+  {
+    "node_id": "chunk:chapter II|article 7|clause 2|point d:1",
+    "score": 2
+  },
+  {
+    "node_id": "chunk:chapter II|article 7|clause 2|point d:2",
+    "score": 1
+  },
+  {
+    "node_id": "section:chapter II|article 7|clause 2|point c:1",
+    "score": 8
+  },
+  {
+    "node_id": "chunk:chapter III|article 23|clause 1:4",
+    "score": 10
+  },
+  {
+    "node_id": "section:chapter III|article 23|clause 1:5",
+    "score": 10
+  },
+  {
+    "node_id": "chunk:chapter III|article 23|clause 1:5",
+    "score": 10
+  },
+  {
+    "node_id": "chunk:chapter III|article 23|clause 1:6",
+    "score": 1
+  },
+  {
+    "node_id": "section:chapter II|article 7|clause 2|point b:1",
+    "score": 2
+  },
+  {
+    "node_id": "section:chapter II|article 7|clause 2|point d:1",
+    "score": 2
+  },
+  {
+    "node_id": "section:chapter II|article 7|clause 2|point d:2",
+    "score": 1
+  }
+]

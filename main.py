@@ -13,6 +13,10 @@ from h13_agents.literal_agent import LiteralAgent
 from h13_agents.semantic_agent import SemanticAgent
 from h13_agents.exception_agent import ExceptionAgent
 
+from h14_consensus import consensus
+
+
+
 
 # ======================================================
 # OUTPUT FOLDER
@@ -124,10 +128,17 @@ def run_pipeline(question: str):
     print("\n--- EXCEPTION AGENT RESULT ---")
     print(json.dumps(exception_result, indent=2, ensure_ascii=False))
 
+    print("\n[5/5] Đang tính Consensus Score...")
+
+    consensus_result = consensus.compute()
+
+    print("-> Consensus hoàn tất.")
+
     return {
         "literal": literal_result,
         "semantic": semantic_result,
         "exception": exception_result,
+        "consensus": consensus_result,
         "graph_result": graph_result
     }
 
