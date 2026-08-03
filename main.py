@@ -14,6 +14,7 @@ from h13_agents.semantic_agent import SemanticAgent
 from h13_agents.exception_agent import ExceptionAgent
 
 from h14_consensus import consensus
+from h15_filter import filter_consensus
 
 
 
@@ -128,11 +129,17 @@ def run_pipeline(question: str):
     print("\n--- EXCEPTION AGENT RESULT ---")
     print(json.dumps(exception_result, indent=2, ensure_ascii=False))
 
-    print("\n[5/5] Đang tính Consensus Score...")
+    print("\n Đang tính Consensus Score...")
 
     consensus_result = consensus.compute()
 
     print("-> Consensus hoàn tất.")
+
+    print("\n Đang lọc Candidate Nodes...")
+
+    filtered_nodes = filter_consensus.compute()
+
+    print(f"-> Giữ lại {len(filtered_nodes)} Candidate Nodes.")
 
     return {
         "literal": literal_result,
