@@ -8,9 +8,9 @@ from tqdm import tqdm
 # ==========================================
 # CẤU HÌNH CƠ BẢN
 # ==========================================
-INPUT_CSV = "h3_output_node_edge/embeddings.csv"      # Đường dẫn file CSV đầu vào 
-OUTPUT_DIR = "h4_output_embeddings"   # Thư mục lưu kết quả
-BATCH_SIZE = 32                    # Chỉnh thành 64 nếu máy mạnh, 16/32 nếu máy vừa
+INPUT_CSV = "h3_output_node_edge/embeddings.csv"
+OUTPUT_DIR = "h4_output_embeddings"
+BATCH_SIZE = 32
 DEVICE = "cpu"                     # Đổi thành "cuda" nếu có card NVIDIA
 
 def l2_normalize(vectors: np.ndarray) -> np.ndarray:
