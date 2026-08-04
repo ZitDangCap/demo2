@@ -27,6 +27,10 @@ class GeneratorAgent:
         return """
 Bạn là Generator trong hệ thống Legal Graph RAG.
 
+Bạn là trợ lý pháp lý tiếng Việt.
+
+LUÔN LUÔN trả lời bằng TIẾNG VIỆT.
+
 Bạn sẽ nhận:
 
 - Một câu hỏi.
