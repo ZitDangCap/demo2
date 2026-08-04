@@ -7,6 +7,7 @@ from model.model_graph import graph
 from h8_query_processor import QueryProcessor
 from h9_hybrid_search_algorithm import hybrid_search_nodes
 from h11_graph_expansion import expand_subgraph_raw
+from concurrent.futures import ThreadPoolExecutor
 
 # Import 3 Agents
 from h13_agents.literal_agent import LiteralAgent
@@ -17,6 +18,10 @@ from h13_agents.generator_agent import generator
 
 from h14_consensus import consensus
 from h15_filter import filter_consensus
+
+literal_agent = LiteralAgent()
+semantic_agent = SemanticAgent()
+exception_agent = ExceptionAgent()
 
 
 
@@ -96,20 +101,38 @@ def run_pipeline(question: str):
     # --------------------------------------------------
     print("\n[4/4] Đang thực thi 3 Agents đánh giá...")
 
-    literal_agent = LiteralAgent()
-    semantic_agent = SemanticAgent()
-    exception_agent = ExceptionAgent()
+    
 
-    print("  - Running Literal Agent...")
-    literal_result = literal_agent.run(question, graph_result)
+    print("  - Running Literal / Semantic / Exception Agent...")
+
+    with ThreadPoolExecutor(max_workers=3) as executor:
+
+        future_literal = executor.submit(
+            literal_agent.run,
+            question,
+            graph_result
+        )
+
+        future_semantic = executor.submit(
+            semantic_agent.run,
+            question,
+            graph_result
+        )
+
+        future_exception = executor.submit(
+            exception_agent.run,
+            question,
+            graph_result
+        )
+
+        # Chờ cả 3 Agent hoàn thành
+        literal_result = future_literal.result()
+        semantic_result = future_semantic.result()
+        exception_result = future_exception.result()
+
+    # Lưu file sau khi cả 3 Agent chạy xong
     save_json("literal.json", literal_result)
-
-    print("  - Running Semantic Agent...")
-    semantic_result = semantic_agent.run(question, graph_result)
     save_json("semantic.json", semantic_result)
-
-    print("  - Running Exception Agent...")
-    exception_result = exception_agent.run(question, graph_result)
     save_json("exception.json", exception_result)
 
     print(f"\n-> Đã lưu kết quả vào thư mục: {OUTPUT_DIR}")
