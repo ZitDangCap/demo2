@@ -1,11 +1,12 @@
 from .base_agent import BaseAgent
-
+from model.model_llm import gpu1_llm
 
 class SemanticAgent(BaseAgent):
 
     def __init__(self):
         super().__init__(
             name="Semantic Agent",
+            llm=gpu1_llm,
             temperature=0.2
         )
 

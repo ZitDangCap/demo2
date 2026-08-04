@@ -1,6 +1,6 @@
 import json
 import re
-from model.model_llm import llm
+
 
 
 class BaseAgent:
@@ -12,9 +12,11 @@ class BaseAgent:
     def __init__(
         self,
         name: str,
+        llm,
         temperature: float = 0.1
     ):
         self.name = name
+        self.llm = llm
         self.temperature = temperature
 
     def get_system_prompt(self) -> str:
@@ -105,7 +107,7 @@ GRAPH DATA (DỮ LIỆU ĐỒ THỊ BẠN CẦN ĐÁNH GIÁ):
         graph_result: dict
     ) -> list:
 
-        response = llm.generate(
+        response = self.llm.generate(
             system_prompt=self.get_system_prompt(),
             user_prompt=self.build_user_prompt(
                 question,

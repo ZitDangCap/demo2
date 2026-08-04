@@ -69,7 +69,7 @@ def run_pipeline(question: str):
     seed_nodes = hybrid_search_nodes(
         query_text=processed_query["query_text"],
         query_vector=processed_query["query_vector"],
-        top_k=5,
+        top_k=3,
         alpha=0.7
     )
 
@@ -154,7 +154,7 @@ def run_pipeline(question: str):
     generator_result = generator.run(question)
 
     print("-> Generator hoàn tất.")
-    
+
     return {
         "literal": literal_result,
         "semantic": semantic_result,

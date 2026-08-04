@@ -2,7 +2,7 @@ import json
 from pathlib import Path
 
 from model.model_graph import graph
-from model.model_llm import llm
+from model.model_llm import gpu1_llm
 
 
 class JudgeAgent:
@@ -13,6 +13,7 @@ class JudgeAgent:
         output_file="h12_output_multi_qwen/judge_context.json",
         temperature=0.0
     ):
+        self.llm = gpu1_llm
         self.input_file = Path(input_file)
         self.output_file = Path(output_file)
         self.temperature = temperature
@@ -115,7 +116,7 @@ Content:
             candidates
         )
 
-        response = llm.generate(
+        response = self.llm.generate(
             system_prompt=self.get_system_prompt(),
             user_prompt=prompt,
             temperature=self.temperature

@@ -2,7 +2,7 @@ import json
 from pathlib import Path
 
 from model.model_graph import graph
-from model.model_llm import llm
+from model.model_llm import gpu0_llm
 
 
 class GeneratorAgent:
@@ -13,6 +13,7 @@ class GeneratorAgent:
         output_file="h12_output_multi_qwen/final_answer.json",
         temperature=0.2
     ):
+        self.llm = gpu0_llm
         self.input_file = Path(input_file)
         self.output_file = Path(output_file)
         self.temperature = temperature
@@ -30,6 +31,8 @@ Bạn là Generator trong hệ thống Legal Graph RAG.
 Bạn là trợ lý pháp lý tiếng Việt.
 
 LUÔN LUÔN trả lời bằng TIẾNG VIỆT.
+
+Tuyệt đối không trả lời bằng tiếng Anh.
 
 Bạn sẽ nhận:
 
@@ -113,7 +116,7 @@ Content:
             candidates
         )
 
-        response = llm.generate(
+        response = self.llm.generate(
             system_prompt=self.get_system_prompt(),
             user_prompt=prompt,
             temperature=self.temperature

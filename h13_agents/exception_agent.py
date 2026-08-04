@@ -1,11 +1,12 @@
 from .base_agent import BaseAgent
-
+from model.model_llm import gpu0_llm
 
 class ExceptionAgent(BaseAgent):
 
     def __init__(self):
         super().__init__(
             name="Exception Agent",
+            llm=gpu0_llm,
             temperature=0.1
         )
 

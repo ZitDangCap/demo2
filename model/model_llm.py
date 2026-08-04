@@ -11,6 +11,7 @@ class LLMModel:
     def __init__(
         self,
         model_name: str = "Qwen/Qwen2.5-3B-Instruct",
+        device: str = "cuda:0"
     ):
         print(f"[LLM] Loading model: {model_name}...")
 
@@ -20,9 +21,12 @@ class LLMModel:
 
         self.model = AutoModelForCausalLM.from_pretrained(
             model_name,
-            dtype=torch.bfloat16,
-            device_map="auto"
+            torch_dtype=torch.bfloat16
         )
+
+        self.model.to(self.device)
+
+        self.model.eval()
 
         self.model_name = model_name
 
@@ -88,7 +92,13 @@ class LLMModel:
         ).strip()
 
         return answer
+    
+print("\nLoading GPU0 model...")
+gpu0_llm = LLMModel(
+    device="cuda:0"
+)
 
-
-# Singleton
-llm = LLMModel()
+print("\nLoading GPU1 model...")
+gpu1_llm = LLMModel(
+    device="cuda:1"
+)
