@@ -5,13 +5,13 @@ from model.model_graph import graph
 from model.model_llm import llm
 
 
-class JudgeAgent:
+class GeneratorAgent:
 
     def __init__(
         self,
-        input_file="h12_output_multi_qwen/filtered_consensus.json",
-        output_file="h12_output_multi_qwen/judge_context.json",
-        temperature=0.0
+        input_file="h12_output_multi_qwen/judge_context.json",
+        output_file="h12_output_multi_qwen/final_answer.json",
+        temperature=0.2
     ):
         self.input_file = Path(input_file)
         self.output_file = Path(output_file)
@@ -25,31 +25,28 @@ class JudgeAgent:
     def get_system_prompt(self):
 
         return """
-Bạn là Judge Agent trong hệ thống Legal Graph RAG.
+Bạn là Generator trong hệ thống Legal Graph RAG.
 
 Bạn sẽ nhận:
 
-- Câu hỏi.
-- Danh sách Candidate Nodes.
-- Consensus Score của từng node. Hãy tham khảo điểm này để củng cố đánh giá của bạn.
+- Một câu hỏi.
+- Danh sách các đoạn văn bản pháp luật đã được Judge lựa chọn.
 
-Nhiệm vụ:
+NHIỆM VỤ
 
-1. Chọn những node cần thiết nhất.
-2. Loại node dư thừa.
-3. Loại node cha nếu node con đã chứa đầy đủ nội dung.
-4. Giữ lại ngoại lệ nếu cần.
-5. Sắp xếp các node theo thứ tự mức độ quan trọng giảm dần. Phần tử đầu tiên trong danh sách là node quan trọng nhất.
+1. Chỉ sử dụng thông tin trong các đoạn văn bản được cung cấp.
+2. Không sử dụng kiến thức ngoài.
+3. Không tự suy diễn hoặc bịa thêm thông tin.
+4. Tổng hợp thành một câu trả lời đầy đủ, mạch lạc.
+5. Nếu dữ liệu không đủ để trả lời thì phải nói rõ.
 
-KHÔNG trả lời câu hỏi.
+OUTPUT
 
-Output DUY NHẤT là JSON.
+Chỉ trả về DUY NHẤT một JSON hợp lệ.
 
-[
-    {
-    "node_id":"...",
-    }
-]
+{
+    "answer": "..."
+}
 """
 
     def build_context(
@@ -64,7 +61,7 @@ QUESTION:
 {question}
 
 ========================
-CANDIDATE NODES
+LEGAL CONTEXT
 ========================
 
 """
@@ -80,9 +77,6 @@ Node [{idx}]
 
 Node ID:
 {item["node_id"]}
-
-Consensus Score:
-{item["consensus_score"]}
 
 Title:
 {node.get("title","")}
@@ -123,6 +117,11 @@ Content:
 
         result = json.loads(response)
 
+        print("\n" + "=" * 60)
+        print("FINAL ANSWER")
+        print("=" * 60)
+        print(result["answer"])
+
         with open(
             self.output_file,
             "w",
@@ -139,4 +138,4 @@ Content:
         return result
 
 
-judge = JudgeAgent()
+generator = GeneratorAgent()

@@ -13,6 +13,7 @@ from h13_agents.literal_agent import LiteralAgent
 from h13_agents.semantic_agent import SemanticAgent
 from h13_agents.exception_agent import ExceptionAgent
 from h13_agents.judge_agent import judge
+from h13_agents.generator_agent import generator
 
 from h14_consensus import consensus
 from h15_filter import filter_consensus
@@ -147,6 +148,13 @@ def run_pipeline(question: str):
     judge_result = judge.run(question)
 
     print("-> Judge hoàn tất.")
+
+    print("\nGenerator đang sinh câu trả lời...")
+
+    generator_result = generator.run(question)
+
+    print("-> Generator hoàn tất.")
+    
     return {
         "literal": literal_result,
         "semantic": semantic_result,
