@@ -13,6 +13,12 @@ class LLMModel:
         model_name: str = "Qwen/Qwen2.5-3B-Instruct",
         device: str = "cuda:0"
     ):
+        
+
+        self.model_name = model_name
+        
+        self.device = device
+        
         print(f"[LLM] Loading model: {model_name}...")
 
         self.tokenizer = AutoTokenizer.from_pretrained(
@@ -28,7 +34,6 @@ class LLMModel:
 
         self.model.eval()
 
-        self.model_name = model_name
 
         print(f"[LLM] Using model: {model_name}")
 
